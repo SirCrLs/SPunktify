@@ -1,0 +1,18 @@
+[
+    {
+    "id": "1",
+    "name": "This Is What the Edge of Your Seat Was Made For",
+    "artistId": "1",
+    "year": "2004",
+    "genre": "Hardcore",
+    "cover": "../music/Bring Me The Horizon/This Is What the Edge of Your Seat Was Made For/cover.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Count Your Blessings",
+    "artistId": "1",
+    "year": "2006",
+    "genre": "Deathcore",
+    "cover": "../music/Bring Me The Horizon/Count Your Blessings/cover.jpg"
+  }
+]
