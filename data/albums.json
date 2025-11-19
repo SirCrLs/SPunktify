@@ -5,7 +5,7 @@
     "artistId": "1",
     "year": "2004",
     "genre": "Hardcore",
-    "cover": "../music/Bring Me The Horizon/This Is What the Edge of Your Seat Was Made For/cover.jpg"
+    "cover": "../music/Bring Me The Horizon/This Is What the Edge of Your Seat Was Made For/cover.png"
   },
   {
     "id": "2",
@@ -13,6 +13,6 @@
     "artistId": "1",
     "year": "2006",
     "genre": "Deathcore",
-    "cover": "../music/Bring Me The Horizon/Count Your Blessings/cover.jpg"
+    "cover": "../music/Bring Me The Horizon/Count Your Blessings/cover.png"
   }
 ]
