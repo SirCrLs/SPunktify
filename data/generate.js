@@ -44,8 +44,10 @@ function walk() {
       albums.push(newAlbum);
 
       const songFiles = fs.readdirSync(albumPath);
+      numInAlbum = 1;
 
       songFiles.forEach(file => {
+
         if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
 
         const songUrl = `${albumPath}/${file}`; 
@@ -55,12 +57,18 @@ function walk() {
           title: file.replace(/\.(mp3|m4a)$/i, ""),
           artistIds: [newArtist.id],
           albumId: newAlbum.id,
+          numberInAlbum: numInAlbum,
           url: songUrl
         };
 
+        
+
         songs.push(newSong);
-        queue.push(newSong); // 👈 SE GUARDA EN EL ORDEN CORRECTO
+        queue.push(newSong);
+        numInAlbum++;
       });
+
+
     });
   });
 }

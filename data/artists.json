@@ -1,43 +1,43 @@
 [
   {
     "id": "1",
-    "name": "Bring Me The Horizon"
-  },
-  {
-    "id": "2",
-    "name": "Pierce The Veil"
-  },
-  {
-    "id": "3",
     "name": "Asking Alexandria"
   },
   {
-    "id": "4",
-    "name": "Lorna Shore"
-  },
-  {
-    "id": "5",
+    "id": "2",
     "name": "Bad Omens"
   },
   {
-    "id": "6",
-    "name": "Panic! At The Disco"
+    "id": "3",
+    "name": "Bring Me The Horizon"
   },
   {
-    "id": "7",
-    "name": "My Chemical Romance"
-  },
-  {
-    "id": "8",
-    "name": "Slipknot"
-  },
-  {
-    "id": "9",
+    "id": "4",
     "name": "Deftones"
   },
   {
-    "id": "10",
+    "id": "5",
     "name": "Linkin Park"
+  },
+  {
+    "id": "6",
+    "name": "Lorna Shore"
+  },
+  {
+    "id": "7",
+    "name": "Midori"
+  },
+  {
+    "id": "8",
+    "name": "My Chemical Romance"
+  },
+  {
+    "id": "9",
+    "name": "Panic! at the Disco"
+  },
+  {
+    "id": "10",
+    "name": "Pierce The Veil"
   },
   {
     "id": "11",
@@ -45,6 +45,6 @@
   },
   {
     "id": "12",
-    "name": "Midori"
+    "name": "Slipknot"
   }
 ]
