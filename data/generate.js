@@ -12,6 +12,36 @@ let artistId = 1;
 let albumId = 1;
 let songId = 1;
 
+function parseInfoFile(infoPath) {
+  try {
+    const content = fs.readFileSync(infoPath, "utf8");
+    const lines = content.split("\n");
+
+    const data = {};
+
+    lines.forEach(line => {
+      const [key, ...valueParts] = line.split("=");
+      if (!key || valueParts.length === 0) return;
+
+      const value = valueParts.join("=").trim();
+
+      // Si tiene comas → convertir en array
+      if (value.includes(",")) {
+        data[key.trim()] = value
+          .split(",")
+          .map(x => x.trim())
+          .filter(x => x.length > 0);
+      } else {
+        data[key.trim()] = value;
+      }
+    });
+
+    return data;
+  } catch (err) {
+    return {};
+  }
+}
+
 function walk() {
   const artistFolders = fs.readdirSync(basePath);
 
@@ -34,12 +64,17 @@ function walk() {
 
       if (!fs.statSync(albumPath).isDirectory()) return;
 
+      const infoPath = path.join(albumPath, "info.txt");
+      const extraData = fs.existsSync(infoPath)
+        ? parseInfoFile(infoPath)
+        : {};
+
       const newAlbum = {
         id: String(albumId++),
         name: albumFolder,
-        artistIds: [newArtist.id],
-        cover: `${albumPath}/cover.png`
-
+        artistIds: newArtist.id,
+        cover: `${albumPath}/cover.png`,
+        ...extraData
       };
       albums.push(newAlbum);
 
@@ -55,7 +90,7 @@ function walk() {
         const newSong = {
           id: String(songId++),
           title: file.replace(/\.(mp3|m4a)$/i, ""),
-          artistIds: [newArtist.id],
+          artistIds: newArtist.id,
           albumId: newAlbum.id,
           numberInAlbum: numInAlbum,
           url: songUrl

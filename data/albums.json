@@ -2,241 +2,185 @@
   {
     "id": "1",
     "name": "Reckless and Relentless",
-    "artistIds": [
-      "1"
-    ],
-    "cover": "..\\music\\Asking Alexandria\\Reckless and Relentless/cover.png"
+    "artistIds": "1",
+    "cover": "..\\music\\Asking Alexandria\\Reckless and Relentless/cover.png",
+    "genre": "Metalcore",
+    "year": "2011"
   },
   {
     "id": "2",
     "name": "Stand Up and Scream",
-    "artistIds": [
-      "1"
-    ],
-    "cover": "..\\music\\Asking Alexandria\\Stand Up and Scream/cover.png"
+    "artistIds": "1",
+    "cover": "..\\music\\Asking Alexandria\\Stand Up and Scream/cover.png",
+    "genre": "Metalcore",
+    "year": "2009"
   },
   {
     "id": "3",
     "name": "Bad Omens",
-    "artistIds": [
-      "2"
-    ],
+    "artistIds": "2",
     "cover": "..\\music\\Bad Omens\\Bad Omens/cover.png"
   },
   {
     "id": "4",
     "name": "Finding God Before God Finds Me",
-    "artistIds": [
-      "2"
-    ],
+    "artistIds": "2",
     "cover": "..\\music\\Bad Omens\\Finding God Before God Finds Me/cover.png"
   },
   {
     "id": "5",
     "name": "The Death of Peace of Mind",
-    "artistIds": [
-      "2"
-    ],
+    "artistIds": "2",
     "cover": "..\\music\\Bad Omens\\The Death of Peace of Mind/cover.png"
   },
   {
     "id": "6",
     "name": "Count Your Blessings",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\Count Your Blessings/cover.png"
   },
   {
     "id": "7",
     "name": "Post Human NeX GEn",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/cover.png"
   },
   {
     "id": "8",
     "name": "Post Human Survival Horror",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/cover.png"
   },
   {
     "id": "9",
     "name": "Sempiternal",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\Sempiternal/cover.png"
   },
   {
     "id": "10",
     "name": "Suicide Season",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\Suicide Season/cover.png"
   },
   {
     "id": "11",
     "name": "Thats the Spirit",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\Thats the Spirit/cover.png"
   },
   {
     "id": "12",
     "name": "There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/cover.png"
   },
   {
     "id": "13",
     "name": "This Is What the Edge of Your Seat Was Made For",
-    "artistIds": [
-      "3"
-    ],
+    "artistIds": "3",
     "cover": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/cover.png"
   },
   {
     "id": "14",
     "name": "Around the Fur",
-    "artistIds": [
-      "4"
-    ],
+    "artistIds": "4",
     "cover": "..\\music\\Deftones\\Around the Fur/cover.png"
   },
   {
     "id": "15",
     "name": "Diamond Eyes",
-    "artistIds": [
-      "4"
-    ],
+    "artistIds": "4",
     "cover": "..\\music\\Deftones\\Diamond Eyes/cover.png"
   },
   {
     "id": "16",
     "name": "Meteora",
-    "artistIds": [
-      "5"
-    ],
+    "artistIds": "5",
     "cover": "..\\music\\Linkin Park\\Meteora/cover.png"
   },
   {
     "id": "17",
     "name": "I Feel the Everblack Festering Within Me",
-    "artistIds": [
-      "6"
-    ],
+    "artistIds": "6",
     "cover": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/cover.png"
   },
   {
     "id": "18",
     "name": "Pain Remains",
-    "artistIds": [
-      "6"
-    ],
+    "artistIds": "6",
     "cover": "..\\music\\Lorna Shore\\Pain Remains/cover.png"
   },
   {
     "id": "19",
     "name": "Aratamemashite, hajimemashite, Midori desu",
-    "artistIds": [
-      "7"
-    ],
+    "artistIds": "7",
     "cover": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/cover.png"
   },
   {
     "id": "20",
     "name": "I Brought You My Bullets, You Brought Me Your Love",
-    "artistIds": [
-      "8"
-    ],
+    "artistIds": "8",
     "cover": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/cover.png"
   },
   {
     "id": "21",
     "name": "Three Cheers for Sweet Revenge",
-    "artistIds": [
-      "8"
-    ],
+    "artistIds": "8",
     "cover": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/cover.png"
   },
   {
     "id": "22",
     "name": "A Fever You Cant Sweat Out",
-    "artistIds": [
-      "9"
-    ],
+    "artistIds": "9",
     "cover": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/cover.png"
   },
   {
     "id": "23",
     "name": "A Flair for the Dramatic",
-    "artistIds": [
-      "10"
-    ],
+    "artistIds": "10",
     "cover": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/cover.png"
   },
   {
     "id": "24",
     "name": "Collide With the Sky",
-    "artistIds": [
-      "10"
-    ],
+    "artistIds": "10",
     "cover": "..\\music\\Pierce The Veil\\Collide With the Sky/cover.png"
   },
   {
     "id": "25",
     "name": "Misadventures",
-    "artistIds": [
-      "10"
-    ],
+    "artistIds": "10",
     "cover": "..\\music\\Pierce The Veil\\Misadventures/cover.png"
   },
   {
     "id": "26",
     "name": "Selfish Machines",
-    "artistIds": [
-      "10"
-    ],
+    "artistIds": "10",
     "cover": "..\\music\\Pierce The Veil\\Selfish Machines/cover.png"
   },
   {
     "id": "27",
     "name": "Fatalism",
-    "artistIds": [
-      "11"
-    ],
+    "artistIds": "11",
     "cover": "..\\music\\Polaris\\Fatalism/cover.png"
   },
   {
     "id": "28",
     "name": "The Death of Me",
-    "artistIds": [
-      "11"
-    ],
+    "artistIds": "11",
     "cover": "..\\music\\Polaris\\The Death of Me/cover.png"
   },
   {
     "id": "29",
     "name": "Iowa",
-    "artistIds": [
-      "12"
-    ],
+    "artistIds": "12",
     "cover": "..\\music\\Slipknot\\Iowa/cover.png"
   },
   {
     "id": "30",
     "name": "Slipknot",
-    "artistIds": [
-      "12"
-    ],
+    "artistIds": "12",
     "cover": "..\\music\\Slipknot\\Slipknot/cover.png"
   }
 ]
