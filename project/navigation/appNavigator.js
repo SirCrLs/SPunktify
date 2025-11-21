@@ -9,14 +9,15 @@ import PlayerScreen from "../screens/playerScreen";
 const Stack = createNativeStackNavigator();
 
 export default function AppNavigator() {
+    /*
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="Home" component={HomeScreen} />
-        <Stack.Screen name="Artist" component={ArtistScreen} />
-        <Stack.Screen name="Album" component={AlbumScreen} />
-        <Stack.Screen name="Player" component={PlayerScreen} />
+            <Stack.Screen name="Home" component={HomeScreen} />
+            <Stack.Screen name="Artist" component={ArtistScreen} />
       </Stack.Navigator>
     </NavigationContainer>
+    
   );
+  */
 }
