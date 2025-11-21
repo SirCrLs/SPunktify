@@ -1,5 +1,9 @@
-import AppNavigator from "./navigation/appNavigator";
+import { Text, View } from "react-native";
 
 export default function App() {
-  return <AppNavigator />;
+  return (
+    <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
+      <Text>Hola Mundo</Text>
+    </View>
+  );
 }
