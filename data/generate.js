@@ -12,6 +12,18 @@ let artistId = 1;
 let albumId = 1;
 let songId = 1;
 
+function cleanSongName(filename) {
+  const nameWithoutExt = filename.replace(/\.[^/.]+$/, "");
+
+  const parts = nameWithoutExt.split("-");
+
+  if (parts.length > 1) {
+    return parts.slice(1).join("-").trim(); 
+  }
+
+  return nameWithoutExt.trim();
+}
+
 function parseInfoFile(infoPath) {
   try {
     const content = fs.readFileSync(infoPath, "utf8");
@@ -86,10 +98,11 @@ function walk() {
         if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
 
         const songUrl = `${albumPath}/${file}`; 
+        const cleanName = cleanSongName(file);
 
         const newSong = {
           id: String(songId++),
-          title: file.replace(/\.(mp3|m4a)$/i, ""),
+          title: cleanName,
           artistIds: newArtist.id,
           albumId: newAlbum.id,
           numberInAlbum: numInAlbum,

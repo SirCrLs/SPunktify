@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "01- Welcome",
+    "title": "Welcome",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 1,
@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "title": "02- Dear Insanity",
+    "title": "Dear Insanity",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 2,
@@ -17,7 +17,7 @@
   },
   {
     "id": "3",
-    "title": "03- Closure",
+    "title": "Closure",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 3,
@@ -25,7 +25,7 @@
   },
   {
     "id": "4",
-    "title": "04- A Lesson Never Learned",
+    "title": "A Lesson Never Learned",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 4,
@@ -33,7 +33,7 @@
   },
   {
     "id": "5",
-    "title": "05- To The Stage",
+    "title": "To The Stage",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 5,
@@ -41,7 +41,7 @@
   },
   {
     "id": "6",
-    "title": "06- Dedication",
+    "title": "Dedication",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 6,
@@ -49,7 +49,7 @@
   },
   {
     "id": "7",
-    "title": "07- Someone, Somewhere",
+    "title": "Someone, Somewhere",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 7,
@@ -57,7 +57,7 @@
   },
   {
     "id": "8",
-    "title": "08- Breathless",
+    "title": "Breathless",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 8,
@@ -65,7 +65,7 @@
   },
   {
     "id": "9",
-    "title": "09- The Match",
+    "title": "The Match",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 9,
@@ -73,7 +73,7 @@
   },
   {
     "id": "10",
-    "title": "10- Another Bottle Down",
+    "title": "Another Bottle Down",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 10,
@@ -81,7 +81,7 @@
   },
   {
     "id": "11",
-    "title": "11- Reckless and Relentless",
+    "title": "Reckless and Relentless",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 11,
@@ -89,7 +89,7 @@
   },
   {
     "id": "12",
-    "title": "12- Morte et Dabo",
+    "title": "Morte et Dabo",
     "artistIds": "1",
     "albumId": "1",
     "numberInAlbum": 12,
@@ -97,7 +97,7 @@
   },
   {
     "id": "13",
-    "title": "01- Alerion",
+    "title": "Alerion",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 1,
@@ -105,7 +105,7 @@
   },
   {
     "id": "14",
-    "title": "02- The Final Episode",
+    "title": "The Final Episode",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 2,
@@ -113,7 +113,7 @@
   },
   {
     "id": "15",
-    "title": "03- A Candlelit Dinner With Inamorta",
+    "title": "A Candlelit Dinner With Inamorta",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 3,
@@ -121,7 +121,7 @@
   },
   {
     "id": "16",
-    "title": "04- Nobody Dont Dance No More",
+    "title": "Nobody Dont Dance No More",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 4,
@@ -129,7 +129,7 @@
   },
   {
     "id": "17",
-    "title": "05- Hey There Mr Brooks",
+    "title": "Hey There Mr Brooks",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 5,
@@ -137,7 +137,7 @@
   },
   {
     "id": "18",
-    "title": "06- Hiatus",
+    "title": "Hiatus",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 6,
@@ -145,7 +145,7 @@
   },
   {
     "id": "19",
-    "title": "07- If You Cant Ride Two Horses At Once... You Should Get Out Of The Circus",
+    "title": "If You Cant Ride Two Horses At Once... You Should Get Out Of The Circus",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 7,
@@ -153,7 +153,7 @@
   },
   {
     "id": "20",
-    "title": "08- A Single Moment Of Sincerity",
+    "title": "A Single Moment Of Sincerity",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 8,
@@ -161,7 +161,7 @@
   },
   {
     "id": "21",
-    "title": "09- Not The American Average",
+    "title": "Not The American Average",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 9,
@@ -169,7 +169,7 @@
   },
   {
     "id": "22",
-    "title": "10- I Used to Have a Best Friend [But Then He Gave Me An STD]",
+    "title": "I Used to Have a Best Friend [But Then He Gave Me An STD]",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 10,
@@ -177,7 +177,7 @@
   },
   {
     "id": "23",
-    "title": "11- A Prophecy",
+    "title": "A Prophecy",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 11,
@@ -185,7 +185,7 @@
   },
   {
     "id": "24",
-    "title": "12- I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
+    "title": "I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 12,
@@ -193,7 +193,7 @@
   },
   {
     "id": "25",
-    "title": "13- When Everydays The Weekend",
+    "title": "When Everydays The Weekend",
     "artistIds": "1",
     "albumId": "2",
     "numberInAlbum": 13,
@@ -201,2522 +201,2514 @@
   },
   {
     "id": "26",
-    "title": "01",
+    "title": "Glass Houses",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bad Omens\\Bad Omens/01.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/01- Glass Houses.m4a"
   },
   {
     "id": "27",
-    "title": "02",
+    "title": "Exit Wounds",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bad Omens\\Bad Omens/02.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/02- Exit Wounds.m4a"
   },
   {
     "id": "28",
-    "title": "03",
+    "title": "The Worst In Me",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bad Omens\\Bad Omens/03.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/03- The Worst In Me.m4a"
   },
   {
     "id": "29",
-    "title": "04",
+    "title": "F E R A L",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bad Omens\\Bad Omens/04.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/04- F E R A L.m4a"
   },
   {
     "id": "30",
-    "title": "05",
+    "title": "Enough, Enough Now",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bad Omens\\Bad Omens/05.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/05- Enough, Enough Now.m4a"
   },
   {
     "id": "31",
-    "title": "06",
+    "title": "Malice",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bad Omens\\Bad Omens/06.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/06- Malice.m4a"
   },
   {
     "id": "32",
-    "title": "07",
+    "title": "Hedonist",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bad Omens\\Bad Omens/07.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/07- Hedonist.m4a"
   },
   {
     "id": "33",
-    "title": "08",
+    "title": "Broken Youth",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bad Omens\\Bad Omens/08.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/08- Broken Youth.m4a"
   },
   {
     "id": "34",
-    "title": "09",
+    "title": "Crawl",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bad Omens\\Bad Omens/09.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/09- Crawl.m4a"
   },
   {
     "id": "35",
-    "title": "10",
+    "title": "The Letdown",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bad Omens\\Bad Omens/10.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/10- The Letdown.m4a"
   },
   {
     "id": "36",
-    "title": "11",
+    "title": "Reprise (The Sound Of The End)",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 11,
-    "url": "..\\music\\Bad Omens\\Bad Omens/11.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/11- Reprise (The Sound Of The End).m4a"
   },
   {
     "id": "37",
-    "title": "12",
+    "title": "The Fountain",
     "artistIds": "2",
     "albumId": "3",
     "numberInAlbum": 12,
-    "url": "..\\music\\Bad Omens\\Bad Omens/12.m4a"
+    "url": "..\\music\\Bad Omens\\Bad Omens/12- The Fountain.m4a"
   },
   {
     "id": "38",
-    "title": "01",
+    "title": "Kingdom Of Cards",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/01.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/01- Kingdom Of Cards.m4a"
   },
   {
     "id": "39",
-    "title": "02",
+    "title": "Running in Circles",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/02.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/02- Running in Circles.m4a"
   },
   {
     "id": "40",
-    "title": "03",
+    "title": "Careful What You Wish For",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/03.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/03- Careful What You Wish For.m4a"
   },
   {
     "id": "41",
-    "title": "04",
+    "title": "The Hell I Overcame",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/04.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/04- The Hell I Overcame.m4a"
   },
   {
     "id": "42",
-    "title": "05",
+    "title": "Dethrone",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/05.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/05- Dethrone.m4a"
   },
   {
     "id": "43",
-    "title": "06",
+    "title": "Blood",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/06.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/06- Blood.m4a"
   },
   {
     "id": "44",
-    "title": "07",
+    "title": "Mercy",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/07.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/07- Mercy.m4a"
   },
   {
     "id": "45",
-    "title": "08",
+    "title": "Said and Done",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/08.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/08- Said and Done.m4a"
   },
   {
     "id": "46",
-    "title": "09",
+    "title": "Burning Out",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/09.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/09- Burning Out.m4a"
   },
   {
     "id": "47",
-    "title": "10",
+    "title": "If Im There",
     "artistIds": "2",
     "albumId": "4",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/10.m4a"
+    "url": "..\\music\\Bad Omens\\Finding God Before God Finds Me/10- If Im There.m4a"
   },
   {
     "id": "48",
-    "title": "01",
+    "title": "CONCRETE JUNGLE",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/01.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/01- CONCRETE JUNGLE.m4a"
   },
   {
     "id": "49",
-    "title": "02",
+    "title": "Nowhere To Go",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/02.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/02- Nowhere To Go.m4a"
   },
   {
     "id": "50",
-    "title": "03",
+    "title": "Take me First",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/03.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/03- Take me First.m4a"
   },
   {
     "id": "51",
-    "title": "04",
+    "title": "THE DEATH OF PEACE OF MIND",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/04.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/04- THE DEATH OF PEACE OF MIND.m4a"
   },
   {
     "id": "52",
-    "title": "05",
+    "title": "What it Cost",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/05.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/05- What it Cost.m4a"
   },
   {
     "id": "53",
-    "title": "06",
+    "title": "Like a Villain",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/06.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/06- Like a Villain.m4a"
   },
   {
     "id": "54",
-    "title": "07",
+    "title": "bad decisions",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/07.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/07- bad decisions.m4a"
   },
   {
     "id": "55",
-    "title": "08",
+    "title": "Just Pretend",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/08.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/08- Just Pretend.m4a"
   },
   {
     "id": "56",
-    "title": "09",
+    "title": "The Grey",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/09.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/09- The Grey.m4a"
   },
   {
     "id": "57",
-    "title": "10",
+    "title": "Who are you",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/10.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/10- Who are you.m4a"
   },
   {
     "id": "58",
-    "title": "11",
+    "title": "Somebody else",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 11,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/11.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/11- Somebody else.m4a"
   },
   {
     "id": "59",
-    "title": "12",
+    "title": "IDWT$",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 12,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/12.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/12- IDWT$.m4a"
   },
   {
     "id": "60",
-    "title": "13",
+    "title": "What do you want from me",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 13,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/13.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/13- What do you want from me.m4a"
   },
   {
     "id": "61",
-    "title": "14",
+    "title": "ARTIFICIAL SUICIDE",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 14,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/14.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/14- ARTIFICIAL SUICIDE.m4a"
   },
   {
     "id": "62",
-    "title": "15",
+    "title": "Miracle",
     "artistIds": "2",
     "albumId": "5",
     "numberInAlbum": 15,
-    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/15.m4a"
+    "url": "..\\music\\Bad Omens\\The Death of Peace of Mind/15- Miracle.m4a"
   },
   {
     "id": "63",
-    "title": "01",
+    "title": "Pray For Plagues",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/01.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/01- Pray For Plagues.m4a"
   },
   {
     "id": "64",
-    "title": "02",
+    "title": "Tell Slater Not To Wash His D##k",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/02.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/02- Tell Slater Not To Wash His D##k.m4a"
   },
   {
     "id": "65",
-    "title": "03",
+    "title": "Braille (For Stevie Wonders Eyes Only)",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/03.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/03- Braille (For Stevie Wonders Eyes Only).m4a"
   },
   {
     "id": "66",
-    "title": "04",
+    "title": "A lot Like Vegas",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/04.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/04- A lot Like Vegas.m4a"
   },
   {
     "id": "67",
-    "title": "05",
+    "title": "Black and Blue",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/05.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/05- Black and Blue.m4a"
   },
   {
     "id": "68",
-    "title": "06",
+    "title": "Slow Dance",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/06.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/06- Slow Dance.m4a"
   },
   {
     "id": "69",
-    "title": "07",
+    "title": "Liquor and Love Lost",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/07.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/07- Liquor and Love Lost.m4a"
   },
   {
     "id": "70",
-    "title": "08",
+    "title": "(I Used to make out with) Medusa",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/08.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/08- (I Used to make out with) Medusa.m4a"
   },
   {
     "id": "71",
-    "title": "09",
+    "title": "Fifteen Fathoms, Counting",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/09.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/09- Fifteen Fathoms, Counting.m4a"
   },
   {
     "id": "72",
-    "title": "10",
+    "title": "Off The Heezay",
     "artistIds": "3",
     "albumId": "6",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/10.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Count Your Blessings/10- Off The Heezay.m4a"
   },
   {
     "id": "73",
-    "title": "01",
+    "title": "[ost] dreamseeker",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/01.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/01- [ost] dreamseeker.m4a"
   },
   {
     "id": "74",
-    "title": "02",
+    "title": "YOUtopia",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/02.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/02- YOUtopia.m4a"
   },
   {
     "id": "75",
-    "title": "03",
+    "title": "Kool-Aid",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/03.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/03- Kool-Aid.m4a"
   },
   {
     "id": "76",
-    "title": "04",
+    "title": "Top 10 staTues tHat CriEd bloOd",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/04.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/04- Top 10 staTues tHat CriEd bloOd.m4a"
   },
   {
     "id": "77",
-    "title": "05",
+    "title": "limOusIne",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/05.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/05- limOusIne.m4a"
   },
   {
     "id": "78",
-    "title": "06",
+    "title": "DArkSide",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/06.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/06- DArkSide.m4a"
   },
   {
     "id": "79",
-    "title": "07",
+    "title": "a bulleT w my namE On",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/07.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/07- a bulleT w my namE On.m4a"
   },
   {
     "id": "80",
-    "title": "08",
+    "title": "[ost] (spi)ritual",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/08.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/08- [ost] (spi)ritual.m4a"
   },
   {
     "id": "81",
-    "title": "09",
+    "title": "n A",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/09.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/09- n A.m4a"
   },
   {
     "id": "82",
-    "title": "10",
+    "title": "LosT",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/10.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/10- LosT.m4a"
   },
   {
     "id": "83",
-    "title": "11",
+    "title": "sTraNgeRs",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 11,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/11.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/11- sTraNgeRs.m4a"
   },
   {
     "id": "84",
-    "title": "12",
+    "title": "R i p (duskCOre RemIx)",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 12,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/12.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/12- R i p (duskCOre RemIx).m4a"
   },
   {
     "id": "85",
-    "title": "13",
+    "title": "AmEN!",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 13,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/13.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/13- AmEN!.m4a"
   },
   {
     "id": "86",
-    "title": "14",
+    "title": "[ost] p.u.s.s.-e",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 14,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/14.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/14- [ost] p.u.s.s.-e.m4a"
   },
   {
     "id": "87",
-    "title": "15",
+    "title": "DiE4u",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 15,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/15.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/15- DiE4u.m4a"
   },
   {
     "id": "88",
-    "title": "16",
+    "title": "DIg It",
     "artistIds": "3",
     "albumId": "7",
     "numberInAlbum": 16,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/16.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human NeX GEn/16- DIg It.m4a"
   },
   {
     "id": "89",
-    "title": "1",
+    "title": "Dear Diary,",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/1.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/1- Dear Diary,.m4a"
   },
   {
     "id": "90",
-    "title": "2",
+    "title": "Parasite Eve",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/2.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/2- Parasite Eve.m4a"
   },
   {
     "id": "91",
-    "title": "3",
+    "title": "Teardrops",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/3.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/3- Teardrops.m4a"
   },
   {
     "id": "92",
-    "title": "4",
+    "title": "Obey",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/4.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/4- Obey.m4a"
   },
   {
     "id": "93",
-    "title": "5",
+    "title": "Itch For The Cure (When Will We Be Free)",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/5.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/5- Itch For The Cure (When Will We Be Free).m4a"
   },
   {
     "id": "94",
-    "title": "6",
+    "title": "Kingslayer",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/6.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/6- Kingslayer.m4a"
   },
   {
     "id": "95",
-    "title": "7",
+    "title": "1x1",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/7.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/7- 1x1.m4a"
   },
   {
     "id": "96",
-    "title": "8",
+    "title": "Ludens",
     "artistIds": "3",
     "albumId": "8",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/8.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Post Human Survival Horror/8- Ludens.m4a"
   },
   {
     "id": "97",
-    "title": "01",
+    "title": "Can you feel my Heart",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/01.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/01- Can you feel my Heart.m4a"
   },
   {
     "id": "98",
-    "title": "02",
+    "title": "The House of Wolves",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/02.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/02- The House of Wolves.m4a"
   },
   {
     "id": "99",
-    "title": "03",
+    "title": "Empire (Let Them Sing)",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/03.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/03- Empire (Let Them Sing).m4a"
   },
   {
     "id": "100",
-    "title": "04",
+    "title": "Sleepwalking",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/04.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/04- Sleepwalking.m4a"
   },
   {
     "id": "101",
-    "title": "05",
+    "title": "Go to Hell, for Heavens Sake",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/05.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/05- Go to Hell, for Heavens Sake.m4a"
   },
   {
     "id": "102",
-    "title": "06",
+    "title": "Shadow Moses",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/06.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/06- Shadow Moses.m4a"
   },
   {
     "id": "103",
-    "title": "07",
+    "title": "And the Snakes start to Sing",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/07.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/07- And the Snakes start to Sing.m4a"
   },
   {
     "id": "104",
-    "title": "08",
+    "title": "Seen It All Before",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/08.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/08- Seen It All Before.m4a"
   },
   {
     "id": "105",
-    "title": "09",
+    "title": "Antivist",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/09.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/09- Antivist.m4a"
   },
   {
     "id": "106",
-    "title": "10",
+    "title": "Crooked Young",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/10.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/10- Crooked Young.m4a"
   },
   {
     "id": "107",
-    "title": "11",
+    "title": "Hospital for Souls",
     "artistIds": "3",
     "albumId": "9",
     "numberInAlbum": 11,
-    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/11.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Sempiternal/11- Hospital for Souls.m4a"
   },
   {
     "id": "108",
-    "title": "01",
+    "title": "The Comedown",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/01.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/01- The Comedown.m4a"
   },
   {
     "id": "109",
-    "title": "02",
+    "title": "Chealsea Smile",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/02.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/02- Chealsea Smile.m4a"
   },
   {
     "id": "110",
-    "title": "03",
+    "title": "It Was Written in Blood",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/03.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/03- It Was Written in Blood.m4a"
   },
   {
     "id": "111",
-    "title": "04",
+    "title": "Death Breath",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/04.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/04- Death Breath.m4a"
   },
   {
     "id": "112",
-    "title": "05",
+    "title": "Football Season is Over",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/05.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/05- Football Season is Over.m4a"
   },
   {
     "id": "113",
-    "title": "06",
+    "title": "Sleep With one Eye Open",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/06.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/06- Sleep With one Eye Open.m4a"
   },
   {
     "id": "114",
-    "title": "07",
+    "title": "Diamonds Arent Forever",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/07.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/07- Diamonds Arent Forever.m4a"
   },
   {
     "id": "115",
-    "title": "08",
+    "title": "The Sadness Will Never End",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/08.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/08- The Sadness Will Never End.m4a"
   },
   {
     "id": "116",
-    "title": "09",
+    "title": "No Need for Introductions, Ive Read About Girls Like You on the Backs of Toilet Doors",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/09.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/09- No Need for Introductions, Ive Read About Girls Like You on the Backs of Toilet Doors.m4a"
   },
   {
     "id": "117",
-    "title": "10",
+    "title": "Suicide Season",
     "artistIds": "3",
     "albumId": "10",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/10.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Suicide Season/10- Suicide Season.m4a"
   },
   {
     "id": "118",
-    "title": "01",
+    "title": "Doomed",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/01.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/01- Doomed.m4a"
   },
   {
     "id": "119",
-    "title": "02",
+    "title": "Happy Song",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/02.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/02- Happy Song.m4a"
   },
   {
     "id": "120",
-    "title": "03",
+    "title": "Throne",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/03.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/03- Throne.m4a"
   },
   {
     "id": "121",
-    "title": "04",
+    "title": "True Friends",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/04.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/04- True Friends.m4a"
   },
   {
     "id": "122",
-    "title": "06",
+    "title": "What You Need",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/06.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/06- What You Need.m4a"
   },
   {
     "id": "123",
-    "title": "07",
+    "title": "Avalanche",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/07.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/07- Avalanche.m4a"
   },
   {
     "id": "124",
-    "title": "08",
+    "title": "Run",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/08.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/08- Run.m4a"
   },
   {
     "id": "125",
-    "title": "09",
+    "title": "Drown",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/09.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/09- Drown.m4a"
   },
   {
     "id": "126",
-    "title": "10",
+    "title": "Blasphemy",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/10.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/10- Blasphemy.m4a"
   },
   {
     "id": "127",
-    "title": "11",
+    "title": "Oh No",
     "artistIds": "3",
     "albumId": "11",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/11.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\Thats the Spirit/11- Oh No.m4a"
   },
   {
     "id": "128",
-    "title": "01",
+    "title": "Crucify Me",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/01.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/01- Crucify Me.m4a"
   },
   {
     "id": "129",
-    "title": "02",
+    "title": "Anthem",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/02.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/02- Anthem.m4a"
   },
   {
     "id": "130",
-    "title": "03",
+    "title": "It Never Ends",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/03.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/03- It Never Ends.m4a"
   },
   {
     "id": "131",
-    "title": "04",
+    "title": "Fuck",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/04.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/04- Fuck.m4a"
   },
   {
     "id": "132",
-    "title": "05",
+    "title": "Dont Go",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 5,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/05.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/05- Dont Go.m4a"
   },
   {
     "id": "133",
-    "title": "06",
+    "title": "Home Sweet Hole",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 6,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/06.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/06- Home Sweet Hole.m4a"
   },
   {
     "id": "134",
-    "title": "07",
+    "title": "Alligator Blood",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 7,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/07.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/07- Alligator Blood.m4a"
   },
   {
     "id": "135",
-    "title": "08",
+    "title": "Visions",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 8,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/08.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/08- Visions.m4a"
   },
   {
     "id": "136",
-    "title": "09",
+    "title": "Blacklist",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 9,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/09.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/09- Blacklist.m4a"
   },
   {
     "id": "137",
-    "title": "10",
+    "title": "Memorial",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 10,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/10.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/10- Memorial.m4a"
   },
   {
     "id": "138",
-    "title": "11",
+    "title": "Blessed with a Curse",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 11,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/11.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/11- Blessed with a Curse.m4a"
   },
   {
     "id": "139",
-    "title": "12",
+    "title": "The Fox and the Wolf",
     "artistIds": "3",
     "albumId": "12",
     "numberInAlbum": 12,
-    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/12.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/12- The Fox and the Wolf.m4a"
   },
   {
     "id": "140",
-    "title": "1",
+    "title": "re they have no reflections",
     "artistIds": "3",
     "albumId": "13",
     "numberInAlbum": 1,
-    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/1.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/1- re they have no reflections.m4a"
   },
   {
     "id": "141",
-    "title": "2",
+    "title": "who wants flowers when youre dead, nobody",
     "artistIds": "3",
     "albumId": "13",
     "numberInAlbum": 2,
-    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/2.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/2- who wants flowers when youre dead, nobody.m4a"
   },
   {
     "id": "142",
-    "title": "3",
+    "title": "RAWWWRR!",
     "artistIds": "3",
     "albumId": "13",
     "numberInAlbum": 3,
-    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/3.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/3- RAWWWRR!.m4a"
   },
   {
     "id": "143",
-    "title": "4",
+    "title": "Traitors never Play Hang-man",
     "artistIds": "3",
     "albumId": "13",
     "numberInAlbum": 4,
-    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/4.m4a"
+    "url": "..\\music\\Bring Me The Horizon\\This Is What the Edge of Your Seat Was Made For/4- Traitors never Play Hang-man.m4a"
   },
   {
     "id": "144",
-    "title": "01",
+    "title": "My Own Summer (Shove It)",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 1,
-    "url": "..\\music\\Deftones\\Around the Fur/01.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/01- My Own Summer (Shove It).m4a"
   },
   {
     "id": "145",
-    "title": "02",
+    "title": "Lhabia",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 2,
-    "url": "..\\music\\Deftones\\Around the Fur/02.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/02- Lhabia.m4a"
   },
   {
     "id": "146",
-    "title": "03",
+    "title": "Mascara",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 3,
-    "url": "..\\music\\Deftones\\Around the Fur/03.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/03- Mascara.m4a"
   },
   {
     "id": "147",
-    "title": "04",
+    "title": "Around the Fur",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 4,
-    "url": "..\\music\\Deftones\\Around the Fur/04.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/04- Around the Fur.m4a"
   },
   {
     "id": "148",
-    "title": "05",
+    "title": "Rickets",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 5,
-    "url": "..\\music\\Deftones\\Around the Fur/05.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/05- Rickets.m4a"
   },
   {
     "id": "149",
-    "title": "06",
+    "title": "Be Quiet and Drive (Far Away)",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 6,
-    "url": "..\\music\\Deftones\\Around the Fur/06.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/06- Be Quiet and Drive (Far Away).m4a"
   },
   {
     "id": "150",
-    "title": "07",
+    "title": "Lotion",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 7,
-    "url": "..\\music\\Deftones\\Around the Fur/07.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/07- Lotion.m4a"
   },
   {
     "id": "151",
-    "title": "08",
+    "title": "Dai the Flu",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 8,
-    "url": "..\\music\\Deftones\\Around the Fur/08.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/08- Dai the Flu.m4a"
   },
   {
     "id": "152",
-    "title": "09",
+    "title": "Headup",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 9,
-    "url": "..\\music\\Deftones\\Around the Fur/09.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/09- Headup.m4a"
   },
   {
     "id": "153",
-    "title": "10",
+    "title": "MX",
     "artistIds": "4",
     "albumId": "14",
     "numberInAlbum": 10,
-    "url": "..\\music\\Deftones\\Around the Fur/10.m4a"
+    "url": "..\\music\\Deftones\\Around the Fur/10- MX.m4a"
   },
   {
     "id": "154",
-    "title": "01",
+    "title": "Diamond Eyes",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 1,
-    "url": "..\\music\\Deftones\\Diamond Eyes/01.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/01- Diamond Eyes.m4a"
   },
   {
     "id": "155",
-    "title": "02",
+    "title": "Royal",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 2,
-    "url": "..\\music\\Deftones\\Diamond Eyes/02.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/02- Royal.m4a"
   },
   {
     "id": "156",
-    "title": "03",
+    "title": "CMND CTRL",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 3,
-    "url": "..\\music\\Deftones\\Diamond Eyes/03.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/03- CMND CTRL.m4a"
   },
   {
     "id": "157",
-    "title": "04",
+    "title": "Youve Seen the Butcher",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 4,
-    "url": "..\\music\\Deftones\\Diamond Eyes/04.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/04- Youve Seen the Butcher.m4a"
   },
   {
     "id": "158",
-    "title": "05",
+    "title": "Beauty School",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 5,
-    "url": "..\\music\\Deftones\\Diamond Eyes/05.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/05- Beauty School.m4a"
   },
   {
     "id": "159",
-    "title": "06",
+    "title": "Prince",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 6,
-    "url": "..\\music\\Deftones\\Diamond Eyes/06.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/06- Prince.m4a"
   },
   {
     "id": "160",
-    "title": "07",
+    "title": "Rocket Skates",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 7,
-    "url": "..\\music\\Deftones\\Diamond Eyes/07.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/07- Rocket Skates.m4a"
   },
   {
     "id": "161",
-    "title": "08",
+    "title": "Sextape",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 8,
-    "url": "..\\music\\Deftones\\Diamond Eyes/08.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/08- Sextape.m4a"
   },
   {
     "id": "162",
-    "title": "09",
+    "title": "Risk",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 9,
-    "url": "..\\music\\Deftones\\Diamond Eyes/09.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/09- Risk.m4a"
   },
   {
     "id": "163",
-    "title": "10",
+    "title": "976-EVIL",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 10,
-    "url": "..\\music\\Deftones\\Diamond Eyes/10.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/10- 976-EVIL.m4a"
   },
   {
     "id": "164",
-    "title": "11",
+    "title": "This Place Is Death",
     "artistIds": "4",
     "albumId": "15",
     "numberInAlbum": 11,
-    "url": "..\\music\\Deftones\\Diamond Eyes/11.m4a"
+    "url": "..\\music\\Deftones\\Diamond Eyes/11- This Place Is Death.m4a"
   },
   {
     "id": "165",
-    "title": "01",
+    "title": "Foreword",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 1,
-    "url": "..\\music\\Linkin Park\\Meteora/01.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/01- Foreword.m4a"
   },
   {
     "id": "166",
-    "title": "02",
+    "title": "Dont Stay",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 2,
-    "url": "..\\music\\Linkin Park\\Meteora/02.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/02- Dont Stay.m4a"
   },
   {
     "id": "167",
-    "title": "03",
+    "title": "Somewhere I Belong",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 3,
-    "url": "..\\music\\Linkin Park\\Meteora/03.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/03- Somewhere I Belong.m4a"
   },
   {
     "id": "168",
-    "title": "04",
+    "title": "Lying from You",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 4,
-    "url": "..\\music\\Linkin Park\\Meteora/04.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/04- Lying from You.m4a"
   },
   {
     "id": "169",
-    "title": "05",
+    "title": "Hit the Floor",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 5,
-    "url": "..\\music\\Linkin Park\\Meteora/05.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/05- Hit the Floor.m4a"
   },
   {
     "id": "170",
-    "title": "06",
+    "title": "Easier to Run",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 6,
-    "url": "..\\music\\Linkin Park\\Meteora/06.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/06- Easier to Run.m4a"
   },
   {
     "id": "171",
-    "title": "07",
+    "title": "Faint",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 7,
-    "url": "..\\music\\Linkin Park\\Meteora/07.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/07- Faint.m4a"
   },
   {
     "id": "172",
-    "title": "08",
+    "title": "Figure.09",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 8,
-    "url": "..\\music\\Linkin Park\\Meteora/08.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/08- Figure.09.m4a"
   },
   {
     "id": "173",
-    "title": "09",
+    "title": "Breaking the Habit",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 9,
-    "url": "..\\music\\Linkin Park\\Meteora/09.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/09- Breaking the Habit.m4a"
   },
   {
     "id": "174",
-    "title": "10",
+    "title": "From the Inside",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 10,
-    "url": "..\\music\\Linkin Park\\Meteora/10.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/10- From the Inside.m4a"
   },
   {
     "id": "175",
-    "title": "11",
+    "title": "Nobodys Listening",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 11,
-    "url": "..\\music\\Linkin Park\\Meteora/11.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/11- Nobodys Listening.m4a"
   },
   {
     "id": "176",
-    "title": "12",
+    "title": "Session",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 12,
-    "url": "..\\music\\Linkin Park\\Meteora/12.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/12- Session.m4a"
   },
   {
     "id": "177",
-    "title": "13",
+    "title": "Numb",
     "artistIds": "5",
     "albumId": "16",
     "numberInAlbum": 13,
-    "url": "..\\music\\Linkin Park\\Meteora/13.m4a"
+    "url": "..\\music\\Linkin Park\\Meteora/13- Numb.m4a"
   },
   {
     "id": "178",
-    "title": "01",
+    "title": "Prison of Flesh",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 1,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/01.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/01- Prison of Flesh.m4a"
   },
   {
     "id": "179",
-    "title": "02",
+    "title": "Oblivion",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 2,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/02.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/02- Oblivion.m4a"
   },
   {
     "id": "180",
-    "title": "03",
+    "title": "In Darkness",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 3,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/03.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/03- In Darkness.m4a"
   },
   {
     "id": "181",
-    "title": "04",
+    "title": "Unbreakable",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 4,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/04.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/04- Unbreakable.m4a"
   },
   {
     "id": "182",
-    "title": "05",
+    "title": "Glenwood",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 5,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/05.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/05- Glenwood.m4a"
   },
   {
     "id": "183",
-    "title": "06",
+    "title": "Lionheart",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 6,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/06.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/06- Lionheart.m4a"
   },
   {
     "id": "184",
-    "title": "07",
+    "title": "Death Can Take Me",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 7,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/07.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/07- Death Can Take Me.m4a"
   },
   {
     "id": "185",
-    "title": "08",
+    "title": "War Machine",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 8,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/08.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/08- War Machine.m4a"
   },
   {
     "id": "186",
-    "title": "09",
+    "title": "A Nameless Hymn",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 9,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/09.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/09- A Nameless Hymn.m4a"
   },
   {
     "id": "187",
-    "title": "10",
+    "title": "Forevermore",
     "artistIds": "6",
     "albumId": "17",
     "numberInAlbum": 10,
-    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/10.m4a"
+    "url": "..\\music\\Lorna Shore\\I Feel the Everblack Festering Within Me/10- Forevermore.m4a"
   },
   {
     "id": "188",
-    "title": "01",
+    "title": "Welcome Back O Sleeping Dreamer",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 1,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/01.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/01- Welcome Back O Sleeping Dreamer.m4a"
   },
   {
     "id": "189",
-    "title": "02",
+    "title": "Into the Earth",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 2,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/02.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/02- Into the Earth.m4a"
   },
   {
     "id": "190",
-    "title": "03",
+    "title": "Sun--Eater",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 3,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/03.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/03- Sun--Eater.m4a"
   },
   {
     "id": "191",
-    "title": "04",
+    "title": "Cursed to Die",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 4,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/04.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/04- Cursed to Die.m4a"
   },
   {
     "id": "192",
-    "title": "05",
+    "title": "Soulless Existence",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 5,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/05.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/05- Soulless Existence.m4a"
   },
   {
     "id": "193",
-    "title": "06",
+    "title": "Apotheosis",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 6,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/06.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/06- Apotheosis.m4a"
   },
   {
     "id": "194",
-    "title": "07",
+    "title": "Wrath",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 7,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/07.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/07- Wrath.m4a"
   },
   {
     "id": "195",
-    "title": "08",
+    "title": "Pain Remains I Dancing Like Flames",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 8,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/08.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/08- Pain Remains I Dancing Like Flames.m4a"
   },
   {
     "id": "196",
-    "title": "09",
+    "title": "Pain Remains II After All Ive Done, Ill Disappear",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 9,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/09.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/09- Pain Remains II After All Ive Done, Ill Disappear.m4a"
   },
   {
     "id": "197",
-    "title": "10",
+    "title": "Pain Remains III In a Sea of Fire",
     "artistIds": "6",
     "albumId": "18",
     "numberInAlbum": 10,
-    "url": "..\\music\\Lorna Shore\\Pain Remains/10.m4a"
+    "url": "..\\music\\Lorna Shore\\Pain Remains/10- Pain Remains III In a Sea of Fire.m4a"
   },
   {
     "id": "198",
-    "title": "01",
+    "title": "Suki",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 1,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/01.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/01- Suki.m4a"
   },
   {
     "id": "199",
-    "title": "02",
+    "title": "Yukikosan",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 2,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/02.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/02- Yukikosan.m4a"
   },
   {
     "id": "200",
-    "title": "03",
+    "title": "Kanashiihibi",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 3,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/03.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/03- Kanashiihibi.m4a"
   },
   {
     "id": "201",
-    "title": "04",
+    "title": "Osaru",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 4,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/04.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/04- Osaru.m4a"
   },
   {
     "id": "202",
-    "title": "05",
+    "title": "Konjounashiatashi, ahobokekasu",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 5,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/05.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/05- Konjounashiatashi, ahobokekasu.m4a"
   },
   {
     "id": "203",
-    "title": "06",
+    "title": "Chiharunokoi",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 6,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/06.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/06- Chiharunokoi.m4a"
   },
   {
     "id": "204",
-    "title": "07",
+    "title": "Himitsunofutari",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 7,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/07.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/07- Himitsunofutari.m4a"
   },
   {
     "id": "205",
-    "title": "09",
+    "title": "Howlingjigoku",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 8,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/09.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/09- Howlingjigoku.m4a"
   },
   {
     "id": "206",
-    "title": "10",
+    "title": "Muyokunomuryoku",
     "artistIds": "7",
     "albumId": "19",
     "numberInAlbum": 9,
-    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/10.m4a"
+    "url": "..\\music\\Midori\\Aratamemashite, hajimemashite, Midori desu/10- Muyokunomuryoku.m4a"
   },
   {
     "id": "207",
-    "title": "01",
+    "title": "Romance",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 1,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/01.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/01- Romance.m4a"
   },
   {
     "id": "208",
-    "title": "02",
+    "title": "Honey, This Mirror Isnt Big Enough for the Two of Us",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 2,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/02.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/02- Honey, This Mirror Isnt Big Enough for the Two of Us.m4a"
   },
   {
     "id": "209",
-    "title": "03",
+    "title": "Vampires Will Never Hurt You",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 3,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/03.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/03- Vampires Will Never Hurt You.m4a"
   },
   {
     "id": "210",
-    "title": "04",
+    "title": "Drowning Lessons",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 4,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/04.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/04- Drowning Lessons.m4a"
   },
   {
     "id": "211",
-    "title": "05",
+    "title": "Our Lady of Sorrows",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 5,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/05.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/05- Our Lady of Sorrows.m4a"
   },
   {
     "id": "212",
-    "title": "06",
+    "title": "Headfirst for Halos",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 6,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/06.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/06- Headfirst for Halos.m4a"
   },
   {
     "id": "213",
-    "title": "07",
+    "title": "Skylines and Turnstiles",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 7,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/07.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/07- Skylines and Turnstiles.m4a"
   },
   {
     "id": "214",
-    "title": "08",
+    "title": "Early Sunsets Over Monroeville",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 8,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/08.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/08- Early Sunsets Over Monroeville.m4a"
   },
   {
     "id": "215",
-    "title": "09",
+    "title": "This Ise the Best Day Ever",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 9,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/09.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/09- This Ise the Best Day Ever.m4a"
   },
   {
     "id": "216",
-    "title": "10",
+    "title": "Cubicles",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 10,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/10.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/10- Cubicles.m4a"
   },
   {
     "id": "217",
-    "title": "11",
+    "title": "Demolition Lovers",
     "artistIds": "8",
     "albumId": "20",
     "numberInAlbum": 11,
-    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/11.m4a"
+    "url": "..\\music\\My Chemical Romance\\I Brought You My Bullets, You Brought Me Your Love/11- Demolition Lovers.m4a"
   },
   {
     "id": "218",
-    "title": "01",
+    "title": "Helena",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 1,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/01.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/01- Helena.m4a"
   },
   {
     "id": "219",
-    "title": "02",
+    "title": "Give Em Hell, Kid",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 2,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/02.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/02- Give Em Hell, Kid.m4a"
   },
   {
     "id": "220",
-    "title": "03",
+    "title": "To the End",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 3,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/03.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/03- To the End.m4a"
   },
   {
     "id": "221",
-    "title": "04",
+    "title": "You Know What They Do to Guys Like Us in Prison",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 4,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/04.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/04- You Know What They Do to Guys Like Us in Prison.m4a"
   },
   {
     "id": "222",
-    "title": "05",
+    "title": "Im Not Okay (I Promise)",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 5,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/05.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/05- Im Not Okay (I Promise).m4a"
   },
   {
     "id": "223",
-    "title": "06",
+    "title": "The Ghost of You",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 6,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/06.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/06- The Ghost of You.m4a"
   },
   {
     "id": "224",
-    "title": "07",
+    "title": "The Jetset Life Is Gonna Kill You",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 7,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/07.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/07- The Jetset Life Is Gonna Kill You.m4a"
   },
   {
     "id": "225",
-    "title": "08",
+    "title": "Interlude",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 8,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/08.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/08- Interlude.m4a"
   },
   {
     "id": "226",
-    "title": "09",
+    "title": "Thank You for the Venom",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 9,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/09.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/09- Thank You for the Venom.m4a"
   },
   {
     "id": "227",
-    "title": "10",
+    "title": "Hang Em High",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 10,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/10.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/10- Hang Em High.m4a"
   },
   {
     "id": "228",
-    "title": "11",
+    "title": "Its Not a Fashion Statement, Its a Deathwish",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 11,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/11.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/11- Its Not a Fashion Statement, Its a Deathwish.m4a"
   },
   {
     "id": "229",
-    "title": "12",
+    "title": "Cementery Drive",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 12,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/12.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/12- Cementery Drive.m4a"
   },
   {
     "id": "230",
-    "title": "13",
+    "title": "I Never Told You What I Do for a Living",
     "artistIds": "8",
     "albumId": "21",
     "numberInAlbum": 13,
-    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/13.m4a"
+    "url": "..\\music\\My Chemical Romance\\Three Cheers for Sweet Revenge/13- I Never Told You What I Do for a Living.m4a"
   },
   {
     "id": "231",
-    "title": "01",
+    "title": "Introduction",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 1,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/01.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/01- Introduction.m4a"
   },
   {
     "id": "232",
-    "title": "02",
+    "title": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 2,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/02.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/02- The Only Difference Between Martyrdom and Suicide Is Press Coverage.m4a"
   },
   {
     "id": "233",
-    "title": "03",
+    "title": "London Beckoned Songs About Money Written by Machines",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 3,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/03.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/03- London Beckoned Songs About Money Written by Machines.m4a"
   },
   {
     "id": "234",
-    "title": "04",
+    "title": "Nails for Breakfast, Tacks for Snacks",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 4,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/04.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/04- Nails for Breakfast, Tacks for Snacks.m4a"
   },
   {
     "id": "235",
-    "title": "05",
+    "title": "Camisado",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 5,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/05.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/05- Camisado.m4a"
   },
   {
     "id": "236",
-    "title": "06",
+    "title": "Time to Dance",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 6,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/06.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/06- Time to Dance.m4a"
   },
   {
     "id": "237",
-    "title": "07",
+    "title": "Lying is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 7,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/07.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/07- Lying is the Most Fun a Girl Can Have Without Taking Her Clothes Off.m4a"
   },
   {
     "id": "238",
-    "title": "08",
+    "title": "Intermission",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 8,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/08.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/08- Intermission.m4a"
   },
   {
     "id": "239",
-    "title": "09",
+    "title": "But its Better If You Do",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 9,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/09.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/09- But its Better If You Do.m4a"
   },
   {
     "id": "240",
-    "title": "10",
+    "title": "I Write Sins Not Tragedies",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 10,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/10.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/10- I Write Sins Not Tragedies.m4a"
   },
   {
     "id": "241",
-    "title": "11",
+    "title": "I Constantly Thank God for Esteban",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 11,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/11.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/11- I Constantly Thank God for Esteban.m4a"
   },
   {
     "id": "242",
-    "title": "12",
+    "title": "Theres a Good Reason These Tables Are Numbered Honey, You Just Havent Thought of It Yet",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 12,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/12.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/12- Theres a Good Reason These Tables Are Numbered Honey, You Just Havent Thought of It Yet.m4a"
   },
   {
     "id": "243",
-    "title": "13",
+    "title": "Build God, Then Well Talk",
     "artistIds": "9",
     "albumId": "22",
     "numberInAlbum": 13,
-    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/13.m4a"
+    "url": "..\\music\\Panic! at the Disco\\A Fever You Cant Sweat Out/13- Build God, Then Well Talk.m4a"
   },
   {
     "id": "244",
-    "title": "01",
+    "title": "Chemical Kids and Mechanical Brides",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 1,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/01.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/01- Chemical Kids and Mechanical Brides.m4a"
   },
   {
     "id": "245",
-    "title": "02",
+    "title": "Currents Convulsive",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 2,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/02.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/02- Currents Convulsive.m4a"
   },
   {
     "id": "246",
-    "title": "03",
+    "title": "Yeah Boy and Doll Face",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 3,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/03.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/03- Yeah Boy and Doll Face.m4a"
   },
   {
     "id": "247",
-    "title": "04",
+    "title": "Id Rather Die Than Be Famous",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 4,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/04.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/04- Id Rather Die Than Be Famous.m4a"
   },
   {
     "id": "248",
-    "title": "05",
+    "title": "The Cheap Bouquet",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 5,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/05.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/05- The Cheap Bouquet.m4a"
   },
   {
     "id": "249",
-    "title": "06",
+    "title": "Falling Asleep on a Stranger",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 6,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/06.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/06- Falling Asleep on a Stranger.m4a"
   },
   {
     "id": "250",
-    "title": "07",
+    "title": "She Sings in the Morning",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 7,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/07.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/07- She Sings in the Morning.m4a"
   },
   {
     "id": "251",
-    "title": "08",
+    "title": "The Balcony Scene",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 8,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/08.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/08- The Balcony Scene.m4a"
   },
   {
     "id": "252",
-    "title": "09",
+    "title": "Drella",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 9,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/09.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/09- Drella.m4a"
   },
   {
     "id": "253",
-    "title": "10",
+    "title": "Diamonds and Why Men Buy Them",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 10,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/10.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/10- Diamonds and Why Men Buy Them.m4a"
   },
   {
     "id": "254",
-    "title": "11",
+    "title": "Wonderless",
     "artistIds": "10",
     "albumId": "23",
     "numberInAlbum": 11,
-    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/11.m4a"
+    "url": "..\\music\\Pierce The Veil\\A Flair for the Dramatic/11- Wonderless.m4a"
   },
   {
     "id": "255",
-    "title": "01",
+    "title": "May These Noises Startle You In Your Sleep",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 1,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/01.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/01- May These Noises Startle You In Your Sleep.m4a"
   },
   {
     "id": "256",
-    "title": "02",
+    "title": "Hell Above",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 2,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/02.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/02- Hell Above.m4a"
   },
   {
     "id": "257",
-    "title": "03",
+    "title": "A Match Into Water",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 3,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/03.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/03- A Match Into Water.m4a"
   },
   {
     "id": "258",
-    "title": "04",
+    "title": "King For A Day",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 4,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/04.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/04- King For A Day.m4a"
   },
   {
     "id": "259",
-    "title": "05",
+    "title": "Bulls In The Bronx",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 5,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/05.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/05- Bulls In The Bronx.m4a"
   },
   {
     "id": "260",
-    "title": "06",
+    "title": "Props and Mayhem",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 6,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/06.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/06- Props and Mayhem.m4a"
   },
   {
     "id": "261",
-    "title": "07",
+    "title": "Tangled In The Great Escape",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 7,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/07.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/07- Tangled In The Great Escape.m4a"
   },
   {
     "id": "262",
-    "title": "08",
+    "title": "Im Low On Gas And You Need A Jacket",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 8,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/08.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/08- Im Low On Gas And You Need A Jacket.m4a"
   },
   {
     "id": "263",
-    "title": "09",
+    "title": "The First Punch",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 9,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/09.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/09- The First Punch.m4a"
   },
   {
     "id": "264",
-    "title": "10",
+    "title": "One Hundred Sleepless Nights",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 10,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/10.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/10- One Hundred Sleepless Nights .m4a"
   },
   {
     "id": "265",
-    "title": "11",
+    "title": "Stained Glass Eyes And Colorful Tears",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 11,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/11.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/11- Stained Glass Eyes And Colorful Tears.m4a"
   },
   {
     "id": "266",
-    "title": "12",
+    "title": "Hold On Till May",
     "artistIds": "10",
     "albumId": "24",
     "numberInAlbum": 12,
-    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/12.m4a"
+    "url": "..\\music\\Pierce The Veil\\Collide With the Sky/12- Hold On Till May.m4a"
   },
   {
     "id": "267",
-    "title": "01",
+    "title": "Dive In",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 1,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/01.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/01- Dive In.m4a"
   },
   {
     "id": "268",
-    "title": "02",
+    "title": "Texas is Forever",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 2,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/02.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/02- Texas is Forever.m4a"
   },
   {
     "id": "269",
-    "title": "03",
+    "title": "The Divine Zero",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 3,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/03.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/03- The Divine Zero.m4a"
   },
   {
     "id": "270",
-    "title": "04",
+    "title": "Floral and Fading",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 4,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/04.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/04- Floral and Fading.m4a"
   },
   {
     "id": "271",
-    "title": "05",
+    "title": "Phantom Power And Ludicrous Speed",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 5,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/05.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/05- Phantom Power And Ludicrous Speed.m4a"
   },
   {
     "id": "272",
-    "title": "06",
+    "title": "Circles",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 6,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/06.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/06- Circles.m4a"
   },
   {
     "id": "273",
-    "title": "07",
+    "title": "Today I Saw The Whole World",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 7,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/07.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/07- Today I Saw The Whole World.m4a"
   },
   {
     "id": "274",
-    "title": "08",
+    "title": "Gold Medal Ribbon",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 8,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/08.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/08- Gold Medal Ribbon.m4a"
   },
   {
     "id": "275",
-    "title": "09",
+    "title": "Bedless",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 9,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/09.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/09- Bedless.m4a"
   },
   {
     "id": "276",
-    "title": "10",
+    "title": "Sambuka",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 10,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/10.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/10- Sambuka.m4a"
   },
   {
     "id": "277",
-    "title": "11",
+    "title": "Song For Isabelle",
     "artistIds": "10",
     "albumId": "25",
     "numberInAlbum": 11,
-    "url": "..\\music\\Pierce The Veil\\Misadventures/11.m4a"
+    "url": "..\\music\\Pierce The Veil\\Misadventures/11- Song For Isabelle.m4a"
   },
   {
     "id": "278",
-    "title": "01",
+    "title": "Besitos",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 1,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/01.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/01- Besitos.m4a"
   },
   {
     "id": "279",
-    "title": "02",
+    "title": "Southern Constellations",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 2,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/02.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/02- Southern Constellations.m4a"
   },
   {
     "id": "280",
-    "title": "03",
+    "title": "The Boy Who Could Fly",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 3,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/03.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/03- The Boy Who Could Fly.m4a"
   },
   {
     "id": "281",
-    "title": "04",
+    "title": "Caraphernelia",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 4,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/04.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/04- Caraphernelia.m4a"
   },
   {
     "id": "282",
-    "title": "05",
+    "title": "Fast Times at Clairmont High",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 5,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/05.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/05- Fast Times at Clairmont High.m4a"
   },
   {
     "id": "283",
-    "title": "06",
+    "title": "The New National Anthem",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 6,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/06.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/06- The New National Anthem.m4a"
   },
   {
     "id": "284",
-    "title": "07",
+    "title": "Bulletproof Love",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 7,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/07.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/07- Bulletproof Love.m4a"
   },
   {
     "id": "285",
-    "title": "08",
+    "title": "Stay Away from My Friends",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 8,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/08.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/08- Stay Away from My Friends.m4a"
   },
   {
     "id": "286",
-    "title": "09",
+    "title": "I Dont Care If Youre Contagious",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 9,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/09.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/09- I Dont Care If Youre Contagious.m4a"
   },
   {
     "id": "287",
-    "title": "10",
+    "title": "Disasterology",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 10,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/10.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/10- Disasterology.m4a"
   },
   {
     "id": "288",
-    "title": "11",
+    "title": "Million Dollar Houses (The Painter)",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 11,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/11.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/11- Million Dollar Houses (The Painter).m4a"
   },
   {
     "id": "289",
-    "title": "12",
+    "title": "The Sky Under the Sea",
     "artistIds": "10",
     "albumId": "26",
     "numberInAlbum": 12,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/12.m4a"
+    "url": "..\\music\\Pierce The Veil\\Selfish Machines/12- The Sky Under the Sea.m4a"
   },
   {
     "id": "290",
-    "title": "13",
-    "artistIds": "10",
-    "albumId": "26",
-    "numberInAlbum": 13,
-    "url": "..\\music\\Pierce The Veil\\Selfish Machines/13.m4a"
+    "title": "Harbinger",
+    "artistIds": "11",
+    "albumId": "27",
+    "numberInAlbum": 1,
+    "url": "..\\music\\Polaris\\Fatalism/01- Harbinger.m4a"
   },
   {
     "id": "291",
-    "title": "01",
+    "title": "Nightmare",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 1,
-    "url": "..\\music\\Polaris\\Fatalism/01.m4a"
+    "numberInAlbum": 2,
+    "url": "..\\music\\Polaris\\Fatalism/02- Nightmare.m4a"
   },
   {
     "id": "292",
-    "title": "02",
+    "title": "Parasites",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 2,
-    "url": "..\\music\\Polaris\\Fatalism/02.m4a"
+    "numberInAlbum": 3,
+    "url": "..\\music\\Polaris\\Fatalism/03- Parasites.m4a"
   },
   {
     "id": "293",
-    "title": "03",
+    "title": "Overflow",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 3,
-    "url": "..\\music\\Polaris\\Fatalism/03.m4a"
+    "numberInAlbum": 4,
+    "url": "..\\music\\Polaris\\Fatalism/04- Overflow.m4a"
   },
   {
     "id": "294",
-    "title": "04",
+    "title": "With Regards",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 4,
-    "url": "..\\music\\Polaris\\Fatalism/04.m4a"
+    "numberInAlbum": 5,
+    "url": "..\\music\\Polaris\\Fatalism/05- With Regards.m4a"
   },
   {
     "id": "295",
-    "title": "05",
+    "title": "Inhumane",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 5,
-    "url": "..\\music\\Polaris\\Fatalism/05.m4a"
+    "numberInAlbum": 6,
+    "url": "..\\music\\Polaris\\Fatalism/06- Inhumane.m4a"
   },
   {
     "id": "296",
-    "title": "06",
+    "title": "The Crossfire",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 6,
-    "url": "..\\music\\Polaris\\Fatalism/06.m4a"
+    "numberInAlbum": 7,
+    "url": "..\\music\\Polaris\\Fatalism/07- The Crossfire.m4a"
   },
   {
     "id": "297",
-    "title": "07",
+    "title": "Dissipate",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 7,
-    "url": "..\\music\\Polaris\\Fatalism/07.m4a"
+    "numberInAlbum": 8,
+    "url": "..\\music\\Polaris\\Fatalism/08- Dissipate.m4a"
   },
   {
     "id": "298",
-    "title": "08",
+    "title": "Aftertouch",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 8,
-    "url": "..\\music\\Polaris\\Fatalism/08.m4a"
+    "numberInAlbum": 9,
+    "url": "..\\music\\Polaris\\Fatalism/09- Aftertouch.m4a"
   },
   {
     "id": "299",
-    "title": "09",
+    "title": "Fault Line",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 9,
-    "url": "..\\music\\Polaris\\Fatalism/09.m4a"
+    "numberInAlbum": 10,
+    "url": "..\\music\\Polaris\\Fatalism/10- Fault Line.m4a"
   },
   {
     "id": "300",
-    "title": "10",
+    "title": "All In Vain",
     "artistIds": "11",
     "albumId": "27",
-    "numberInAlbum": 10,
-    "url": "..\\music\\Polaris\\Fatalism/10.m4a"
+    "numberInAlbum": 11,
+    "url": "..\\music\\Polaris\\Fatalism/11- All In Vain.m4a"
   },
   {
     "id": "301",
-    "title": "11",
+    "title": "Pray for Rain",
     "artistIds": "11",
-    "albumId": "27",
-    "numberInAlbum": 11,
-    "url": "..\\music\\Polaris\\Fatalism/11.m4a"
+    "albumId": "28",
+    "numberInAlbum": 1,
+    "url": "..\\music\\Polaris\\The Death of Me/01- Pray for Rain.m4a"
   },
   {
     "id": "302",
-    "title": "01",
+    "title": "Hypermania",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 1,
-    "url": "..\\music\\Polaris\\The Death of Me/01.m4a"
+    "numberInAlbum": 2,
+    "url": "..\\music\\Polaris\\The Death of Me/02- Hypermania.m4a"
   },
   {
     "id": "303",
-    "title": "02",
+    "title": "Masochist",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 2,
-    "url": "..\\music\\Polaris\\The Death of Me/02.m4a"
+    "numberInAlbum": 3,
+    "url": "..\\music\\Polaris\\The Death of Me/03- Masochist.m4a"
   },
   {
     "id": "304",
-    "title": "03",
+    "title": "Landmine",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 3,
-    "url": "..\\music\\Polaris\\The Death of Me/03.m4a"
+    "numberInAlbum": 4,
+    "url": "..\\music\\Polaris\\The Death of Me/04- Landmine.m4a"
   },
   {
     "id": "305",
-    "title": "04",
+    "title": "Vagabond",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 4,
-    "url": "..\\music\\Polaris\\The Death of Me/04.m4a"
+    "numberInAlbum": 5,
+    "url": "..\\music\\Polaris\\The Death of Me/05- Vagabond.m4a"
   },
   {
     "id": "306",
-    "title": "05",
+    "title": "Creatures of Habit",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 5,
-    "url": "..\\music\\Polaris\\The Death of Me/05.m4a"
+    "numberInAlbum": 6,
+    "url": "..\\music\\Polaris\\The Death of Me/06- Creatures of Habit.m4a"
   },
   {
     "id": "307",
-    "title": "06",
+    "title": "Above My Head",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 6,
-    "url": "..\\music\\Polaris\\The Death of Me/06.m4a"
+    "numberInAlbum": 7,
+    "url": "..\\music\\Polaris\\The Death of Me/07- Above My Head.m4a"
   },
   {
     "id": "308",
-    "title": "07",
+    "title": "Martyr (Waves)",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 7,
-    "url": "..\\music\\Polaris\\The Death of Me/07.m4a"
+    "numberInAlbum": 8,
+    "url": "..\\music\\Polaris\\The Death of Me/08- Martyr (Waves).m4a"
   },
   {
     "id": "309",
-    "title": "08",
+    "title": "All of this Is Fleeting",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 8,
-    "url": "..\\music\\Polaris\\The Death of Me/08.m4a"
+    "numberInAlbum": 9,
+    "url": "..\\music\\Polaris\\The Death of Me/09- All of this Is Fleeting.m4a"
   },
   {
     "id": "310",
-    "title": "09",
+    "title": "The Descent",
     "artistIds": "11",
     "albumId": "28",
-    "numberInAlbum": 9,
-    "url": "..\\music\\Polaris\\The Death of Me/09.m4a"
+    "numberInAlbum": 10,
+    "url": "..\\music\\Polaris\\The Death of Me/10- The Descent.m4a"
   },
   {
     "id": "311",
-    "title": "10",
-    "artistIds": "11",
-    "albumId": "28",
-    "numberInAlbum": 10,
-    "url": "..\\music\\Polaris\\The Death of Me/10.m4a"
+    "title": "(515)",
+    "artistIds": "12",
+    "albumId": "29",
+    "numberInAlbum": 1,
+    "url": "..\\music\\Slipknot\\Iowa/01- (515).m4a"
   },
   {
     "id": "312",
-    "title": "01",
+    "title": "People = Shit",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 1,
-    "url": "..\\music\\Slipknot\\Iowa/01.m4a"
+    "numberInAlbum": 2,
+    "url": "..\\music\\Slipknot\\Iowa/02- People = Shit.m4a"
   },
   {
     "id": "313",
-    "title": "02",
+    "title": "Disasterpiece",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 2,
-    "url": "..\\music\\Slipknot\\Iowa/02.m4a"
+    "numberInAlbum": 3,
+    "url": "..\\music\\Slipknot\\Iowa/03- Disasterpiece.m4a"
   },
   {
     "id": "314",
-    "title": "03",
+    "title": "My Plague",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 3,
-    "url": "..\\music\\Slipknot\\Iowa/03.m4a"
+    "numberInAlbum": 4,
+    "url": "..\\music\\Slipknot\\Iowa/04- My Plague.m4a"
   },
   {
     "id": "315",
-    "title": "04",
+    "title": "Everything Ends",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 4,
-    "url": "..\\music\\Slipknot\\Iowa/04.m4a"
+    "numberInAlbum": 5,
+    "url": "..\\music\\Slipknot\\Iowa/05- Everything Ends.m4a"
   },
   {
     "id": "316",
-    "title": "05",
+    "title": "The Heretic Anthem",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 5,
-    "url": "..\\music\\Slipknot\\Iowa/05.m4a"
+    "numberInAlbum": 6,
+    "url": "..\\music\\Slipknot\\Iowa/06- The Heretic Anthem.m4a"
   },
   {
     "id": "317",
-    "title": "06",
+    "title": "Gently",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 6,
-    "url": "..\\music\\Slipknot\\Iowa/06.m4a"
+    "numberInAlbum": 7,
+    "url": "..\\music\\Slipknot\\Iowa/07- Gently.m4a"
   },
   {
     "id": "318",
-    "title": "07",
+    "title": "Left Behind",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 7,
-    "url": "..\\music\\Slipknot\\Iowa/07.m4a"
+    "numberInAlbum": 8,
+    "url": "..\\music\\Slipknot\\Iowa/08- Left Behind.m4a"
   },
   {
     "id": "319",
-    "title": "08",
+    "title": "The Shape",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 8,
-    "url": "..\\music\\Slipknot\\Iowa/08.m4a"
+    "numberInAlbum": 9,
+    "url": "..\\music\\Slipknot\\Iowa/09- The Shape.m4a"
   },
   {
     "id": "320",
-    "title": "09",
+    "title": "I Am Hated",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 9,
-    "url": "..\\music\\Slipknot\\Iowa/09.m4a"
+    "numberInAlbum": 10,
+    "url": "..\\music\\Slipknot\\Iowa/10- I Am Hated.m4a"
   },
   {
     "id": "321",
-    "title": "10",
+    "title": "Skin Ticket",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 10,
-    "url": "..\\music\\Slipknot\\Iowa/10.m4a"
+    "numberInAlbum": 11,
+    "url": "..\\music\\Slipknot\\Iowa/11- Skin Ticket.m4a"
   },
   {
     "id": "322",
-    "title": "11",
+    "title": "New Abortion",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 11,
-    "url": "..\\music\\Slipknot\\Iowa/11.m4a"
+    "numberInAlbum": 12,
+    "url": "..\\music\\Slipknot\\Iowa/12- New Abortion.m4a"
   },
   {
     "id": "323",
-    "title": "12",
+    "title": "Metabolic",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 12,
-    "url": "..\\music\\Slipknot\\Iowa/12.m4a"
+    "numberInAlbum": 13,
+    "url": "..\\music\\Slipknot\\Iowa/13- Metabolic.m4a"
   },
   {
     "id": "324",
-    "title": "13",
+    "title": "Iowa",
     "artistIds": "12",
     "albumId": "29",
-    "numberInAlbum": 13,
-    "url": "..\\music\\Slipknot\\Iowa/13.m4a"
+    "numberInAlbum": 14,
+    "url": "..\\music\\Slipknot\\Iowa/14- Iowa.m4a"
   },
   {
     "id": "325",
-    "title": "14",
-    "artistIds": "12",
-    "albumId": "29",
-    "numberInAlbum": 14,
-    "url": "..\\music\\Slipknot\\Iowa/14.m4a"
-  },
-  {
-    "id": "326",
-    "title": "01",
+    "title": "742617000027",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 1,
-    "url": "..\\music\\Slipknot\\Slipknot/01.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/01- 742617000027.m4a"
   },
   {
-    "id": "327",
-    "title": "02",
+    "id": "326",
+    "title": "(sic)",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 2,
-    "url": "..\\music\\Slipknot\\Slipknot/02.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/02- (sic).m4a"
   },
   {
-    "id": "328",
-    "title": "03",
+    "id": "327",
+    "title": "Eyeless",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 3,
-    "url": "..\\music\\Slipknot\\Slipknot/03.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/03- Eyeless.m4a"
   },
   {
-    "id": "329",
-    "title": "04",
+    "id": "328",
+    "title": "Wait and Bleed",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 4,
-    "url": "..\\music\\Slipknot\\Slipknot/04.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/04- Wait and Bleed.m4a"
   },
   {
-    "id": "330",
-    "title": "05",
+    "id": "329",
+    "title": "Surfacing",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 5,
-    "url": "..\\music\\Slipknot\\Slipknot/05.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/05- Surfacing.m4a"
   },
   {
-    "id": "331",
-    "title": "06",
+    "id": "330",
+    "title": "Spit It Out",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 6,
-    "url": "..\\music\\Slipknot\\Slipknot/06.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/06- Spit It Out.m4a"
   },
   {
-    "id": "332",
-    "title": "07",
+    "id": "331",
+    "title": "Tattered and Torn",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 7,
-    "url": "..\\music\\Slipknot\\Slipknot/07.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/07- Tattered and Torn.m4a"
   },
   {
-    "id": "333",
-    "title": "08",
+    "id": "332",
+    "title": "Me inside",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 8,
-    "url": "..\\music\\Slipknot\\Slipknot/08.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/08- Me inside.m4a"
   },
   {
-    "id": "334",
-    "title": "09",
+    "id": "333",
+    "title": "Liberate",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 9,
-    "url": "..\\music\\Slipknot\\Slipknot/09.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/09- Liberate.m4a"
   },
   {
-    "id": "335",
-    "title": "10",
+    "id": "334",
+    "title": "Prosthetics",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 10,
-    "url": "..\\music\\Slipknot\\Slipknot/10.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/10- Prosthetics.m4a"
   },
   {
-    "id": "336",
-    "title": "11",
+    "id": "335",
+    "title": "No Life",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 11,
-    "url": "..\\music\\Slipknot\\Slipknot/11.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/11- No Life.m4a"
   },
   {
-    "id": "337",
-    "title": "12",
+    "id": "336",
+    "title": "Diluted",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 12,
-    "url": "..\\music\\Slipknot\\Slipknot/12.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/12- Diluted.m4a"
   },
   {
-    "id": "338",
-    "title": "13",
+    "id": "337",
+    "title": "Only One",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 13,
-    "url": "..\\music\\Slipknot\\Slipknot/13.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/13- Only One.m4a"
   },
   {
-    "id": "339",
-    "title": "14",
+    "id": "338",
+    "title": "Scissors",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 14,
-    "url": "..\\music\\Slipknot\\Slipknot/14.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/14- Scissors.m4a"
   },
   {
-    "id": "340",
-    "title": "15",
+    "id": "339",
+    "title": "Eeyore",
     "artistIds": "12",
     "albumId": "30",
     "numberInAlbum": 15,
-    "url": "..\\music\\Slipknot\\Slipknot/15.m4a"
+    "url": "..\\music\\Slipknot\\Slipknot/15- Eeyore.m4a"
   }
 ]
