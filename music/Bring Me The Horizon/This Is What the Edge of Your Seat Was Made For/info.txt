@@ -1,0 +1,2 @@
+genre=Hardcore Punk, Deathcore
+year=2004

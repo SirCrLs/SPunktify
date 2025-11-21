@@ -1,0 +1,2 @@
+genre=Metalcore, Post-Hardcore
+year=2020

@@ -1,0 +1,2 @@
+genre=Nu Metal, Alternative Metal
+year=2003
