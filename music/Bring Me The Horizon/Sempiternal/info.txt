@@ -1,2 +1,2 @@
-genre=Metalcore
+genre=Metalcore, Alternative Metal
 year=2013
