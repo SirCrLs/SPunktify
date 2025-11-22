@@ -81,13 +81,16 @@ function walk() {
         ? parseInfoFile(infoPath)
         : {};
 
+      const coverUrl = `/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
+
       const newAlbum = {
         id: String(albumId++),
         name: albumFolder,
         artistIds: newArtist.id,
-        cover: `${albumPath}/cover.png`,
+        cover: coverUrl,
         ...extraData
       };
+
       albums.push(newAlbum);
 
       const songFiles = fs.readdirSync(albumPath);
@@ -97,7 +100,8 @@ function walk() {
 
         if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
 
-        const songUrl = `${albumPath}/${file}`; 
+        const songUrl = `/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
+
         const cleanName = cleanSongName(file);
 
         const newSong = {
@@ -108,6 +112,7 @@ function walk() {
           numberInAlbum: numInAlbum,
           url: songUrl
         };
+
 
         
 

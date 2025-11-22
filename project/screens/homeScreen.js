@@ -1,4 +1,5 @@
 import { View, Text, Button } from "react-native";
+import { PlayerContext } from "../context/playerContext";
 
 export default function HomeScreen({ navigation }) {
 
