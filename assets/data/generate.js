@@ -83,7 +83,7 @@ function walk() {
         : {};
 
       const coverUrl = `/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
-      const coverUrlMobile = `assets/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
+      const coverUrlMobile = `/assets/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
 
       const newAlbum = {
         id: String(albumId++),
@@ -112,8 +112,11 @@ function walk() {
           id: String(songId++),
           title: cleanName,
           artistIds: newArtist.id,
+          artistName: newArtist.name,
           albumId: newAlbum.id,
           numberInAlbum: numInAlbum,
+          cover: coverUrl,
+          coverMobile: coverUrlMobile,
           url: songUrl,
           urlMobile: songUrlMobile
         };
