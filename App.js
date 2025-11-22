@@ -1,6 +1,7 @@
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import AppNavigator from "./navigation/appNavigator";
 import { PlayerProvider } from "./context/playerContext";
+import MiniPlayer from "./components/miniPlayer";
 
 
 export default function App() {
@@ -8,6 +9,7 @@ export default function App() {
     <SafeAreaProvider>
       <PlayerProvider>
         <AppNavigator />
+        <MiniPlayer />
       </PlayerProvider>
     </SafeAreaProvider>
   );

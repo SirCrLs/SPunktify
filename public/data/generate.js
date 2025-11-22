@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { url } = require("inspector");
 const path = require("path");
 
 const basePath = "../music";
@@ -82,12 +83,14 @@ function walk() {
         : {};
 
       const coverUrl = `/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
+      const coverUrlMobile = `assets/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
 
       const newAlbum = {
         id: String(albumId++),
         name: albumFolder,
         artistIds: newArtist.id,
         cover: coverUrl,
+        coverMobile: coverUrlMobile,
         ...extraData
       };
 
@@ -101,6 +104,7 @@ function walk() {
         if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
 
         const songUrl = `/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
+        const songUrlMobile = `/assets/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
 
         const cleanName = cleanSongName(file);
 
@@ -110,11 +114,9 @@ function walk() {
           artistIds: newArtist.id,
           albumId: newAlbum.id,
           numberInAlbum: numInAlbum,
-          url: songUrl
+          url: songUrl,
+          urlMobile: songUrlMobile
         };
-
-
-        
 
         songs.push(newSong);
         queue.push(newSong);
