@@ -1,0 +1,2 @@
+genre=Nu Metal
+year=1997

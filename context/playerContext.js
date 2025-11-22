@@ -1,4 +1,3 @@
-// src/context/PlayerContext.js
 import React, { createContext, useState, useRef } from "react";
 import { Audio } from "expo-av";
 
@@ -10,10 +9,7 @@ export function PlayerProvider({ children }) {
   const soundRef = useRef(null);
 
   async function playSong(song) {
-    if (!song) {
-      console.warn("[Player] playSong called with falsy song:", song);
-      return;
-    }
+    if (!song) return;
 
     try {
       // unload previous
@@ -24,7 +20,7 @@ export function PlayerProvider({ children }) {
 
       // create and play
       const { sound } = await Audio.Sound.createAsync(
-        { uri: song.url },
+        { uri: song.url },  // <- siempre URI
         { shouldPlay: true }
       );
 
@@ -34,6 +30,7 @@ export function PlayerProvider({ children }) {
 
       sound.setOnPlaybackStatusUpdate((status) => {
         if (!status) return;
+
         if (status.didJustFinish) {
           setIsPlaying(false);
         }
@@ -46,10 +43,7 @@ export function PlayerProvider({ children }) {
   }
 
   async function togglePlayPause() {
-    if (!soundRef.current) {
-      console.warn("[Player] togglePlayPause called but no sound loaded");
-      return;
-    }
+    if (!soundRef.current) return;
 
     try {
       if (isPlaying) {
@@ -65,13 +59,16 @@ export function PlayerProvider({ children }) {
   }
 
   return (
-    <PlayerContext.Provider value={{
-      currentSong,
-      isPlaying,
-      playSong,
-      togglePlayPause,
-    }}>
+    <PlayerContext.Provider
+      value={{
+        currentSong,
+        isPlaying,
+        playSong,
+        togglePlayPause,
+      }}
+    >
       {children}
     </PlayerContext.Provider>
   );
 }
+
