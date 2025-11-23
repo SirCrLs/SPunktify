@@ -37,8 +37,6 @@ export default function AppNavigator() {
         {renderScreen()}
       </View>
 
-      {/* MINI PLAYER */}
-        <MiniPlayer />
 
     </SafeAreaView>
   );

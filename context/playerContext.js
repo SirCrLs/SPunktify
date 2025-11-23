@@ -48,6 +48,7 @@ export function PlayerProvider({ children }) {
       );
 
       soundRef.current = sound;
+      song.cover = fixWebUrl(song.cover) ;
       setCurrentSong(song);
       setIsPlaying(true);
 
