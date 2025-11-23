@@ -21,9 +21,8 @@ export function PlayerProvider({ children }) {
     return { uri: fixWebUrl(song.url) };
   }
 
-  // Móvil → usar el archivo copiado dentro del bundle de assets
   if (song.urlMobile) {
-    return { uri: song.urlMobile };
+    return { uri: fixWebUrl(song.urlMobile) };
   }
 
   return { uri: fixWebUrl(song.url) };

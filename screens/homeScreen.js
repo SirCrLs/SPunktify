@@ -12,10 +12,10 @@ export default function HomeScreen() {
     artistName: "Bring Me The Horizon",
     albumId: "7",
     numberInAlbum: 10,
-    cover: "/music/Bring Me The Horizon/Post Human NeX GEn/cover.png",
-    coverMobile: "/assets/music/Bring Me The Horizon/Post Human NeX GEn/cover.png",
-    url: "/music/Bring Me The Horizon/Post Human NeX GEn/10- LosT.m4a",
-    urlMobile: "/assets/music/Bring Me The Horizon/Post Human NeX GEn/10- LosT.m4a"
+    cover: "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human NeX GEn/cover.png",
+    coverMobile: "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human NeX GEn/cover.png",
+    url: "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human NeX GEn/10- LosT.m4a",
+    urlMobile: "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human NeX GEn/10- LosT.m4a"
   };
 
   return (

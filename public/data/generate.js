@@ -97,8 +97,8 @@ function walk() {
         ? parseInfoFile(infoPath)
         : {};
 
-      const coverUrl = `/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
-      const coverUrlMobile = `./assets/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
+      const coverUrl = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
+      const coverUrlMobile = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
 
       const newAlbum = {
         id: String(albumId++),
@@ -118,8 +118,8 @@ function walk() {
 
         if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
 
-        const songUrl = `/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
-        const songUrlMobile = `./assets/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
+        const songUrl = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
+        const songUrlMobile = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
 
         const cleanName = cleanSongName(file);
 
