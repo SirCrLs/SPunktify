@@ -10,7 +10,24 @@ export function PlayerProvider({ children }) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [positionMillis, setPositionMillis] = useState(0);
   const [durationMillis, setDurationMillis] = useState(1);
+  const [sound, setSound] = useState(null);
+  const [volume, setVolumeState] = useState(0.5);
+  const MAX_VOLUME = 0.5;
+
   const soundRef = useRef(null);
+
+  const setVolume = async (value) => {
+    const finalVolume = Math.min(value, MAX_VOLUME); 
+    setVolumeState(finalVolume);
+
+    try {
+      if (soundRef.current) {
+        await soundRef.current.setStatusAsync({ volume: finalVolume });
+      }
+    } catch (e) {
+      console.log("Error al ajustar volumen:", e);
+    }
+  };
 
   // Encode spaces in web URLs
   function fixWebUrl(url) {
@@ -19,16 +36,8 @@ export function PlayerProvider({ children }) {
   }
 
   function getAudioSource(song) {
-  if (Platform.OS === "web") {
     return { uri: fixWebUrl(song.url) };
   }
-
-  if (song.urlMobile) {
-    return { uri: fixWebUrl(song.urlMobile) };
-  }
-
-  return { uri: fixWebUrl(song.url) };
-}
 
 
   async function playSong(song) {
@@ -46,8 +55,9 @@ export function PlayerProvider({ children }) {
 
       const { sound } = await Audio.Sound.createAsync(
         source,
-        { shouldPlay: true }
+          { shouldPlay: true, volume }
       );
+
 
       soundRef.current = sound;
       song.cover = fixWebUrl(song.cover) ;
@@ -108,6 +118,8 @@ export function PlayerProvider({ children }) {
         positionMillis,
         durationMillis,
         seekToPosition,
+        volume,
+        setVolume,
       }}
     >
       {children}

@@ -2,10 +2,12 @@ import React, { useContext, useState } from "react";
 import { View, Text, TouchableOpacity, Image, StyleSheet, Platform, Pressable } from "react-native";
 import { PlayerContext } from "../context/playerContext";
 import { SafeAreaView } from "react-native-safe-area-context";
+import Slider from '@react-native-community/slider';
+
 
 export default function MiniPlayer() {
 	const [barWidth, setBarWidth] = useState(0);
-    const { currentSong, isPlaying, togglePlayPause, positionMillis = 0, durationMillis = 1, seekToPosition} = useContext(PlayerContext);
+    const { currentSong, isPlaying, togglePlayPause, positionMillis = 0, durationMillis = 1, seekToPosition, volume, setVolume} = useContext(PlayerContext);
     if (!currentSong) return null;
 
     const coverSource = { uri: currentSong.cover };
@@ -36,13 +38,30 @@ export default function MiniPlayer() {
             <View style={styles.footer}>
                 <View style={styles.container}>
                     <Image source={coverSource} style={styles.cover} />
-                    <View style={{ flex: 1 }}>
+                    <View style={{flex: 1}}>
                         <Text numberOfLines={1} style={styles.title}>{currentSong.title || "Sin título"}</Text>
                         <Text numberOfLines={1} style={styles.artist}>{currentSong.artistName || ""}</Text>
                     </View>
-                    <TouchableOpacity onPress={togglePlayPause} style={styles.button}>
-                        <Text style={{ fontSize: 20, color: "white" }}>{isPlaying ? "⏸" : "▶️"}</Text>
-                    </TouchableOpacity>
+					<View style={styles.controls}>
+						{Platform.OS === "web" && (
+                            <Slider
+                                style={styles.volumeSlider}
+                                minimumValue={0}
+                                maximumValue={0.5} // limite a la mitad
+                                value={volume}
+                                onValueChange={(v) => setVolume(v)}
+                                minimumTrackTintColor="#1db954"
+                                maximumTrackTintColor="#444"
+                                thumbTintColor="#fff"
+                            />
+                        )}
+                        <View>
+                            <TouchableOpacity onPress={togglePlayPause} style={styles.button}>
+                                <Text style={{ fontSize: 25, color: "white" }}>{isPlaying ? "⏸" : "▶"}</Text>
+                            </TouchableOpacity>
+                        </View>
+					</View>
+                    
                 </View>
                 {/* Progress Bar with seek */}
                 <Pressable onPress={handleSeek}>
@@ -68,6 +87,7 @@ const styles = StyleSheet.create({
         borderTopColor: "#333",
         borderTopWidth: 1,
         zIndex: 100,
+        elevation: 10, 
     },
     container: {
         height: 60,
@@ -92,4 +112,15 @@ const styles = StyleSheet.create({
         backgroundColor: "#1db954",
         borderRadius: 8,
     },
+	controls: {
+		flex: 1,
+		flexDirection: "row",
+		alignItems: "center",
+        justifyContent: "flex-end",
+	},
+	volumeSlider: {
+		width: 100,  // ajusta según el espacio que quieras
+		height: 40,
+		marginLeft: 10,
+	},
 });
