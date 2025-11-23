@@ -8,6 +8,8 @@ export const PlayerContext = createContext();
 export function PlayerProvider({ children }) {
   const [currentSong, setCurrentSong] = useState(null);
   const [isPlaying, setIsPlaying] = useState(false);
+  const [positionMillis, setPositionMillis] = useState(0);
+  const [durationMillis, setDurationMillis] = useState(1);
   const soundRef = useRef(null);
 
   // Encode spaces in web URLs
@@ -52,8 +54,12 @@ export function PlayerProvider({ children }) {
       setCurrentSong(song);
       setIsPlaying(true);
 
-      // handle song ending
+      // handle song ending and update progress
       sound.setOnPlaybackStatusUpdate((status) => {
+        if (status?.isLoaded) {
+          setPositionMillis(status.positionMillis || 0);
+          setDurationMillis(status.durationMillis || 1);
+        }
         if (status?.didJustFinish) {
           setIsPlaying(false);
         }
@@ -81,6 +87,17 @@ export function PlayerProvider({ children }) {
     }
   }
 
+  async function seekToPosition(millis) {
+    if (soundRef.current && typeof soundRef.current.setPositionAsync === "function") {
+      try {
+        await soundRef.current.setPositionAsync(millis);
+        setPositionMillis(millis);
+      } catch (err) {
+        console.error("[Player] seekToPosition error:", err);
+      }
+    }
+  }
+
   return (
     <PlayerContext.Provider
       value={{
@@ -88,6 +105,9 @@ export function PlayerProvider({ children }) {
         isPlaying,
         playSong,
         togglePlayPause,
+        positionMillis,
+        durationMillis,
+        seekToPosition,
       }}
     >
       {children}

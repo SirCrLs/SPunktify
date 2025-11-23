@@ -1,29 +1,52 @@
-import React, { useContext } from "react";
-import { View, Text, TouchableOpacity, Image, StyleSheet, Platform } from "react-native";
+import React, { useContext, useState } from "react";
+import { View, Text, TouchableOpacity, Image, StyleSheet, Platform, Pressable } from "react-native";
 import { PlayerContext } from "../context/playerContext";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 export default function MiniPlayer() {
-	const { currentSong, isPlaying, togglePlayPause } = useContext(PlayerContext);
-	if (!currentSong) return null;
+	const [barWidth, setBarWidth] = useState(0);
+    const { currentSong, isPlaying, togglePlayPause, positionMillis = 0, durationMillis = 1, seekToPosition} = useContext(PlayerContext);
+    if (!currentSong) return null;
 
+    const coverSource = { uri: currentSong.cover };
+    const progress = durationMillis > 0 ? positionMillis / durationMillis : 0;
 
-	return (
+    // Seek function
+    const handleSeek = (evt) => {
+        if (!durationMillis || !seekToPosition || !barWidth || durationMillis <= 0) return;
+        const { locationX } = evt.nativeEvent;
+        const percent = Math.max(0, Math.min(1, locationX / barWidth));
+        const seekTo = percent * durationMillis;
+        if (isFinite(seekTo) && seekTo >= 0 && seekTo <= durationMillis) {
+            seekToPosition(seekTo);
+        }
+    };
+
+    return (
         <SafeAreaView edges={["bottom"]} style={styles.footer}>
-			<View style={styles.footer}>
-				<View style={styles.container}>
-					<Image source={currentSong.cover} style={styles.cover} />
-					<View style={{ flex: 1 }}>
-						<Text numberOfLines={1} style={styles.title}>{currentSong.title || "Sin título"}</Text>
-						<Text numberOfLines={1} style={styles.artist}>{currentSong.artistName || ""}</Text>
-					</View>
-					<TouchableOpacity onPress={togglePlayPause} style={styles.button}>
-						<Text style={{ fontSize: 20, color: "white" }}>{isPlaying ? "⏸" : "▶️"}</Text>
-					</TouchableOpacity>
-				</View>
-			</View>
-		</SafeAreaView>
-	);
+            <View style={styles.footer}>
+                <View style={styles.container}>
+                    <Image source={coverSource} style={styles.cover} />
+                    <View style={{ flex: 1 }}>
+                        <Text numberOfLines={1} style={styles.title}>{currentSong.title || "Sin título"}</Text>
+                        <Text numberOfLines={1} style={styles.artist}>{currentSong.artistName || ""}</Text>
+                    </View>
+                    <TouchableOpacity onPress={togglePlayPause} style={styles.button}>
+                        <Text style={{ fontSize: 20, color: "white" }}>{isPlaying ? "⏸" : "▶️"}</Text>
+                    </TouchableOpacity>
+                </View>
+                {/* Progress Bar with seek */}
+                <Pressable onPress={handleSeek}>
+                    <View
+                        style={styles.progressBarContainer}
+                        onLayout={e => setBarWidth(e.nativeEvent.layout.width)}
+                    >
+                        <View style={[styles.progressBar, { width: `${Math.round(progress * 100)}%` }]} />
+                    </View>
+                </Pressable>
+            </View>
+        </SafeAreaView>
+    );
 }
 
 const styles = StyleSheet.create({
@@ -47,4 +70,17 @@ const styles = StyleSheet.create({
     title: { color: "white", fontSize: 16, fontWeight: "bold" },
     artist: { color: "#bbb", fontSize: 14 },
     button: { paddingHorizontal: 10 },
+    progressBarContainer: {
+        height: 8,
+        width: "100%",
+        backgroundColor: "#444",
+        borderRadius: 8,
+        overflow: "hidden",
+        marginTop: 2,
+    },
+    progressBar: {
+        height: 8,
+        backgroundColor: "#1db954",
+        borderRadius: 8,
+    },
 });
