@@ -14,8 +14,17 @@ export default function MiniPlayer() {
     // Seek function
     const handleSeek = (evt) => {
         if (!durationMillis || !seekToPosition || !barWidth || durationMillis <= 0) return;
-        const { locationX } = evt.nativeEvent;
-        const percent = Math.max(0, Math.min(1, locationX / barWidth));
+        let percent = 0;
+        if (Platform.OS === "web") {
+            // Use clientX and getBoundingClientRect for web
+            const rect = evt.target.getBoundingClientRect();
+            const x = evt.nativeEvent.clientX - rect.left;
+            percent = Math.max(0, Math.min(1, x / rect.width));
+        } else {
+            // Use locationX for native
+            const { locationX } = evt.nativeEvent;
+            percent = Math.max(0, Math.min(1, locationX / barWidth));
+        }
         const seekTo = percent * durationMillis;
         if (isFinite(seekTo) && seekTo >= 0 && seekTo <= durationMillis) {
             seekToPosition(seekTo);
@@ -54,7 +63,7 @@ const styles = StyleSheet.create({
         position: "absolute",
         left: 0,
         right: 0,
-        bottom: !(Platform.OS === "web") ? 20 : 0,
+        bottom: !(Platform.OS === "web") ? 25 : 0,
         backgroundColor: "#222",
         borderTopColor: "#333",
         borderTopWidth: 1,
