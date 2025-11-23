@@ -1,2 +1,0 @@
-genre=Hardcore Punk
-year=2008

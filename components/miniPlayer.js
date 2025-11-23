@@ -6,7 +6,6 @@ export default function MiniPlayer() {
 	const { currentSong, isPlaying, togglePlayPause } = useContext(PlayerContext);
 	if (!currentSong) return null;
 
-  
 
 	return (
 		<View style={styles.footer}>

@@ -1,2 +1,0 @@
-genre=Nu Metal
-year=2001

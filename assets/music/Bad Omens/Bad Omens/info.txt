@@ -1,2 +1,0 @@
-genre=Metalcore
-year=2016

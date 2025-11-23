@@ -1,6 +1,7 @@
 const fs = require("fs");
 const { url } = require("inspector");
 const path = require("path");
+const os = require("os"); 
 
 const basePath = "../music";
 
@@ -13,6 +14,18 @@ let artistId = 1;
 let albumId = 1;
 let songId = 1;
 
+function getLocalIP() {
+  const interfaces = os.networkInterfaces();
+  for (const name of Object.keys(interfaces)) {
+    for (const iface of interfaces[name]) {
+      if (iface.family === "IPv4" && !iface.internal) {
+        return iface.address;
+      }
+    }
+  }
+  return "127.0.0.1"; // fallback
+}
+
 function cleanSongName(filename) {
   const nameWithoutExt = filename.replace(/\.[^/.]+$/, "");
 
@@ -24,6 +37,8 @@ function cleanSongName(filename) {
 
   return nameWithoutExt.trim();
 }
+
+const localIP = getLocalIP();
 
 function parseInfoFile(infoPath) {
   try {
@@ -83,7 +98,7 @@ function walk() {
         : {};
 
       const coverUrl = `/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
-      const coverUrlMobile = `/assets/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
+      const coverUrlMobile = `./assets/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
 
       const newAlbum = {
         id: String(albumId++),
@@ -104,7 +119,7 @@ function walk() {
         if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
 
         const songUrl = `/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
-        const songUrlMobile = `/assets/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
+        const songUrlMobile = `./assets/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
 
         const cleanName = cleanSongName(file);
 
