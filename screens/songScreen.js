@@ -3,40 +3,15 @@ import { View, Text, FlatList, TouchableOpacity, StyleSheet } from "react-native
 import { PlayerContext } from "../context/playerContext";
 
 
-if (typeof global.self === "undefined") global.self = global;
-global.XMLHttpRequest = global.originalXMLHttpRequest || global.XMLHttpRequest;
-global.fetch = global.fetch;
-
 export default function SongScreen() {
   const [songs, setSongs] = useState([]);
   const { playSong } = useContext(PlayerContext);
 
-  useEffect(() => {
-    async function loadSongs() {
-      try {
-        const url = "http://192.168.100.142:8080/data/songs.json";
+    const songsJSON = require("../data/songs.json");
 
-        console.log("FETCHING:", url);
-
-        const response = await fetch(url);
-        const json = await response.json();
-
-        try {
-          setSongs(json);
-        } catch (err) {
-          console.log("JSON inválido:", text.substring(0, 200));
-          return;
-        }
-
-      } catch (err) {
-        console.log("Error loading songs.json:", err);
-      }
-    }
-
-    loadSongs();
-  }, []);
-
-
+    useEffect(() => {
+    setSongs(songsJSON);
+    }, []);
 
   return (
     <View style={styles.container}>

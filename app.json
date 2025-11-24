@@ -16,6 +16,10 @@
       "supportsTablet": true
     },
     "android": {
+      "usesCleartextTraffic": true,
+      "permissions": [
+        "INTERNET"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/Spunktify_logo.png",
         "backgroundColor": "#000000"
