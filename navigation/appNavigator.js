@@ -2,11 +2,8 @@ import { useState } from "react";
 import { View, Text, TouchableOpacity, StyleSheet } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 
-import { PlayerProvider } from "../context/playerContext";
-import MiniPlayer from "../components/miniPlayer";
-
 import HomeScreen from "../screens/homeScreen";
-import ArtistScreen from "../screens/artistScreen";
+import SongScreen from "../screens/songScreen";
 import AlbumScreen from "../screens/albumScreen";
 import PlayerScreen from "../screens/playerScreen";
 
@@ -14,12 +11,13 @@ export default function AppNavigator() {
   const [currentScreen, setCurrentScreen] = useState("Home");
 
   const renderScreen = () => {
-    if (currentScreen === "Home") return <HomeScreen />;
-    if (currentScreen === "Artist") return <ArtistScreen />;
-    if (currentScreen === "Album") return <AlbumScreen />;
-    if (currentScreen === "Player") return <PlayerScreen />;
-    return <HomeScreen />;
+    if (currentScreen === "Home") return <HomeScreen key="home" />;
+    if (currentScreen === "Song") return <SongScreen key="song" />;
+    if (currentScreen === "Album") return <AlbumScreen key="album" />;
+    if (currentScreen === "Player") return <PlayerScreen key="player" />;
+    return <HomeScreen key="home-default" />;
   };
+
 
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: "#222" }}>
@@ -27,7 +25,7 @@ export default function AppNavigator() {
       {/* HEADER FIJO */}
       <View style={styles.header}>
         <NavButton title="Home" onPress={() => setCurrentScreen("Home")} />
-        <NavButton title="Artistas" onPress={() => setCurrentScreen("Artist")} />
+        <NavButton title="Songs" onPress={() => setCurrentScreen("Song")} />
         <NavButton title="Álbumes" onPress={() => setCurrentScreen("Album")} />
         <NavButton title="Player" onPress={() => setCurrentScreen("Player")} />
       </View>
