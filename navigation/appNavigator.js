@@ -5,7 +5,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import HomeScreen from "../screens/homeScreen";
 import SongScreen from "../screens/songScreen";
 import AlbumScreen from "../screens/albumScreen";
-import PlayerScreen from "../screens/playerScreen";
+import PlaylistScreen from "../screens/playlistScreen";
 
 export default function AppNavigator() {
   const [currentScreen, setCurrentScreen] = useState("Home");
@@ -14,7 +14,7 @@ export default function AppNavigator() {
     if (currentScreen === "Home") return <HomeScreen key="home" />;
     if (currentScreen === "Song") return <SongScreen key="song" />;
     if (currentScreen === "Album") return <AlbumScreen key="album" />;
-    if (currentScreen === "Player") return <PlayerScreen key="player" />;
+    if (currentScreen === "Playlist") return <PlaylistScreen key="playlist" />;
     return <HomeScreen key="home-default" />;
   };
 
@@ -27,7 +27,7 @@ export default function AppNavigator() {
         <NavButton title="Home" onPress={() => setCurrentScreen("Home")} />
         <NavButton title="Songs" onPress={() => setCurrentScreen("Song")} />
         <NavButton title="Albums" onPress={() => setCurrentScreen("Album")} />
-        <NavButton title="Player" onPress={() => setCurrentScreen("Player")} />
+        <NavButton title="Playlist" onPress={() => setCurrentScreen("Playlist")} />
       </View>
 
       {/* CONTENIDO */}

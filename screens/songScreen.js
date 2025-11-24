@@ -2,6 +2,9 @@ import React, { useEffect, useState, useContext } from "react";
 import { View, Text, FlatList, TouchableOpacity, StyleSheet, Image } from "react-native";
 import { PlayerContext } from "../context/playerContext";
 import { sortByTitle, sortByArtist } from "../utils/songSorter";
+import AddToPlaylistModal from "../components/addToPlaylistModal";
+import { PlaylistContext } from "../context/playlistContext";
+
 
 function fixWebUrl(url) {
     if (!url) return url;
@@ -12,9 +15,22 @@ export default function SongScreen() {
   const [songs, setSongs] = useState([]);
   const [sortMode, setSortMode] = useState("artist"); // title | artist
   const [reverse, setReverse] = useState(false); // asc | desc
+  const [addModalVisible, setAddModalVisible] = useState(false);
+  const [songToAdd, setSongToAdd] = useState(null);
+  const { playlists, addSongToPlaylists, createPlaylist } = useContext(PlaylistContext);
+
 
   const { playSong } = useContext(PlayerContext);
   const songsJSON = require("../data/songs.json");
+
+  function openAddToPlaylist(song) {
+    setSongToAdd(song);
+    setAddModalVisible(true);
+  }
+
+  function handleAddToPlaylist(playlistIds) {
+    addSongToPlaylists(songToAdd.id, playlistIds);
+  }
 
   useEffect(() => {
     applySorting();
@@ -84,10 +100,23 @@ export default function SongScreen() {
                   {item.artistName}
                 </Text>
               </View>
+              <TouchableOpacity
+                style={styles.addBtn}
+                onPress={() => openAddToPlaylist(item)}
+              >
+                <Text style={{ color: "white", fontSize: 18 }}>＋</Text>
+              </TouchableOpacity>
+
             </TouchableOpacity>
           )}
         />
       </View>
+      <AddToPlaylistModal
+        visible={addModalVisible}
+        playlists={playlists}
+        onClose={() => setAddModalVisible(false)}
+        onAdd={handleAddToPlaylist}
+      />
 
     </View>
   );
@@ -191,4 +220,8 @@ buttonText: {
   songTitle: { color: "white", fontSize: 18 },
 
   songArtist: { color: "#aaa", fontSize: 14 },
+  addBtn: {
+    flexDirection: "row",
+    paddingHorizontal: 15,
+  },
 });

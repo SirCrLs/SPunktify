@@ -12,9 +12,6 @@ export default function AlbumScreen() {
   const [selectedAlbum, setSelectedAlbum] = useState(null);
   const { playSong } = useContext(PlayerContext);
 
-  // -------------------------------
-  //     DETALLE DEL ÁLBUM
-  // -------------------------------
   if (selectedAlbum) {
     const albumSongs = songsJSON.filter(s => s.albumId === selectedAlbum.id);
 
@@ -63,9 +60,6 @@ export default function AlbumScreen() {
     );
   }
 
-  // -------------------------------
-  //    GRID DE ÁLBUMES
-  // -------------------------------
   const numCols = Platform.OS === "web" ? 4 : 2;
 
   return (
