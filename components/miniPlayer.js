@@ -7,7 +7,7 @@ import Slider from '@react-native-community/slider';
 
 export default function MiniPlayer() {
 	const [barWidth, setBarWidth] = useState(0);
-    const { currentSong, isPlaying, togglePlayPause, positionMillis = 0, durationMillis = 1, seekToPosition, volume, setVolume} = useContext(PlayerContext);
+    const { currentSong, isPlaying, togglePlayPause, positionMillis = 0, durationMillis = 1,playNext, seekToPosition, volume, setVolume} = useContext(PlayerContext);
     if (!currentSong) return null;
 
     const coverSource = { uri: currentSong.cover };
