@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import { View, Text, TouchableOpacity, Image, StyleSheet, Platform, Pressable } from "react-native";
-import { PlayerContext } from "../context/playerContext";
+import { PlayerContext, playNext } from "../context/playerContext";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Slider from '@react-native-community/slider';
 
@@ -43,11 +43,11 @@ export default function MiniPlayer() {
                         <Text numberOfLines={1} style={styles.artist}>{currentSong.artistName || ""}</Text>
                     </View>
 					<View style={styles.controls}>
-						{Platform.OS === "web" && (
+                        {Platform.OS === "web" && (
                             <Slider
                                 style={styles.volumeSlider}
                                 minimumValue={0}
-                                maximumValue={0.5} // limite a la mitad
+                                maximumValue={0.5}
                                 value={volume}
                                 onValueChange={(v) => setVolume(v)}
                                 minimumTrackTintColor="#1db954"
@@ -55,12 +55,19 @@ export default function MiniPlayer() {
                                 thumbTintColor="#fff"
                             />
                         )}
-                        <View>
-                            <TouchableOpacity onPress={togglePlayPause} style={styles.button}>
-                                <Text style={{ fontSize: 25, color: "white" }}>{isPlaying ? "⏸" : "▶"}</Text>
-                            </TouchableOpacity>
-                        </View>
-					</View>
+
+                        {/* Botón Play/Pause */}
+                        <TouchableOpacity onPress={togglePlayPause} style={styles.button}>
+                            <Text style={{ fontSize: 25, color: "white" }}>
+                                {isPlaying ? "⏸" : "▶"}
+                            </Text>
+                        </TouchableOpacity>
+
+                        {/* Botón Siguiente */}
+                        <TouchableOpacity onPress={playNext} style={styles.button}>
+                            <Text style={{ fontSize: 22, color: "white" }}>⏭️</Text>
+                        </TouchableOpacity>
+                    </View>
                     
                 </View>
                 {/* Progress Bar with seek */}
@@ -98,7 +105,7 @@ const styles = StyleSheet.create({
     cover: { width: 45, height: 45, borderRadius: 5, marginRight: 10 },
     title: { color: "white", fontSize: 16, fontWeight: "bold" },
     artist: { color: "#bbb", fontSize: 14 },
-    button: { paddingHorizontal: 10 },
+    button: { paddingHorizontal: 10 , marginLeft: 5},
     progressBarContainer: {
         height: 8,
         width: "100%",

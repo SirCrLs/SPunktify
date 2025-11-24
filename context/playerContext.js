@@ -1,7 +1,5 @@
 import React, { createContext, useState, useRef } from "react";
 import { Audio } from "expo-av";
-import { Platform } from "react-native";
-import { Asset } from "expo-asset";
 
 export const PlayerContext = createContext();
 
@@ -10,101 +8,116 @@ export function PlayerProvider({ children }) {
   const [isPlaying, setIsPlaying] = useState(false);
   const [positionMillis, setPositionMillis] = useState(0);
   const [durationMillis, setDurationMillis] = useState(1);
-  const [sound, setSound] = useState(null);
+  const queueRef = useRef([]);
+  const queueIndexRef = useRef(0);
+
   const [volume, setVolumeState] = useState(0.5);
   const MAX_VOLUME = 0.5;
 
+  const [queue, setQueue] = useState([]);
+  const [queueIndex, setQueueIndex] = useState(0);
+
   const soundRef = useRef(null);
 
-  const setVolume = async (value) => {
-    const finalVolume = Math.min(value, MAX_VOLUME); 
-    setVolumeState(finalVolume);
+  const fixWebUrl = (url) => url?.split(" ").join("%20");
 
-    try {
-      if (soundRef.current) {
-        await soundRef.current.setStatusAsync({ volume: finalVolume });
-      }
-    } catch (e) {
-      console.log("Error al ajustar volumen:", e);
+  const getAudioSource = (song) => ({ uri: fixWebUrl(song.url) });
+
+  const setVolume = async (value) => {
+    const finalVolume = Math.min(value, MAX_VOLUME);
+    setVolumeState(finalVolume);
+    if (soundRef.current) {
+      await soundRef.current.setStatusAsync({ volume: finalVolume });
     }
   };
 
-  // Encode spaces in web URLs
-  function fixWebUrl(url) {
-    if (!url) return url;
-    return url.split(" ").join("%20");
-  }
-
-  function getAudioSource(song) {
-    return { uri: fixWebUrl(song.url) };
-  }
-
-
-  async function playSong(song) {
+  // -----------------------
+  // PLAY SONG
+  // -----------------------
+  async function playSong(song, fullQueue = null) {
     if (!song) return;
 
     try {
-      // unload previous audio
       if (soundRef.current) {
         await soundRef.current.unloadAsync();
         soundRef.current = null;
       }
 
-      // get correct audio source
-      const source = getAudioSource(song);
+      // Si viene una cola, actualizar refs y estados
+      if (fullQueue) {
+        queueRef.current = fullQueue;
+        setQueue(fullQueue);
+
+        const idx = fullQueue.findIndex((s) => s.id === song.id);
+        const finalIndex = idx >= 0 ? idx : 0;
+
+        queueIndexRef.current = finalIndex;
+        setQueueIndex(finalIndex);
+      }
 
       const { sound } = await Audio.Sound.createAsync(
-        source,
-          { shouldPlay: true, volume }
+        getAudioSource(song),
+        { shouldPlay: true, volume }
       );
 
-
       soundRef.current = sound;
-      song.cover = fixWebUrl(song.cover) ;
-      setCurrentSong(song);
+      setCurrentSong({ ...song, cover: fixWebUrl(song.cover) });
       setIsPlaying(true);
 
-      // handle song ending and update progress
       sound.setOnPlaybackStatusUpdate((status) => {
         if (status?.isLoaded) {
           setPositionMillis(status.positionMillis || 0);
           setDurationMillis(status.durationMillis || 1);
         }
         if (status?.didJustFinish) {
-          setIsPlaying(false);
+          playNext();
         }
       });
 
     } catch (err) {
       console.error("[Player] error in playSong:", err);
-      setIsPlaying(false);
     }
   }
 
+
+  // -----------------------
+  // SIGUIENTE (FUNCIONAL)
+  // -----------------------
+  function playNext() {
+    const q = queueRef.current;
+    const idx = queueIndexRef.current;
+
+    if (idx + 1 >= q.length) {
+      setIsPlaying(false);
+      return;
+    }
+
+    const nextIndex = idx + 1;
+
+    queueIndexRef.current = nextIndex;
+    setQueueIndex(nextIndex);
+
+    playSong(q[nextIndex]);
+  }
+
+
+  // -----------------------
   async function togglePlayPause() {
     if (!soundRef.current) return;
 
-    try {
-      if (isPlaying) {
-        await soundRef.current.pauseAsync();
-        setIsPlaying(false);
-      } else {
-        await soundRef.current.playAsync();
-        setIsPlaying(true);
-      }
-    } catch (err) {
-      console.error("[Player] togglePlayPause error:", err);
+    if (isPlaying) {
+      await soundRef.current.pauseAsync();
+      setIsPlaying(false);
+    } else {
+      await soundRef.current.playAsync();
+      setIsPlaying(true);
     }
   }
 
   async function seekToPosition(millis) {
-    if (soundRef.current && typeof soundRef.current.setPositionAsync === "function") {
-      try {
-        await soundRef.current.setPositionAsync(millis);
-        setPositionMillis(millis);
-      } catch (err) {
-        console.error("[Player] seekToPosition error:", err);
-      }
+    if (soundRef.current) {
+      await soundRef.current.setPositionAsync(millis);
+      setPositionMillis(millis);
     }
   }
 
@@ -113,7 +126,10 @@ export function PlayerProvider({ children }) {
       value={{
         currentSong,
         isPlaying,
+        queue,
+        queueIndex,
         playSong,
+        playNext,
         togglePlayPause,
         positionMillis,
         durationMillis,
