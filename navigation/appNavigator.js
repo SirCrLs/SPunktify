@@ -26,7 +26,7 @@ export default function AppNavigator() {
       <View style={styles.header}>
         <NavButton title="Home" onPress={() => setCurrentScreen("Home")} />
         <NavButton title="Songs" onPress={() => setCurrentScreen("Song")} />
-        <NavButton title="Álbumes" onPress={() => setCurrentScreen("Album")} />
+        <NavButton title="Albums" onPress={() => setCurrentScreen("Album")} />
         <NavButton title="Player" onPress={() => setCurrentScreen("Player")} />
       </View>
 

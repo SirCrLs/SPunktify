@@ -2,9 +2,9 @@
   {
     "id": "1",
     "name": "Reckless and Relentless",
+    "artistName": "Asking Alexandria",
     "artistIds": "1",
     "cover": "http://192.168.100.142:8080/music/Asking Alexandria/Reckless and Relentless/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Asking Alexandria/Reckless and Relentless/cover.png",
     "genre": [
       "Metalcore",
       "Hardcore Punk"
@@ -14,36 +14,36 @@
   {
     "id": "2",
     "name": "Stand Up and Scream",
+    "artistName": "Asking Alexandria",
     "artistIds": "1",
     "cover": "http://192.168.100.142:8080/music/Asking Alexandria/Stand Up and Scream/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Asking Alexandria/Stand Up and Scream/cover.png",
     "genre": "Metalcore",
     "year": "2009"
   },
   {
     "id": "3",
     "name": "Bad Omens",
+    "artistName": "Bad Omens",
     "artistIds": "2",
     "cover": "http://192.168.100.142:8080/music/Bad Omens/Bad Omens/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bad Omens/Bad Omens/cover.png",
     "genre": "Metalcore",
     "year": "2016"
   },
   {
     "id": "4",
     "name": "Finding God Before God Finds Me",
+    "artistName": "Bad Omens",
     "artistIds": "2",
     "cover": "http://192.168.100.142:8080/music/Bad Omens/Finding God Before God Finds Me/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bad Omens/Finding God Before God Finds Me/cover.png",
     "genre": "Metalcore",
     "year": "2019"
   },
   {
     "id": "5",
     "name": "The Death of Peace of Mind",
+    "artistName": "Bad Omens",
     "artistIds": "2",
     "cover": "http://192.168.100.142:8080/music/Bad Omens/The Death of Peace of Mind/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bad Omens/The Death of Peace of Mind/cover.png",
     "genre": [
       "Metalcore",
       "Alternative Metal"
@@ -53,18 +53,18 @@
   {
     "id": "6",
     "name": "Count Your Blessings",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Count Your Blessings/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/Count Your Blessings/cover.png",
     "genre": "Deathcore",
     "year": "2006"
   },
   {
     "id": "7",
     "name": "Post Human NeX GEn",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human NeX GEn/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human NeX GEn/cover.png",
     "genre": [
       "Post-Hardcore",
       "Pop-Punk"
@@ -74,9 +74,9 @@
   {
     "id": "8",
     "name": "Post Human Survival Horror",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human Survival Horror/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human Survival Horror/cover.png",
     "genre": [
       "Metalcore",
       "Post-Hardcore",
@@ -87,9 +87,9 @@
   {
     "id": "9",
     "name": "Sempiternal",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Sempiternal/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/Sempiternal/cover.png",
     "genre": [
       "Metalcore",
       "Alternative Metal"
@@ -99,9 +99,9 @@
   {
     "id": "10",
     "name": "Suicide Season",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Suicide Season/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/Suicide Season/cover.png",
     "genre": [
       "Deathcore",
       "Metalcore"
@@ -111,27 +111,27 @@
   {
     "id": "11",
     "name": "Thats the Spirit",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Thats the Spirit/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/Thats the Spirit/cover.png",
     "genre": "Alternative Metal",
     "year": "2015"
   },
   {
     "id": "12",
     "name": "There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/cover.png",
     "genre": "Metalcore",
     "year": "2010"
   },
   {
     "id": "13",
     "name": "This Is What the Edge of Your Seat Was Made For",
+    "artistName": "Bring Me The Horizon",
     "artistIds": "3",
     "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/This Is What the Edge of Your Seat Was Made For/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Bring Me The Horizon/This Is What the Edge of Your Seat Was Made For/cover.png",
     "genre": [
       "Hardcore Punk",
       "Deathcore"
@@ -141,27 +141,27 @@
   {
     "id": "14",
     "name": "Around the Fur",
+    "artistName": "Deftones",
     "artistIds": "4",
     "cover": "http://192.168.100.142:8080/music/Deftones/Around the Fur/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Deftones/Around the Fur/cover.png",
     "genre": "Nu Metal",
     "year": "1997"
   },
   {
     "id": "15",
     "name": "Diamond Eyes",
+    "artistName": "Deftones",
     "artistIds": "4",
     "cover": "http://192.168.100.142:8080/music/Deftones/Diamond Eyes/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Deftones/Diamond Eyes/cover.png",
     "genre": "Alternative Metal",
     "year": "2010"
   },
   {
     "id": "16",
     "name": "Meteora",
+    "artistName": "Linkin Park",
     "artistIds": "5",
     "cover": "http://192.168.100.142:8080/music/Linkin Park/Meteora/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Linkin Park/Meteora/cover.png",
     "genre": [
       "Nu Metal",
       "Alternative Metal"
@@ -171,45 +171,45 @@
   {
     "id": "17",
     "name": "I Feel the Everblack Festering Within Me",
+    "artistName": "Lorna Shore",
     "artistIds": "6",
     "cover": "http://192.168.100.142:8080/music/Lorna Shore/I Feel the Everblack Festering Within Me/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Lorna Shore/I Feel the Everblack Festering Within Me/cover.png",
     "genre": "Deathcore",
     "year": "2025"
   },
   {
     "id": "18",
     "name": "Pain Remains",
+    "artistName": "Lorna Shore",
     "artistIds": "6",
     "cover": "http://192.168.100.142:8080/music/Lorna Shore/Pain Remains/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Lorna Shore/Pain Remains/cover.png",
     "genre": "Deathcore",
     "year": "2022"
   },
   {
     "id": "19",
     "name": "Aratamemashite, hajimemashite, Midori desu",
+    "artistName": "Midori",
     "artistIds": "7",
     "cover": "http://192.168.100.142:8080/music/Midori/Aratamemashite, hajimemashite, Midori desu/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Midori/Aratamemashite, hajimemashite, Midori desu/cover.png",
     "genre": "Hardcore Punk",
     "year": "2008"
   },
   {
     "id": "20",
     "name": "I Brought You My Bullets, You Brought Me Your Love",
+    "artistName": "My Chemical Romance",
     "artistIds": "8",
     "cover": "http://192.168.100.142:8080/music/My Chemical Romance/I Brought You My Bullets, You Brought Me Your Love/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/My Chemical Romance/I Brought You My Bullets, You Brought Me Your Love/cover.png",
     "genre": "Pop-Punk",
     "year": "2002"
   },
   {
     "id": "21",
     "name": "Three Cheers for Sweet Revenge",
+    "artistName": "My Chemical Romance",
     "artistIds": "8",
     "cover": "http://192.168.100.142:8080/music/My Chemical Romance/Three Cheers for Sweet Revenge/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/My Chemical Romance/Three Cheers for Sweet Revenge/cover.png",
     "genre": [
       "Pop-Punk",
       "Post-Hardcore"
@@ -219,18 +219,18 @@
   {
     "id": "22",
     "name": "A Fever You Cant Sweat Out",
+    "artistName": "Panic! at the Disco",
     "artistIds": "9",
     "cover": "http://192.168.100.142:8080/music/Panic! at the Disco/A Fever You Cant Sweat Out/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Panic! at the Disco/A Fever You Cant Sweat Out/cover.png",
     "genre": "Pop-Punk",
     "year": "2005"
   },
   {
     "id": "23",
     "name": "A Flair for the Dramatic",
+    "artistName": "Pierce The Veil",
     "artistIds": "10",
     "cover": "http://192.168.100.142:8080/music/Pierce The Veil/A Flair for the Dramatic/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Pierce The Veil/A Flair for the Dramatic/cover.png",
     "genre": [
       "Post-Hardcore",
       "Pop-Punk"
@@ -240,9 +240,9 @@
   {
     "id": "24",
     "name": "Collide With the Sky",
+    "artistName": "Pierce The Veil",
     "artistIds": "10",
     "cover": "http://192.168.100.142:8080/music/Pierce The Veil/Collide With the Sky/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Pierce The Veil/Collide With the Sky/cover.png",
     "genre": [
       "Post-Hardcore",
       "Alternative Metal"
@@ -252,27 +252,27 @@
   {
     "id": "25",
     "name": "Misadventures",
+    "artistName": "Pierce The Veil",
     "artistIds": "10",
     "cover": "http://192.168.100.142:8080/music/Pierce The Veil/Misadventures/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Pierce The Veil/Misadventures/cover.png",
     "genre": "Pop-Punk",
     "year": "2016"
   },
   {
     "id": "26",
     "name": "Selfish Machines",
+    "artistName": "Pierce The Veil",
     "artistIds": "10",
     "cover": "http://192.168.100.142:8080/music/Pierce The Veil/Selfish Machines/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Pierce The Veil/Selfish Machines/cover.png",
     "genre": "Post-Hardcore",
     "year": "2010"
   },
   {
     "id": "27",
     "name": "Fatalism",
+    "artistName": "Polaris",
     "artistIds": "11",
     "cover": "http://192.168.100.142:8080/music/Polaris/Fatalism/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Polaris/Fatalism/cover.png",
     "genre": [
       "Metalcore",
       "Hardcore Punk"
@@ -282,9 +282,9 @@
   {
     "id": "28",
     "name": "The Death of Me",
+    "artistName": "Polaris",
     "artistIds": "11",
     "cover": "http://192.168.100.142:8080/music/Polaris/The Death of Me/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Polaris/The Death of Me/cover.png",
     "genre": [
       "Metalcore",
       "Alternative Metal"
@@ -294,18 +294,18 @@
   {
     "id": "29",
     "name": "Iowa",
+    "artistName": "Slipknot",
     "artistIds": "12",
     "cover": "http://192.168.100.142:8080/music/Slipknot/Iowa/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Slipknot/Iowa/cover.png",
     "genre": "Nu Metal",
     "year": "2001"
   },
   {
     "id": "30",
     "name": "Slipknot",
+    "artistName": "Slipknot",
     "artistIds": "12",
     "cover": "http://192.168.100.142:8080/music/Slipknot/Slipknot/cover.png",
-    "coverMobile": "http://192.168.100.142:8080/music/Slipknot/Slipknot/cover.png",
     "genre": "Nu Metal",
     "year": "1999"
   }

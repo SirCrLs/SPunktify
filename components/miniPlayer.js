@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import { View, Text, TouchableOpacity, Image, StyleSheet, Platform, Pressable } from "react-native";
-import { PlayerContext, playNext } from "../context/playerContext";
+import { PlayerContext } from "../context/playerContext";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Slider from '@react-native-community/slider';
 

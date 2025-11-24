@@ -3,7 +3,7 @@ const { url } = require("inspector");
 const path = require("path");
 const os = require("os"); 
 
-const basePath = "../music";
+const basePath = "../public/music";
 
 let artists = [];
 let albums = [];
@@ -98,14 +98,13 @@ function walk() {
         : {};
 
       const coverUrl = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
-      const coverUrlMobile = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
 
       const newAlbum = {
         id: String(albumId++),
         name: albumFolder,
+        artistName: newArtist.name,
         artistIds: newArtist.id,
         cover: coverUrl,
-        coverMobile: coverUrlMobile,
         ...extraData
       };
 
@@ -119,7 +118,6 @@ function walk() {
         if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
 
         const songUrl = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
-        const songUrlMobile = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
 
         const cleanName = cleanSongName(file);
 
@@ -131,9 +129,7 @@ function walk() {
           albumId: newAlbum.id,
           numberInAlbum: numInAlbum,
           cover: coverUrl,
-          coverMobile: coverUrlMobile,
           url: songUrl,
-          urlMobile: songUrlMobile
         };
 
         songs.push(newSong);
