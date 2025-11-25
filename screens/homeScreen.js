@@ -11,10 +11,9 @@ function fixWebUrl(url) {
   return url?.split(" ").join("%20");
 }
 
-export default function HomeScreen() {
+export default function HomeScreen({ goToAlbum }) {
   const { playSong } = useContext(PlayerContext);
 
-  // 🔥 Se guardan una sola vez (no cambian aunque navegues entre screens)
   const randomAlbumsRef = useRef(null);
   const randomSongsRef = useRef(null);
 
@@ -43,10 +42,10 @@ export default function HomeScreen() {
     <ScrollView style={styles.container}>
       <Text style={styles.title}>Welcome Back</Text>
 
-      {/* 🔹 GRID 6 ALBUMES (2 columnas manuales) */}
+
       <View style={styles.albumGrid}>
         {randomAlbums.map((item) => (
-          <TouchableOpacity key={item.id} style={styles.albumRow}>
+          <TouchableOpacity key={item.id} style={styles.albumRow} onPress={() => goToAlbum(item)}>
             <Image
               source={{ uri: fixWebUrl(item.cover) }}
               style={styles.albumCover}
@@ -61,7 +60,6 @@ export default function HomeScreen() {
 
       <Text style={styles.subTitle}>Recommended Songs</Text>
 
-      {/* 🔹 Lista vertical de canciones */}
       {randomSongs.map((item) => (
         <TouchableOpacity
           key={item.id}

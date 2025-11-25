@@ -11,29 +11,27 @@ export default function AppNavigator() {
   const [currentScreen, setCurrentScreen] = useState("Home");
   const [selectedAlbum, setSelectedAlbum] = useState(null);
 
+  function goToAlbum(album) {
+    setSelectedAlbum(album);
+    setCurrentScreen("Album");
+  }
+
+
   const renderScreen = () => {
     if (currentScreen === "Home")
-      return (
-        <HomeScreen
-          key="home"
-          setCurrentScreen={setCurrentScreen}
-          setSelectedAlbum={setSelectedAlbum}
-        />
-      );
+      return <HomeScreen goToAlbum={goToAlbum} />;
 
     if (currentScreen === "Song")
-      return <SongScreen key="song" />;
+      return <SongScreen />;
 
     if (currentScreen === "Album")
-      return <AlbumScreen key="album" selectedAlbum={selectedAlbum} />;
+      return <AlbumScreen album={selectedAlbum} />;
 
     if (currentScreen === "Playlist")
-      return <PlaylistScreen key="playlist" />;
+      return <PlaylistScreen />;
 
-    return <HomeScreen key="home-default" />;
+    return <HomeScreen />;
   };
-
-
 
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: "#222" }}>
