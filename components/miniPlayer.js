@@ -13,17 +13,14 @@ export default function MiniPlayer() {
     const coverSource = { uri: currentSong.cover };
     const progress = durationMillis > 0 ? positionMillis / durationMillis : 0;
 
-    // Seek function
     const handleSeek = (evt) => {
         if (!durationMillis || !seekToPosition || !barWidth || durationMillis <= 0) return;
         let percent = 0;
         if (Platform.OS === "web") {
-            // Use clientX and getBoundingClientRect for web
             const rect = evt.target.getBoundingClientRect();
             const x = evt.nativeEvent.clientX - rect.left;
             percent = Math.max(0, Math.min(1, x / rect.width));
         } else {
-            // Use locationX for native
             const { locationX } = evt.nativeEvent;
             percent = Math.max(0, Math.min(1, locationX / barWidth));
         }
@@ -56,14 +53,12 @@ export default function MiniPlayer() {
                             />
                         )}
 
-                        {/* Botón Play/Pause */}
                         <TouchableOpacity onPress={togglePlayPause} style={styles.button}>
                             <Text style={{ fontSize: 25, color: "white" }}>
                                 {isPlaying ? "⏸" : "▶"}
                             </Text>
                         </TouchableOpacity>
 
-                        {/* Botón Siguiente */}
                         <TouchableOpacity onPress={playNext} style={styles.button}>
                             <Text style={{ fontSize: 22, color: "white" }}>⏭️</Text>
                         </TouchableOpacity>

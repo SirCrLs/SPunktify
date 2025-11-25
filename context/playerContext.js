@@ -31,9 +31,6 @@ export function PlayerProvider({ children }) {
     }
   };
 
-  // -----------------------
-  // PLAY SONG
-  // -----------------------
   async function playSong(song, fullQueue = null) {
     if (!song) return;
 
@@ -43,7 +40,6 @@ export function PlayerProvider({ children }) {
         soundRef.current = null;
       }
 
-      // Si viene una cola, actualizar refs y estados
       if (fullQueue) {
         queueRef.current = fullQueue;
         setQueue(fullQueue);
@@ -80,9 +76,6 @@ export function PlayerProvider({ children }) {
   }
 
 
-  // -----------------------
-  // SIGUIENTE (FUNCIONAL)
-  // -----------------------
   function playNext() {
     const q = queueRef.current;
     const idx = queueIndexRef.current;
@@ -100,8 +93,6 @@ export function PlayerProvider({ children }) {
     playSong(q[nextIndex]);
   }
 
-
-  // -----------------------
   async function togglePlayPause() {
     if (!soundRef.current) return;
 
