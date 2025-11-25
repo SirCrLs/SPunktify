@@ -5,7 +5,6 @@ import { sortByTitle, sortByArtist } from "../utils/songSorter";
 import AddToPlaylistModal from "../components/addToPlaylistModal";
 import { PlaylistContext } from "../context/playlistContext";
 
-
 function fixWebUrl(url) {
     if (!url) return url;
     return url.split(" ").join("%20");

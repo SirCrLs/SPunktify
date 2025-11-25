@@ -9,14 +9,30 @@ import PlaylistScreen from "../screens/playlistScreen";
 
 export default function AppNavigator() {
   const [currentScreen, setCurrentScreen] = useState("Home");
+  const [selectedAlbum, setSelectedAlbum] = useState(null);
 
   const renderScreen = () => {
-    if (currentScreen === "Home") return <HomeScreen key="home" />;
-    if (currentScreen === "Song") return <SongScreen key="song" />;
-    if (currentScreen === "Album") return <AlbumScreen key="album" />;
-    if (currentScreen === "Playlist") return <PlaylistScreen key="playlist" />;
+    if (currentScreen === "Home")
+      return (
+        <HomeScreen
+          key="home"
+          setCurrentScreen={setCurrentScreen}
+          setSelectedAlbum={setSelectedAlbum}
+        />
+      );
+
+    if (currentScreen === "Song")
+      return <SongScreen key="song" />;
+
+    if (currentScreen === "Album")
+      return <AlbumScreen key="album" selectedAlbum={selectedAlbum} />;
+
+    if (currentScreen === "Playlist")
+      return <PlaylistScreen key="playlist" />;
+
     return <HomeScreen key="home-default" />;
   };
+
 
 
   return (

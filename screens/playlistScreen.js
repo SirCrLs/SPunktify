@@ -1,4 +1,5 @@
 import React, { useState, useContext } from "react";
+import { ScrollView, Image } from "react-native";
 import {
   View,
   Text,
@@ -10,6 +11,11 @@ import {
 import songsJSON from "../data/songs.json";
 import { PlayerContext } from "../context/playerContext";
 import { PlaylistContext } from "../context/playlistContext";
+
+function fixWebUrl(url) {
+    if (!url) return url;
+    return url.split(" ").join("%20");
+  }
 
 export default function PlaylistScreen() {
   const { playlists, createPlaylist, addSongToPlaylists } = useContext(PlaylistContext);
@@ -34,6 +40,7 @@ export default function PlaylistScreen() {
 
     return (
       <View style={styles.container}>
+        {/* HEADER */}
         <TouchableOpacity
           style={styles.backButton}
           onPress={() => setSelectedPlaylist(null)}
@@ -43,22 +50,36 @@ export default function PlaylistScreen() {
 
         <Text style={styles.title}>{selectedPlaylist.name}</Text>
 
-        {playlistSongs.length === 0 ? (
-          <Text style={{ color: "#aaa", marginTop: 20 }}>
-            No songs yet. Add some from All Songs.
-          </Text>
-        ) : (
-          playlistSongs.map(song => (
-            <TouchableOpacity
-              key={song.id}
-              style={styles.songItem}
-              onPress={() => playSong(song, playlistSongs)}
-            >
-              <Text style={styles.songTitle}>{song.title}</Text>
-              <Text style={styles.songArtist}>{song.artistName}</Text>
-            </TouchableOpacity>
-          ))
-        )}
+        <ScrollView style={{ marginTop: 10 }} contentContainerStyle={{ paddingBottom: 120 }}>
+          {playlistSongs.length === 0 ? (
+            <Text style={{ color: "#aaa", marginTop: 20 }}>
+              No songs yet. Add some from All Songs.
+            </Text>
+          ) : (
+            playlistSongs.map(song => (
+              <TouchableOpacity
+                key={song.id}
+                style={styles.songItem}
+                onPress={() => playSong(song, playlistSongs)}
+              >
+                <View style={styles.songRow}>
+                  <Image 
+                    source={{ uri: fixWebUrl(song.cover) }} 
+                    style={styles.cover} 
+                  />
+                  <View style={styles.textContainer}>
+                    <Text style={styles.songTitle}>
+                      {song.title}
+                    </Text>
+                    <Text style={styles.songArtist}>
+                      {song.artistName}
+                    </Text>
+                  </View>
+                </View>
+              </TouchableOpacity>
+            ))
+          )}
+        </ScrollView>
       </View>
     );
   }
@@ -165,6 +186,34 @@ const styles = StyleSheet.create({
     borderBottomWidth: 1,
     borderBottomColor: "#333"
   },
-  songTitle: { color: "white", fontSize: 18 },
-  songArtist: { color: "#aaa", fontSize: 14 }
+  songRow: {
+  flexDirection: "row",
+  alignItems: "center",
+},
+
+cover: {
+  width: 55,
+  height: 55,
+  borderRadius: 6,
+  marginRight: 12,
+},
+
+textContainer: {
+  flex: 1,
+  flexDirection: "column",
+  justifyContent: "center",
+},
+
+songTitle: {
+  color: "white",
+  fontSize: 17,
+  fontWeight: "600",
+},
+
+songArtist: {
+  color: "#aaa",
+  fontSize: 14,
+  marginTop: 2,
+},
+
 });

@@ -3,6 +3,8 @@ import { View, Text, FlatList, TouchableOpacity, StyleSheet, Image, Platform, Sc
 import songsJSON from "../data/songs.json";
 import albumsJSON from "../data/albums.json";
 import { PlayerContext } from "../context/playerContext";
+import { PlaylistContext } from "../context/playlistContext";
+import AddToPlaylistModal from "../components/addToPlaylistModal";
 
 function fixWebUrl(url) {
   return url?.split(" ").join("%20");
@@ -11,6 +13,18 @@ function fixWebUrl(url) {
 export default function AlbumScreen() {
   const [selectedAlbum, setSelectedAlbum] = useState(null);
   const { playSong } = useContext(PlayerContext);
+  const [addModalVisible, setAddModalVisible] = useState(false);
+  const [songToAdd, setSongToAdd] = useState(null);
+  const { playlists, addSongToPlaylists } = useContext(PlaylistContext);
+
+  function openAddToPlaylist(song) {
+    setSongToAdd(song);
+    setAddModalVisible(true);
+  }
+
+  function handleAddToPlaylist(playlistIds) {
+    addSongToPlaylists(songToAdd.id, playlistIds);
+  }
 
   if (selectedAlbum) {
     const albumSongs = songsJSON.filter(s => s.albumId === selectedAlbum.id);
@@ -18,7 +32,6 @@ export default function AlbumScreen() {
     return (
       <View style={{ flex: 1, backgroundColor: "#111" }}>
 
-        {/* 🟩 MINI-HEADER FIJO */}
         <View style={styles.header}>
           <TouchableOpacity onPress={() => setSelectedAlbum(null)}>
             <Text style={styles.backText}>← Back</Text>
@@ -29,20 +42,16 @@ export default function AlbumScreen() {
           <View style={{ width: 40 }} /> 
         </View>
 
-        {/* CONTENIDO SCROLLEABLE */}
         <ScrollView style={styles.detailContainer} contentContainerStyle={{ paddingBottom: 80 }}>
 
-          {/* COVER GRANDE */}
           <Image
             source={{ uri: fixWebUrl(selectedAlbum.cover) }}
             style={styles.bigCover}
           />
 
-          {/* NOMBRE DEL ÁLBUM */}
           <Text style={styles.albumName}>{selectedAlbum.name}</Text>
           <Text style={styles.artistName}>{selectedAlbum.artistName}</Text>
 
-          {/* LISTA DE CANCIONES */}
           <View style={styles.songList}>
             {albumSongs.map((item) => (
               <TouchableOpacity
@@ -50,12 +59,28 @@ export default function AlbumScreen() {
                 style={styles.songItem}
                 onPress={() => playSong(item, albumSongs)}
               >
+                <View style={styles.textContainer}>
                 <Text style={styles.songTitle}>{item.title}</Text>
                 <Text style={styles.songArtist}>{item.artistName}</Text>
+                </View>
+
+                <TouchableOpacity
+                  style={styles.addBtn}
+                  onPress={() => openAddToPlaylist(item)}
+                  >
+                  <Text style={{ color: "white", fontSize: 18 }}>＋</Text>
+                </TouchableOpacity>
               </TouchableOpacity>
+              
             ))}
           </View>
         </ScrollView>
+        <AddToPlaylistModal
+                visible={addModalVisible}
+                playlists={playlists}
+                onClose={() => setAddModalVisible(false)}
+                onAdd={handleAddToPlaylist}
+              />
       </View>
     );
   }
@@ -128,8 +153,6 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingHorizontal: 20,
   },
-
-  /* GRID */
   columnWrapper: {
     justifyContent: "space-between",
   },
@@ -190,10 +213,13 @@ const styles = StyleSheet.create({
   },
 
   songItem: {
-    paddingVertical: 14,
-    borderBottomWidth: 1,
-    borderBottomColor: "#333",
-  },
+  flexDirection: "row",     
+  alignItems: "center",
+  justifyContent: "space-between", 
+  paddingVertical: 14,
+  borderBottomWidth: 1,
+  borderBottomColor: "#333",
+},
 
   songTitle: { color: "white", fontSize: 18 },
   songArtist: { color: "#aaa", fontSize: 14 },
@@ -205,4 +231,13 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     marginBottom: 20,
   },
+    addBtn: {
+    flexDirection: "row",
+    paddingHorizontal: 15,
+  },
+  textContainer: {
+  flex: 1,
+  paddingRight: 10,
+    alignItems: "flex-start",
+}
 });
