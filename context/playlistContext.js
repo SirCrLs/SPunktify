@@ -6,7 +6,7 @@ export const PlaylistContext = createContext();
 export function PlaylistProvider({ children }) {
   const [playlists, setPlaylists] = useState([]);
 
-
+  // Cargar playlists guardadas
   useEffect(() => {
     async function loadPlaylists() {
       try {
@@ -34,7 +34,12 @@ export function PlaylistProvider({ children }) {
     setPlaylists(prev =>
       prev.map(pl =>
         playlistIds.includes(pl.id)
-          ? { ...pl, songs: pl.songs.includes(songId) ? pl.songs : [...pl.songs, songId] }
+          ? {
+              ...pl,
+              songs: pl.songs.includes(songId)
+                ? pl.songs
+                : [...pl.songs, songId]
+            }
           : pl
       )
     );
@@ -49,12 +54,19 @@ export function PlaylistProvider({ children }) {
     setPlaylists(prev => [...prev, newPlaylist]);
   }
 
+  function deletePlaylist(id) {
+    setPlaylists(prev => prev.filter(pl => pl.id !== id));
+  }
+
   return (
-    <PlaylistContext.Provider value={{
-      playlists,
-      addSongToPlaylists,
-      createPlaylist
-    }}>
+    <PlaylistContext.Provider
+      value={{
+        playlists,
+        addSongToPlaylists,
+        createPlaylist,
+        deletePlaylist,
+      }}
+    >
       {children}
     </PlaylistContext.Provider>
   );
