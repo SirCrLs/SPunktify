@@ -1,2 +1,0 @@
-genre=Alternative Metal
-year=2015

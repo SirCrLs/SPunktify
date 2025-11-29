@@ -5,46 +5,34 @@
   },
   {
     "id": "2",
-    "name": "Bad Omens"
-  },
-  {
-    "id": "3",
     "name": "Bring Me The Horizon"
   },
   {
-    "id": "4",
+    "id": "3",
     "name": "Deftones"
   },
   {
-    "id": "5",
-    "name": "Linkin Park"
-  },
-  {
-    "id": "6",
+    "id": "4",
     "name": "Lorna Shore"
   },
   {
-    "id": "7",
-    "name": "Midori"
-  },
-  {
-    "id": "8",
+    "id": "5",
     "name": "My Chemical Romance"
   },
   {
-    "id": "9",
+    "id": "6",
     "name": "Panic! at the Disco"
   },
   {
-    "id": "10",
+    "id": "7",
     "name": "Pierce The Veil"
   },
   {
-    "id": "11",
+    "id": "8",
     "name": "Polaris"
   },
   {
-    "id": "12",
+    "id": "9",
     "name": "Slipknot"
   }
 ]

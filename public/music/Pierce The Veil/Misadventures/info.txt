@@ -1,2 +1,0 @@
-genre=Pop-Punk
-year=2016

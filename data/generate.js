@@ -1,152 +1,93 @@
-const fs = require("fs");
-const { url } = require("inspector");
-const path = require("path");
-const os = require("os"); 
+import fs from "fs";
 
-const basePath = "../public/music";
+const supabaseUrl = "https://riuihnpygnrypkyjdvfv.supabase.co";
+const bucket = "music";
 
-let artists = [];
-let albums = [];
+// Leer CSV
+const csv = fs.readFileSync("paths.csv", "utf8")
+  .split("\n")
+  .map(line => line.trim())
+  .filter(line => line.length > 0)
+  .map(line => line.replace(/^"|"$/g, ""));
+
+let artists = {};
+let albums = {};
 let songs = [];
-let queue = [];
 
 let artistId = 1;
 let albumId = 1;
 let songId = 1;
 
-function getLocalIP() {
-  const interfaces = os.networkInterfaces();
-  for (const name of Object.keys(interfaces)) {
-    for (const iface of interfaces[name]) {
-      if (iface.family === "IPv4" && !iface.internal) {
-        return iface.address;
-      }
-    }
-  }
-  return "127.0.0.1"; // fallback
-}
+for (const filePath of csv) {
+  const parts = filePath.split("/");
 
-function cleanSongName(filename) {
-  const nameWithoutExt = filename.replace(/\.[^/.]+$/, "");
+  if (parts.length < 3) continue;
 
-  const parts = nameWithoutExt.split("-");
+  const artistName = parts[0];
+  const albumName = parts[1];
+  const fileName = parts[2];
 
-  if (parts.length > 1) {
-    return parts.slice(1).join("-").trim(); 
-  }
-
-  return nameWithoutExt.trim();
-}
-
-const localIP = getLocalIP();
-
-function parseInfoFile(infoPath) {
-  try {
-    const content = fs.readFileSync(infoPath, "utf8");
-    const lines = content.split("\n");
-
-    const data = {};
-
-    lines.forEach(line => {
-      const [key, ...valueParts] = line.split("=");
-      if (!key || valueParts.length === 0) return;
-
-      const value = valueParts.join("=").trim();
-
-      // Si tiene comas → convertir en array
-      if (value.includes(",")) {
-        data[key.trim()] = value
-          .split(",")
-          .map(x => x.trim())
-          .filter(x => x.length > 0);
-      } else {
-        data[key.trim()] = value;
-      }
-    });
-
-    return data;
-  } catch (err) {
-    return {};
-  }
-}
-
-function walk() {
-  const artistFolders = fs.readdirSync(basePath);
-
-  artistFolders.forEach(artistFolder => {
-    const artistPath = path.join(basePath, artistFolder);
-
-    if (!fs.statSync(artistPath).isDirectory()) return;
-
-    const newArtist = {
+  // Registrar artista
+  if (!artists[artistName]) {
+    artists[artistName] = {
       id: String(artistId++),
-      name: artistFolder
+      name: artistName
     };
+  }
 
-    artists.push(newArtist);
+  // Registrar álbum
+  const albumKey = `${artistName}__${albumName}`;
+  if (!albums[albumKey]) {
+    const coverUrl = `${supabaseUrl}/storage/v1/object/public/${bucket}/${encodeURI(artistName)}/${encodeURI(albumName)}/cover.png`;
 
-    const albumFolders = fs.readdirSync(artistPath);
+    albums[albumKey] = {
+      id: String(albumId++),
+      name: albumName,
+      artistName,
+      artistId: artists[artistName].id,
+      cover: coverUrl
+    };
+  }
 
-    albumFolders.forEach(albumFolder => {
-      const albumPath = path.join(artistPath, albumFolder);
+  // ¿Es canción?
+  if (fileName.toLowerCase().endsWith(".m4a")) {
+    const album = albums[albumKey];
+    const artist = artists[artistName];
 
-      if (!fs.statSync(albumPath).isDirectory()) return;
+    // Sacar número del archivo: "10- LosT.m4a" → 10
+    const numberMatch = fileName.match(/^(\d+)-/);
+    const numberInAlbum = numberMatch ? parseInt(numberMatch[1]) : null;
 
-      const infoPath = path.join(albumPath, "info.txt");
-      const extraData = fs.existsSync(infoPath)
-        ? parseInfoFile(infoPath)
-        : {};
+    // Título sin extensión
+    const title = fileName.replace(".m4a", "").replace(/^\d+-/, "").trim();
 
-      const coverUrl = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/cover.png`.replace(/\\/g, "/");
+    // URL pública
+    const songUrl =
+      `${supabaseUrl}/storage/v1/object/public/${bucket}/` +
+      parts.map(p => encodeURI(p)).join("/");
 
-      const newAlbum = {
-        id: String(albumId++),
-        name: albumFolder,
-        artistName: newArtist.name,
-        artistIds: newArtist.id,
-        cover: coverUrl,
-        ...extraData
-      };
-
-      albums.push(newAlbum);
-
-      const songFiles = fs.readdirSync(albumPath);
-      numInAlbum = 1;
-
-      songFiles.forEach(file => {
-
-        if (!file.endsWith(".mp3") && !file.endsWith(".m4a")) return;
-
-        const songUrl = `http://${localIP}:8080/music/${artistFolder}/${albumFolder}/${file}`.replace(/\\/g, "/");
-
-        const cleanName = cleanSongName(file);
-
-        const newSong = {
-          id: String(songId++),
-          title: cleanName,
-          artistIds: newArtist.id,
-          artistName: newArtist.name,
-          albumId: newAlbum.id,
-          numberInAlbum: numInAlbum,
-          cover: coverUrl,
-          url: songUrl,
-        };
-
-        songs.push(newSong);
-        queue.push(newSong);
-        numInAlbum++;
-      });
-
-
+    songs.push({
+      id: String(songId++),
+      title,
+      artistIds: artist.id,
+      artistName: artist.name,
+      albumId: album.id,
+      numberInAlbum,
+      cover: album.cover,
+      url: songUrl
     });
-  });
+  }
 }
 
-walk();
+// Ordenar canciones por: artista → álbum → numberInAlbum
+songs.sort((a, b) => {
+  if (a.artistName !== b.artistName) return a.artistName.localeCompare(b.artistName);
+  if (a.albumId !== b.albumId) return Number(a.albumId) - Number(b.albumId);
+  return a.numberInAlbum - b.numberInAlbum;
+});
 
-fs.writeFileSync("artists.json", JSON.stringify(artists, null, 2));
-fs.writeFileSync("albums.json", JSON.stringify(albums, null, 2));
+fs.writeFileSync("artists.json", JSON.stringify(Object.values(artists), null, 2));
+fs.writeFileSync("albums.json", JSON.stringify(Object.values(albums), null, 2));
 fs.writeFileSync("songs.json", JSON.stringify(songs, null, 2));
-fs.writeFileSync("queue.json", JSON.stringify(queue, null, 2));
 
-console.log("Listo! JSONs generados ✔");
+console.log("JSONs generados ✔");

@@ -3,310 +3,168 @@
     "id": "1",
     "name": "Reckless and Relentless",
     "artistName": "Asking Alexandria",
-    "artistIds": "1",
-    "cover": "http://192.168.100.142:8080/music/Asking Alexandria/Reckless and Relentless/cover.png",
-    "genre": [
-      "Metalcore",
-      "Hardcore Punk"
-    ],
-    "year": "2011"
+    "artistId": "1",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/cover.png"
   },
   {
     "id": "2",
-    "name": "Stand Up and Scream",
+    "name": "Stand up and Scream",
     "artistName": "Asking Alexandria",
-    "artistIds": "1",
-    "cover": "http://192.168.100.142:8080/music/Asking Alexandria/Stand Up and Scream/cover.png",
-    "genre": "Metalcore",
-    "year": "2009"
+    "artistId": "1",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/cover.png"
   },
   {
     "id": "3",
-    "name": "Bad Omens",
-    "artistName": "Bad Omens",
-    "artistIds": "2",
-    "cover": "http://192.168.100.142:8080/music/Bad Omens/Bad Omens/cover.png",
-    "genre": "Metalcore",
-    "year": "2016"
+    "name": "Count Your Blessings",
+    "artistName": "Bring Me The Horizon",
+    "artistId": "2",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/cover.png"
   },
   {
     "id": "4",
-    "name": "Finding God Before God Finds Me",
-    "artistName": "Bad Omens",
-    "artistIds": "2",
-    "cover": "http://192.168.100.142:8080/music/Bad Omens/Finding God Before God Finds Me/cover.png",
-    "genre": "Metalcore",
-    "year": "2019"
+    "name": "Post Human NeX GEn",
+    "artistName": "Bring Me The Horizon",
+    "artistId": "2",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/cover.png"
   },
   {
     "id": "5",
-    "name": "The Death of Peace of Mind",
-    "artistName": "Bad Omens",
-    "artistIds": "2",
-    "cover": "http://192.168.100.142:8080/music/Bad Omens/The Death of Peace of Mind/cover.png",
-    "genre": [
-      "Metalcore",
-      "Alternative Metal"
-    ],
-    "year": "2022"
+    "name": "Sempiternal",
+    "artistName": "Bring Me The Horizon",
+    "artistId": "2",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/cover.png"
   },
   {
     "id": "6",
-    "name": "Count Your Blessings",
+    "name": "Suicide Season",
     "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Count Your Blessings/cover.png",
-    "genre": "Deathcore",
-    "year": "2006"
+    "artistId": "2",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/cover.png"
   },
   {
     "id": "7",
-    "name": "Post Human NeX GEn",
+    "name": "Thats The Spirit",
     "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human NeX GEn/cover.png",
-    "genre": [
-      "Post-Hardcore",
-      "Pop-Punk"
-    ],
-    "year": "2024"
+    "artistId": "2",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/cover.png"
   },
   {
     "id": "8",
-    "name": "Post Human Survival Horror",
+    "name": "There is a Hell, Believe Me Ive Seen it. There is a Heaven, Lets Keep it a Secret",
     "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Post Human Survival Horror/cover.png",
-    "genre": [
-      "Metalcore",
-      "Post-Hardcore",
-      "Alternative Metal"
-    ],
-    "year": "2020"
+    "artistId": "2",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/cover.png"
   },
   {
     "id": "9",
-    "name": "Sempiternal",
+    "name": "This is What The Edge of Your Seat Was Made For",
     "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Sempiternal/cover.png",
-    "genre": [
-      "Metalcore",
-      "Alternative Metal"
-    ],
-    "year": "2013"
+    "artistId": "2",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/This%20is%20What%20The%20Edge%20of%20Your%20Seat%20Was%20Made%20For/cover.png"
   },
   {
     "id": "10",
-    "name": "Suicide Season",
-    "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Suicide Season/cover.png",
-    "genre": [
-      "Deathcore",
-      "Metalcore"
-    ],
-    "year": "2008"
+    "name": "Around The Fur",
+    "artistName": "Deftones",
+    "artistId": "3",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/cover.png"
   },
   {
     "id": "11",
-    "name": "Thats the Spirit",
-    "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/Thats the Spirit/cover.png",
-    "genre": "Alternative Metal",
-    "year": "2015"
+    "name": "Diamond Eyes",
+    "artistName": "Deftones",
+    "artistId": "3",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/cover.png"
   },
   {
     "id": "12",
-    "name": "There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret",
-    "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/There Is a Hell, Believe Me Ive Seen It. There Is a Heaven, Lets Keep It a Secret/cover.png",
-    "genre": "Metalcore",
-    "year": "2010"
+    "name": "I Feel The Everblack Festering Within Me",
+    "artistName": "Lorna Shore",
+    "artistId": "4",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/cover.png"
   },
   {
     "id": "13",
-    "name": "This Is What the Edge of Your Seat Was Made For",
-    "artistName": "Bring Me The Horizon",
-    "artistIds": "3",
-    "cover": "http://192.168.100.142:8080/music/Bring Me The Horizon/This Is What the Edge of Your Seat Was Made For/cover.png",
-    "genre": [
-      "Hardcore Punk",
-      "Deathcore"
-    ],
-    "year": "2004"
+    "name": "Pain Remains",
+    "artistName": "Lorna Shore",
+    "artistId": "4",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/cover.png"
   },
   {
     "id": "14",
-    "name": "Around the Fur",
-    "artistName": "Deftones",
-    "artistIds": "4",
-    "cover": "http://192.168.100.142:8080/music/Deftones/Around the Fur/cover.png",
-    "genre": "Nu Metal",
-    "year": "1997"
+    "name": "I Brought You My Bullets, You Brought Me Your Love",
+    "artistName": "My Chemical Romance",
+    "artistId": "5",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/cover.png"
   },
   {
     "id": "15",
-    "name": "Diamond Eyes",
-    "artistName": "Deftones",
-    "artistIds": "4",
-    "cover": "http://192.168.100.142:8080/music/Deftones/Diamond Eyes/cover.png",
-    "genre": "Alternative Metal",
-    "year": "2010"
+    "name": "Three Cheers For Sweet Revenge",
+    "artistName": "My Chemical Romance",
+    "artistId": "5",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/cover.png"
   },
   {
     "id": "16",
-    "name": "Meteora",
-    "artistName": "Linkin Park",
-    "artistIds": "5",
-    "cover": "http://192.168.100.142:8080/music/Linkin Park/Meteora/cover.png",
-    "genre": [
-      "Nu Metal",
-      "Alternative Metal"
-    ],
-    "year": "2003"
+    "name": "A Fever You Cant Sweat Out",
+    "artistName": "Panic! at the Disco",
+    "artistId": "6",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/cover.png"
   },
   {
     "id": "17",
-    "name": "I Feel the Everblack Festering Within Me",
-    "artistName": "Lorna Shore",
-    "artistIds": "6",
-    "cover": "http://192.168.100.142:8080/music/Lorna Shore/I Feel the Everblack Festering Within Me/cover.png",
-    "genre": "Deathcore",
-    "year": "2025"
+    "name": "A Flair For The Dramatic",
+    "artistName": "Pierce The Veil",
+    "artistId": "7",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/cover.png"
   },
   {
     "id": "18",
-    "name": "Pain Remains",
-    "artistName": "Lorna Shore",
-    "artistIds": "6",
-    "cover": "http://192.168.100.142:8080/music/Lorna Shore/Pain Remains/cover.png",
-    "genre": "Deathcore",
-    "year": "2022"
+    "name": "Collide With The Sky",
+    "artistName": "Pierce The Veil",
+    "artistId": "7",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/cover.png"
   },
   {
     "id": "19",
-    "name": "Aratamemashite, hajimemashite, Midori desu",
-    "artistName": "Midori",
-    "artistIds": "7",
-    "cover": "http://192.168.100.142:8080/music/Midori/Aratamemashite, hajimemashite, Midori desu/cover.png",
-    "genre": "Hardcore Punk",
-    "year": "2008"
+    "name": "Misadventures",
+    "artistName": "Pierce The Veil",
+    "artistId": "7",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/cover.png"
   },
   {
     "id": "20",
-    "name": "I Brought You My Bullets, You Brought Me Your Love",
-    "artistName": "My Chemical Romance",
-    "artistIds": "8",
-    "cover": "http://192.168.100.142:8080/music/My Chemical Romance/I Brought You My Bullets, You Brought Me Your Love/cover.png",
-    "genre": "Pop-Punk",
-    "year": "2002"
+    "name": "Selfish Machines",
+    "artistName": "Pierce The Veil",
+    "artistId": "7",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/cover.png"
   },
   {
     "id": "21",
-    "name": "Three Cheers for Sweet Revenge",
-    "artistName": "My Chemical Romance",
-    "artistIds": "8",
-    "cover": "http://192.168.100.142:8080/music/My Chemical Romance/Three Cheers for Sweet Revenge/cover.png",
-    "genre": [
-      "Pop-Punk",
-      "Post-Hardcore"
-    ],
-    "year": "2004"
+    "name": "Fatalism",
+    "artistName": "Polaris",
+    "artistId": "8",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/cover.png"
   },
   {
     "id": "22",
-    "name": "A Fever You Cant Sweat Out",
-    "artistName": "Panic! at the Disco",
-    "artistIds": "9",
-    "cover": "http://192.168.100.142:8080/music/Panic! at the Disco/A Fever You Cant Sweat Out/cover.png",
-    "genre": "Pop-Punk",
-    "year": "2005"
+    "name": "The Death Of Me",
+    "artistName": "Polaris",
+    "artistId": "8",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/cover.png"
   },
   {
     "id": "23",
-    "name": "A Flair for the Dramatic",
-    "artistName": "Pierce The Veil",
-    "artistIds": "10",
-    "cover": "http://192.168.100.142:8080/music/Pierce The Veil/A Flair for the Dramatic/cover.png",
-    "genre": [
-      "Post-Hardcore",
-      "Pop-Punk"
-    ],
-    "year": "2007"
+    "name": "Iowa",
+    "artistName": "Slipknot",
+    "artistId": "9",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/cover.png"
   },
   {
     "id": "24",
-    "name": "Collide With the Sky",
-    "artistName": "Pierce The Veil",
-    "artistIds": "10",
-    "cover": "http://192.168.100.142:8080/music/Pierce The Veil/Collide With the Sky/cover.png",
-    "genre": [
-      "Post-Hardcore",
-      "Alternative Metal"
-    ],
-    "year": "2012"
-  },
-  {
-    "id": "25",
-    "name": "Misadventures",
-    "artistName": "Pierce The Veil",
-    "artistIds": "10",
-    "cover": "http://192.168.100.142:8080/music/Pierce The Veil/Misadventures/cover.png",
-    "genre": "Pop-Punk",
-    "year": "2016"
-  },
-  {
-    "id": "26",
-    "name": "Selfish Machines",
-    "artistName": "Pierce The Veil",
-    "artistIds": "10",
-    "cover": "http://192.168.100.142:8080/music/Pierce The Veil/Selfish Machines/cover.png",
-    "genre": "Post-Hardcore",
-    "year": "2010"
-  },
-  {
-    "id": "27",
-    "name": "Fatalism",
-    "artistName": "Polaris",
-    "artistIds": "11",
-    "cover": "http://192.168.100.142:8080/music/Polaris/Fatalism/cover.png",
-    "genre": [
-      "Metalcore",
-      "Hardcore Punk"
-    ],
-    "year": "2023"
-  },
-  {
-    "id": "28",
-    "name": "The Death of Me",
-    "artistName": "Polaris",
-    "artistIds": "11",
-    "cover": "http://192.168.100.142:8080/music/Polaris/The Death of Me/cover.png",
-    "genre": [
-      "Metalcore",
-      "Alternative Metal"
-    ],
-    "year": "2020"
-  },
-  {
-    "id": "29",
-    "name": "Iowa",
-    "artistName": "Slipknot",
-    "artistIds": "12",
-    "cover": "http://192.168.100.142:8080/music/Slipknot/Iowa/cover.png",
-    "genre": "Nu Metal",
-    "year": "2001"
-  },
-  {
-    "id": "30",
     "name": "Slipknot",
     "artistName": "Slipknot",
-    "artistIds": "12",
-    "cover": "http://192.168.100.142:8080/music/Slipknot/Slipknot/cover.png",
-    "genre": "Nu Metal",
-    "year": "1999"
+    "artistId": "9",
+    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/cover.png"
   }
 ]
