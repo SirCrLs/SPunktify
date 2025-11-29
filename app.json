@@ -29,6 +29,11 @@
     },
     "web": {
       "favicon": "./assets/Spunktify_logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e542f21d-0e3b-4a60-b0b4-c95730bbcebf"
+      }
     }
   }
 }
