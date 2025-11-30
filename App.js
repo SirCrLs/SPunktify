@@ -14,7 +14,9 @@ export default function App() {
       try {
         await Audio.setAudioModeAsync({
           staysActiveInBackground: true,
-          interruptionModeAndroid: Audio.INTERRUPTION_MODE_ANDROID_DO_NOT_MIX,
+
+          interruptionModeAndroid: 1, // DO_NOT_MIX
+          
           shouldDuckAndroid: false,
           playThroughEarpieceAndroid: false
         });
