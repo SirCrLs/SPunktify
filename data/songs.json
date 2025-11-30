@@ -51,16 +51,6 @@
   },
   {
     "id": "6",
-    "title": "Dedication",
-    "artistIds": "1",
-    "artistName": "Asking Alexandria",
-    "albumId": "1",
-    "numberInAlbum": 6,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/06-%20Dedication.m4a"
-  },
-  {
-    "id": "7",
     "title": "Someone, Somewhere",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -70,7 +60,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/07-%20Someone,%20Somewhere.m4a"
   },
   {
-    "id": "8",
+    "id": "7",
     "title": "Breathless",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -80,7 +70,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/08-%20Breathless.m4a"
   },
   {
-    "id": "9",
+    "id": "8",
     "title": "The Match",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -90,27 +80,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/09-%20The%20Match.m4a"
   },
   {
-    "id": "10",
-    "title": "Another Bottle Down",
-    "artistIds": "1",
-    "artistName": "Asking Alexandria",
-    "albumId": "1",
-    "numberInAlbum": 10,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/10-%20Another%20Bottle%20Down.m4a"
-  },
-  {
-    "id": "11",
-    "title": "Reckless and Relentless",
-    "artistIds": "1",
-    "artistName": "Asking Alexandria",
-    "albumId": "1",
-    "numberInAlbum": 11,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/11-%20Reckless%20and%20Relentless.m4a"
-  },
-  {
-    "id": "12",
+    "id": "9",
     "title": "Morte et Dabo",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -120,17 +90,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Reckless%20and%20Relentless/12-%20Morte%20et%20Dabo.m4a"
   },
   {
-    "id": "13",
-    "title": "Alerion",
-    "artistIds": "1",
-    "artistName": "Asking Alexandria",
-    "albumId": "2",
-    "numberInAlbum": 1,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/01-%20Alerion.m4a"
-  },
-  {
-    "id": "14",
+    "id": "10",
     "title": "The Final Episode",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -140,7 +100,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/02-%20The%20Final%20Episode.m4a"
   },
   {
-    "id": "15",
+    "id": "11",
     "title": "A Candlelit Dinner With Inamorta",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -150,7 +110,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/03-%20A%20Candlelit%20Dinner%20With%20Inamorta.m4a"
   },
   {
-    "id": "16",
+    "id": "12",
     "title": "Nobody Dont Dance No More",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -160,7 +120,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/04-%20Nobody%20Dont%20Dance%20No%20More.m4a"
   },
   {
-    "id": "17",
+    "id": "13",
     "title": "Hey There Mr Brooks",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -170,17 +130,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/05-%20Hey%20There%20Mr%20Brooks.m4a"
   },
   {
-    "id": "18",
-    "title": "Hiatus",
-    "artistIds": "1",
-    "artistName": "Asking Alexandria",
-    "albumId": "2",
-    "numberInAlbum": 6,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/06-%20Hiatus.m4a"
-  },
-  {
-    "id": "19",
+    "id": "14",
     "title": "If You Cant Ride Two Horses At Once... You Should Get Out Of The Circus",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -190,7 +140,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/07-%20If%20You%20Cant%20Ride%20Two%20Horses%20At%20Once...%20You%20Should%20Get%20Out%20Of%20The%20Circus.m4a"
   },
   {
-    "id": "20",
+    "id": "15",
     "title": "A Single Moment Of Sincerity",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -200,7 +150,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/08-%20A%20Single%20Moment%20Of%20Sincerity.m4a"
   },
   {
-    "id": "21",
+    "id": "16",
     "title": "Not The American Average",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -210,7 +160,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/09-%20Not%20The%20American%20Average.m4a"
   },
   {
-    "id": "22",
+    "id": "17",
     "title": "A Prophecy",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -220,7 +170,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/11-%20A%20Prophecy.m4a"
   },
   {
-    "id": "23",
+    "id": "18",
     "title": "I Was Once, Possibly, Maybe, Perhaps A Cowboy King",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -230,7 +180,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/12-%20I%20Was%20Once,%20Possibly,%20Maybe,%20Perhaps%20A%20Cowboy%20King.m4a"
   },
   {
-    "id": "24",
+    "id": "19",
     "title": "When Everydays The Weekend",
     "artistIds": "1",
     "artistName": "Asking Alexandria",
@@ -240,7 +190,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Asking%20Alexandria/Stand%20up%20and%20Scream/13-%20When%20Everydays%20The%20Weekend.m4a"
   },
   {
-    "id": "25",
+    "id": "20",
     "title": "Pray For Plagues",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -250,7 +200,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/01-%20Pray%20For%20Plagues.m4a"
   },
   {
-    "id": "26",
+    "id": "21",
     "title": "Braille (For Stevie Wonders Eyes Only)",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -260,7 +210,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/03-%20Braille%20(For%20Stevie%20Wonders%20Eyes%20Only).m4a"
   },
   {
-    "id": "27",
+    "id": "22",
     "title": "A lot Like Vegas",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -270,7 +220,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/04-%20A%20lot%20Like%20Vegas.m4a"
   },
   {
-    "id": "28",
+    "id": "23",
     "title": "Black and Blue",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -280,7 +230,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/05-%20Black%20and%20Blue.m4a"
   },
   {
-    "id": "29",
+    "id": "24",
     "title": "Slow Dance",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -290,7 +240,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/06-%20Slow%20Dance.m4a"
   },
   {
-    "id": "30",
+    "id": "25",
     "title": "Liquor and Love Lost",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -300,7 +250,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/07-%20Liquor%20and%20Love%20Lost.m4a"
   },
   {
-    "id": "31",
+    "id": "26",
     "title": "(I Used to make out with) Medusa",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -310,7 +260,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/08-%20(I%20Used%20to%20make%20out%20with)%20Medusa.m4a"
   },
   {
-    "id": "32",
+    "id": "27",
     "title": "Fifteen Fathoms, Counting",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -320,7 +270,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/09-%20Fifteen%20Fathoms,%20Counting.m4a"
   },
   {
-    "id": "33",
+    "id": "28",
     "title": "Off The Heezay",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -330,7 +280,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Count%20Your%20Blessings/10-%20Off%20The%20Heezay.m4a"
   },
   {
-    "id": "34",
+    "id": "29",
     "title": "YOUtopia",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -340,7 +290,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/02-%20YOUtopia.m4a"
   },
   {
-    "id": "35",
+    "id": "30",
     "title": "Kool-Aid",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -350,7 +300,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/03-%20Kool-Aid.m4a"
   },
   {
-    "id": "36",
+    "id": "31",
     "title": "Top 10 staTues tHat CriEd bloOd",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -360,7 +310,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/04-%20Top%2010%20staTues%20tHat%20CriEd%20bloOd.m4a"
   },
   {
-    "id": "37",
+    "id": "32",
     "title": "limOusIne",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -370,7 +320,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/05-%20limOusIne.m4a"
   },
   {
-    "id": "38",
+    "id": "33",
     "title": "DArkSide",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -380,7 +330,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/06-%20DArkSide.m4a"
   },
   {
-    "id": "39",
+    "id": "34",
     "title": "a bulleT w my namE On",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -390,7 +340,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/07-%20a%20bulleT%20w%20my%20namE%20On.m4a"
   },
   {
-    "id": "40",
+    "id": "35",
     "title": "n A",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -400,7 +350,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/09-%20n%20A.m4a"
   },
   {
-    "id": "41",
+    "id": "36",
     "title": "LosT",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -410,27 +360,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/10-%20LosT.m4a"
   },
   {
-    "id": "42",
-    "title": "sTraNgeRs",
-    "artistIds": "2",
-    "artistName": "Bring Me The Horizon",
-    "albumId": "4",
-    "numberInAlbum": 11,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/11-%20sTraNgeRs.m4a"
-  },
-  {
-    "id": "43",
-    "title": "R i p (duskCOre RemIx)",
-    "artistIds": "2",
-    "artistName": "Bring Me The Horizon",
-    "albumId": "4",
-    "numberInAlbum": 12,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/12-%20R%20i%20p%20(duskCOre%20RemIx).m4a"
-  },
-  {
-    "id": "44",
+    "id": "37",
     "title": "AmEN!",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -440,17 +370,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/13-%20AmEN!.m4a"
   },
   {
-    "id": "45",
-    "title": "DiE4u",
-    "artistIds": "2",
-    "artistName": "Bring Me The Horizon",
-    "albumId": "4",
-    "numberInAlbum": 15,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/15-%20DiE4u.m4a"
-  },
-  {
-    "id": "46",
+    "id": "38",
     "title": "DIg It",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -460,7 +380,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Post%20Human%20NeX%20GEn/16-%20DIg%20It.m4a"
   },
   {
-    "id": "47",
+    "id": "39",
     "title": "Can you feel my Heart",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -470,7 +390,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/01-%20Can%20you%20feel%20my%20Heart.m4a"
   },
   {
-    "id": "48",
+    "id": "40",
     "title": "The House of Wolves",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -480,7 +400,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/02-%20The%20House%20of%20Wolves.m4a"
   },
   {
-    "id": "49",
+    "id": "41",
     "title": "Empire (Let Them Sing)",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -490,7 +410,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/03-%20Empire%20(Let%20Them%20Sing).m4a"
   },
   {
-    "id": "50",
+    "id": "42",
     "title": "Sleepwalking",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -500,7 +420,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/04-%20Sleepwalking.m4a"
   },
   {
-    "id": "51",
+    "id": "43",
     "title": "Go to Hell, for Heavens Sake",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -510,7 +430,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/05-%20Go%20to%20Hell,%20for%20Heavens%20Sake.m4a"
   },
   {
-    "id": "52",
+    "id": "44",
     "title": "Shadow Moses",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -520,7 +440,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/06-%20Shadow%20Moses.m4a"
   },
   {
-    "id": "53",
+    "id": "45",
     "title": "And the Snakes start to Sing",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -530,7 +450,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/07-%20And%20the%20Snakes%20start%20to%20Sing.m4a"
   },
   {
-    "id": "54",
+    "id": "46",
     "title": "Seen It All Before",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -540,7 +460,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/08-%20Seen%20It%20All%20Before.m4a"
   },
   {
-    "id": "55",
+    "id": "47",
     "title": "Antivist",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -550,7 +470,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/09-%20Antivist.m4a"
   },
   {
-    "id": "56",
+    "id": "48",
     "title": "Crooked Young",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -560,7 +480,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/10-%20Crooked%20Young.m4a"
   },
   {
-    "id": "57",
+    "id": "49",
     "title": "Hospital for Souls",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -570,7 +490,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Sempiternal/11-%20Hospital%20for%20Souls.m4a"
   },
   {
-    "id": "58",
+    "id": "50",
     "title": "The Comedown",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -580,7 +500,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/01-%20The%20Comedown.m4a"
   },
   {
-    "id": "59",
+    "id": "51",
     "title": "Chealsea Smile",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -590,7 +510,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/02-%20Chealsea%20Smile.m4a"
   },
   {
-    "id": "60",
+    "id": "52",
     "title": "It Was Written in Blood",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -600,7 +520,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/03-%20It%20Was%20Written%20in%20Blood.m4a"
   },
   {
-    "id": "61",
+    "id": "53",
     "title": "Death Breath",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -610,7 +530,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/04-%20Death%20Breath.m4a"
   },
   {
-    "id": "62",
+    "id": "54",
     "title": "Football Season is Over",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -620,7 +540,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/05-%20Football%20Season%20is%20Over.m4a"
   },
   {
-    "id": "63",
+    "id": "55",
     "title": "Sleep With one Eye Open",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -630,7 +550,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/06-%20Sleep%20With%20one%20Eye%20Open.m4a"
   },
   {
-    "id": "64",
+    "id": "56",
     "title": "Diamonds Arent Forever",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -640,7 +560,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/07-%20Diamonds%20Arent%20Forever.m4a"
   },
   {
-    "id": "65",
+    "id": "57",
     "title": "The Sadness Will Never End",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -650,7 +570,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/08-%20The%20Sadness%20Will%20Never%20End.m4a"
   },
   {
-    "id": "66",
+    "id": "58",
     "title": "No Need for Introductions, Ive Read About Girls Like You on the Backs of Toilet Doors",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -660,7 +580,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/09-%20No%20Need%20for%20Introductions,%20Ive%20Read%20About%20Girls%20Like%20You%20on%20the%20Backs%20of%20Toilet%20Doors.m4a"
   },
   {
-    "id": "67",
+    "id": "59",
     "title": "Suicide Season",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -670,7 +590,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Suicide%20Season/10-%20Suicide%20Season.m4a"
   },
   {
-    "id": "68",
+    "id": "60",
     "title": "Doomed",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -680,7 +600,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/01-%20Doomed.m4a"
   },
   {
-    "id": "69",
+    "id": "61",
     "title": "Happy Song",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -690,7 +610,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/02-%20Happy%20Song.m4a"
   },
   {
-    "id": "70",
+    "id": "62",
     "title": "Throne",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -700,7 +620,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/03-%20Throne.m4a"
   },
   {
-    "id": "71",
+    "id": "63",
     "title": "True Friends",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -710,7 +630,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/04-%20True%20Friends.m4a"
   },
   {
-    "id": "72",
+    "id": "64",
     "title": "What You Need",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -720,7 +640,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/06-%20What%20You%20Need.m4a"
   },
   {
-    "id": "73",
+    "id": "65",
     "title": "Avalanche",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -730,7 +650,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/07-%20Avalanche.m4a"
   },
   {
-    "id": "74",
+    "id": "66",
     "title": "Run",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -740,7 +660,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/08-%20Run.m4a"
   },
   {
-    "id": "75",
+    "id": "67",
     "title": "Drown",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -750,7 +670,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/09-%20Drown.m4a"
   },
   {
-    "id": "76",
+    "id": "68",
     "title": "Blasphemy",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -760,17 +680,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/10-%20Blasphemy.m4a"
   },
   {
-    "id": "77",
-    "title": "Oh No",
-    "artistIds": "2",
-    "artistName": "Bring Me The Horizon",
-    "albumId": "7",
-    "numberInAlbum": 11,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/Thats%20The%20Spirit/11-%20Oh%20No.m4a"
-  },
-  {
-    "id": "78",
+    "id": "69",
     "title": "Crucify Me",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -780,7 +690,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/01-%20Crucify%20Me.m4a"
   },
   {
-    "id": "79",
+    "id": "70",
     "title": "Anthem",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -790,7 +700,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/02-%20Anthem.m4a"
   },
   {
-    "id": "80",
+    "id": "71",
     "title": "It Never Ends",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -800,7 +710,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/03-%20It%20Never%20Ends.m4a"
   },
   {
-    "id": "81",
+    "id": "72",
     "title": "Fuck",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -810,7 +720,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/04-%20Fuck.m4a"
   },
   {
-    "id": "82",
+    "id": "73",
     "title": "Dont Go",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -820,7 +730,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/05-%20Dont%20Go.m4a"
   },
   {
-    "id": "83",
+    "id": "74",
     "title": "Home Sweet Hole",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -830,7 +740,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/06-%20Home%20Sweet%20Hole.m4a"
   },
   {
-    "id": "84",
+    "id": "75",
     "title": "Alligator Blood",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -840,7 +750,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/07-%20Alligator%20Blood.m4a"
   },
   {
-    "id": "85",
+    "id": "76",
     "title": "Visions",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -850,7 +760,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/08-%20Visions.m4a"
   },
   {
-    "id": "86",
+    "id": "77",
     "title": "Blacklist",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -860,17 +770,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/09-%20Blacklist.m4a"
   },
   {
-    "id": "87",
-    "title": "Memorial",
-    "artistIds": "2",
-    "artistName": "Bring Me The Horizon",
-    "albumId": "8",
-    "numberInAlbum": 10,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/10-%20Memorial.m4a"
-  },
-  {
-    "id": "88",
+    "id": "78",
     "title": "Blessed with a Curse",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -880,7 +780,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/11-%20Blessed%20with%20a%20Curse.m4a"
   },
   {
-    "id": "89",
+    "id": "79",
     "title": "The Fox and the Wolf",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -890,7 +790,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/There%20is%20a%20Hell,%20Believe%20Me%20Ive%20Seen%20it.%20There%20is%20a%20Heaven,%20Lets%20Keep%20it%20a%20Secret/12-%20The%20Fox%20and%20the%20Wolf.m4a"
   },
   {
-    "id": "90",
+    "id": "80",
     "title": "re they have no reflections",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -900,7 +800,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/This%20is%20What%20The%20Edge%20of%20Your%20Seat%20Was%20Made%20For/1-%20re%20they%20have%20no%20reflections.m4a"
   },
   {
-    "id": "91",
+    "id": "81",
     "title": "who wants flowers when youre dead, nobody",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -910,7 +810,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/This%20is%20What%20The%20Edge%20of%20Your%20Seat%20Was%20Made%20For/2-%20who%20wants%20flowers%20when%20youre%20dead,%20nobody.m4a"
   },
   {
-    "id": "92",
+    "id": "82",
     "title": "RAWWWRR!",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -920,7 +820,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/This%20is%20What%20The%20Edge%20of%20Your%20Seat%20Was%20Made%20For/3-%20RAWWWRR!.m4a"
   },
   {
-    "id": "93",
+    "id": "83",
     "title": "Traitors never Play Hang-man",
     "artistIds": "2",
     "artistName": "Bring Me The Horizon",
@@ -930,7 +830,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Bring%20Me%20The%20Horizon/This%20is%20What%20The%20Edge%20of%20Your%20Seat%20Was%20Made%20For/4-%20Traitors%20never%20Play%20Hang-man.m4a"
   },
   {
-    "id": "94",
+    "id": "84",
     "title": "My Own Summer (Shove It)",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -940,7 +840,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/01-%20My%20Own%20Summer%20(Shove%20It).m4a"
   },
   {
-    "id": "95",
+    "id": "85",
     "title": "Lhabia",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -950,7 +850,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/02-%20Lhabia.m4a"
   },
   {
-    "id": "96",
+    "id": "86",
     "title": "Mascara",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -960,7 +860,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/03-%20Mascara.m4a"
   },
   {
-    "id": "97",
+    "id": "87",
     "title": "Around the Fur",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -970,7 +870,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/04-%20Around%20the%20Fur.m4a"
   },
   {
-    "id": "98",
+    "id": "88",
     "title": "Rickets",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -980,7 +880,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/05-%20Rickets.m4a"
   },
   {
-    "id": "99",
+    "id": "89",
     "title": "Be Quiet and Drive (Far Away)",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -990,7 +890,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/06-%20Be%20Quiet%20and%20Drive%20(Far%20Away).m4a"
   },
   {
-    "id": "100",
+    "id": "90",
     "title": "Lotion",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1000,7 +900,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/07-%20Lotion.m4a"
   },
   {
-    "id": "101",
+    "id": "91",
     "title": "Dai the Flu",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1010,7 +910,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/08-%20Dai%20the%20Flu.m4a"
   },
   {
-    "id": "102",
+    "id": "92",
     "title": "Headup",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1020,17 +920,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/09-%20Headup.m4a"
   },
   {
-    "id": "103",
-    "title": "MX",
-    "artistIds": "3",
-    "artistName": "Deftones",
-    "albumId": "10",
-    "numberInAlbum": 10,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Around%20The%20Fur/10-%20MX.m4a"
-  },
-  {
-    "id": "104",
+    "id": "93",
     "title": "Diamond Eyes",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1040,7 +930,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/01-%20Diamond%20Eyes.m4a"
   },
   {
-    "id": "105",
+    "id": "94",
     "title": "Royal",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1050,7 +940,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/02-%20Royal.m4a"
   },
   {
-    "id": "106",
+    "id": "95",
     "title": "CMND CTRL",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1060,7 +950,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/03-%20CMND%20CTRL.m4a"
   },
   {
-    "id": "107",
+    "id": "96",
     "title": "Youve Seen the Butcher",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1070,7 +960,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/04-%20Youve%20Seen%20the%20Butcher.m4a"
   },
   {
-    "id": "108",
+    "id": "97",
     "title": "Beauty School",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1080,7 +970,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/05-%20Beauty%20School.m4a"
   },
   {
-    "id": "109",
+    "id": "98",
     "title": "Prince",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1090,7 +980,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/06-%20Prince.m4a"
   },
   {
-    "id": "110",
+    "id": "99",
     "title": "Rocket Skates",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1100,7 +990,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/07-%20Rocket%20Skates.m4a"
   },
   {
-    "id": "111",
+    "id": "100",
     "title": "Sextape",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1110,7 +1000,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/08-%20Sextape.m4a"
   },
   {
-    "id": "112",
+    "id": "101",
     "title": "Risk",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1120,7 +1010,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/09-%20Risk.m4a"
   },
   {
-    "id": "113",
+    "id": "102",
     "title": "976-EVIL",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1130,7 +1020,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/10-%20976-EVIL.m4a"
   },
   {
-    "id": "114",
+    "id": "103",
     "title": "This Place Is Death",
     "artistIds": "3",
     "artistName": "Deftones",
@@ -1140,7 +1030,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Deftones/Diamond%20Eyes/11-%20This%20Place%20Is%20Death.m4a"
   },
   {
-    "id": "115",
+    "id": "104",
     "title": "Prison of Flesh",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1150,7 +1040,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/01-%20Prison%20of%20Flesh.m4a"
   },
   {
-    "id": "116",
+    "id": "105",
     "title": "Oblivion",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1160,7 +1050,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/02-%20Oblivion.m4a"
   },
   {
-    "id": "117",
+    "id": "106",
     "title": "In Darkness",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1170,7 +1060,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/03-%20In%20Darkness.m4a"
   },
   {
-    "id": "118",
+    "id": "107",
     "title": "Unbreakable",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1180,7 +1070,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/04-%20Unbreakable.m4a"
   },
   {
-    "id": "119",
+    "id": "108",
     "title": "Glenwood",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1190,7 +1080,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/05-%20Glenwood.m4a"
   },
   {
-    "id": "120",
+    "id": "109",
     "title": "Lionheart",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1200,7 +1090,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/06-%20Lionheart.m4a"
   },
   {
-    "id": "121",
+    "id": "110",
     "title": "Death Can Take Me",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1210,7 +1100,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/07-%20Death%20Can%20Take%20Me.m4a"
   },
   {
-    "id": "122",
+    "id": "111",
     "title": "War Machine",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1220,7 +1110,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/08-%20War%20Machine.m4a"
   },
   {
-    "id": "123",
+    "id": "112",
     "title": "A Nameless Hymn",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1230,7 +1120,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/09-%20A%20Nameless%20Hymn.m4a"
   },
   {
-    "id": "124",
+    "id": "113",
     "title": "Forevermore",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1240,7 +1130,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/I%20Feel%20The%20Everblack%20Festering%20Within%20Me/10-%20Forevermore.m4a"
   },
   {
-    "id": "125",
+    "id": "114",
     "title": "Welcome Back O Sleeping Dreamer",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1250,7 +1140,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/01-%20Welcome%20Back%20O%20Sleeping%20Dreamer.m4a"
   },
   {
-    "id": "126",
+    "id": "115",
     "title": "Into the Earth",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1260,7 +1150,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/02-%20Into%20the%20Earth.m4a"
   },
   {
-    "id": "127",
+    "id": "116",
     "title": "Sun--Eater",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1270,7 +1160,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/03-%20Sun--Eater.m4a"
   },
   {
-    "id": "128",
+    "id": "117",
     "title": "Cursed to Die",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1280,7 +1170,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/04-%20Cursed%20to%20Die.m4a"
   },
   {
-    "id": "129",
+    "id": "118",
     "title": "Soulless Existence",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1290,7 +1180,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/05-%20Soulless%20Existence.m4a"
   },
   {
-    "id": "130",
+    "id": "119",
     "title": "Apotheosis",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1300,7 +1190,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/06-%20Apotheosis.m4a"
   },
   {
-    "id": "131",
+    "id": "120",
     "title": "Wrath",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1310,7 +1200,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/07-%20Wrath.m4a"
   },
   {
-    "id": "132",
+    "id": "121",
     "title": "Pain Remains I Dancing Like Flames",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1320,7 +1210,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/08-%20Pain%20Remains%20I%20Dancing%20Like%20Flames.m4a"
   },
   {
-    "id": "133",
+    "id": "122",
     "title": "Pain Remains II After All Ive Done, Ill Disappear",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1330,7 +1220,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/09-%20Pain%20Remains%20II%20After%20All%20Ive%20Done,%20Ill%20Disappear.m4a"
   },
   {
-    "id": "134",
+    "id": "123",
     "title": "Pain Remains III In a Sea of Fire",
     "artistIds": "4",
     "artistName": "Lorna Shore",
@@ -1340,7 +1230,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Lorna%20Shore/Pain%20Remains/10-%20Pain%20Remains%20III%20In%20a%20Sea%20of%20Fire.m4a"
   },
   {
-    "id": "135",
+    "id": "124",
     "title": "Romance",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1350,7 +1240,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/01-%20Romance.m4a"
   },
   {
-    "id": "136",
+    "id": "125",
     "title": "Honey, This Mirror Isnt Big Enough for the Two of Us",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1360,7 +1250,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/02-%20Honey,%20This%20Mirror%20Isnt%20Big%20Enough%20for%20the%20Two%20of%20Us.m4a"
   },
   {
-    "id": "137",
+    "id": "126",
     "title": "Vampires Will Never Hurt You",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1370,7 +1260,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/03-%20Vampires%20Will%20Never%20Hurt%20You.m4a"
   },
   {
-    "id": "138",
+    "id": "127",
     "title": "Drowning Lessons",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1380,7 +1270,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/04-%20Drowning%20Lessons.m4a"
   },
   {
-    "id": "139",
+    "id": "128",
     "title": "Our Lady of Sorrows",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1390,7 +1280,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/05-%20Our%20Lady%20of%20Sorrows.m4a"
   },
   {
-    "id": "140",
+    "id": "129",
     "title": "Headfirst for Halos",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1400,7 +1290,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/06-%20Headfirst%20for%20Halos.m4a"
   },
   {
-    "id": "141",
+    "id": "130",
     "title": "Skylines and Turnstiles",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1410,7 +1300,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/07-%20Skylines%20and%20Turnstiles.m4a"
   },
   {
-    "id": "142",
+    "id": "131",
     "title": "Early Sunsets Over Monroeville",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1420,7 +1310,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/08-%20Early%20Sunsets%20Over%20Monroeville.m4a"
   },
   {
-    "id": "143",
+    "id": "132",
     "title": "This Ise the Best Day Ever",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1430,7 +1320,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/09-%20This%20Ise%20the%20Best%20Day%20Ever.m4a"
   },
   {
-    "id": "144",
+    "id": "133",
     "title": "Cubicles",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1440,7 +1330,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/10-%20Cubicles.m4a"
   },
   {
-    "id": "145",
+    "id": "134",
     "title": "Demolition Lovers",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1450,7 +1340,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/I%20Brought%20You%20My%20Bullets,%20You%20Brought%20Me%20Your%20Love/11-%20Demolition%20Lovers.m4a"
   },
   {
-    "id": "146",
+    "id": "135",
     "title": "Helena",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1460,7 +1350,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/01-%20Helena.m4a"
   },
   {
-    "id": "147",
+    "id": "136",
     "title": "Give Em Hell, Kid",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1470,7 +1360,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/02-%20Give%20Em%20Hell,%20Kid.m4a"
   },
   {
-    "id": "148",
+    "id": "137",
     "title": "To the End",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1480,7 +1370,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/03-%20To%20the%20End.m4a"
   },
   {
-    "id": "149",
+    "id": "138",
     "title": "You Know What They Do to Guys Like Us in Prison",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1490,7 +1380,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/04-%20You%20Know%20What%20They%20Do%20to%20Guys%20Like%20Us%20in%20Prison.m4a"
   },
   {
-    "id": "150",
+    "id": "139",
     "title": "Im Not Okay (I Promise)",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1500,7 +1390,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/05-%20Im%20Not%20Okay%20(I%20Promise).m4a"
   },
   {
-    "id": "151",
+    "id": "140",
     "title": "The Ghost of You",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1510,7 +1400,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/06-%20The%20Ghost%20of%20You.m4a"
   },
   {
-    "id": "152",
+    "id": "141",
     "title": "The Jetset Life Is Gonna Kill You",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1520,7 +1410,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/07-%20The%20Jetset%20Life%20Is%20Gonna%20Kill%20You.m4a"
   },
   {
-    "id": "153",
+    "id": "142",
     "title": "Interlude",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1530,7 +1420,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/08-%20Interlude.m4a"
   },
   {
-    "id": "154",
+    "id": "143",
     "title": "Thank You for the Venom",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1540,7 +1430,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/09-%20Thank%20You%20for%20the%20Venom.m4a"
   },
   {
-    "id": "155",
+    "id": "144",
     "title": "Hang Em High",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1550,7 +1440,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/10-%20Hang%20Em%20High.m4a"
   },
   {
-    "id": "156",
+    "id": "145",
     "title": "Its Not a Fashion Statement, Its a Deathwish",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1560,7 +1450,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/11-%20Its%20Not%20a%20Fashion%20Statement,%20Its%20a%20Deathwish.m4a"
   },
   {
-    "id": "157",
+    "id": "146",
     "title": "Cementery Drive",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1570,7 +1460,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/12-%20Cementery%20Drive.m4a"
   },
   {
-    "id": "158",
+    "id": "147",
     "title": "I Never Told You What I Do for a Living",
     "artistIds": "5",
     "artistName": "My Chemical Romance",
@@ -1580,7 +1470,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/My%20Chemical%20Romance/Three%20Cheers%20For%20Sweet%20Revenge/13-%20I%20Never%20Told%20You%20What%20I%20Do%20for%20a%20Living.m4a"
   },
   {
-    "id": "159",
+    "id": "148",
     "title": "Introduction",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1590,7 +1480,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/01-%20Introduction.m4a"
   },
   {
-    "id": "160",
+    "id": "149",
     "title": "The Only Difference Between Martyrdom and Suicide Is Press Coverage",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1600,7 +1490,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/02-%20The%20Only%20Difference%20Between%20Martyrdom%20and%20Suicide%20Is%20Press%20Coverage.m4a"
   },
   {
-    "id": "161",
+    "id": "150",
     "title": "London Beckoned Songs About Money Written by Machines",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1610,7 +1500,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/03-%20London%20Beckoned%20Songs%20About%20Money%20Written%20by%20Machines.m4a"
   },
   {
-    "id": "162",
+    "id": "151",
     "title": "Nails for Breakfast, Tacks for Snacks",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1620,7 +1510,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/04-%20Nails%20for%20Breakfast,%20Tacks%20for%20Snacks.m4a"
   },
   {
-    "id": "163",
+    "id": "152",
     "title": "Camisado",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1630,7 +1520,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/05-%20Camisado.m4a"
   },
   {
-    "id": "164",
+    "id": "153",
     "title": "Time to Dance",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1640,7 +1530,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/06-%20Time%20to%20Dance.m4a"
   },
   {
-    "id": "165",
+    "id": "154",
     "title": "Lying is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1650,17 +1540,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/07-%20Lying%20is%20the%20Most%20Fun%20a%20Girl%20Can%20Have%20Without%20Taking%20Her%20Clothes%20Off.m4a"
   },
   {
-    "id": "166",
-    "title": "Intermission",
-    "artistIds": "6",
-    "artistName": "Panic! at the Disco",
-    "albumId": "16",
-    "numberInAlbum": 8,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/08-%20Intermission.m4a"
-  },
-  {
-    "id": "167",
+    "id": "155",
     "title": "But its Better If You Do",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1670,7 +1550,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/09-%20But%20its%20Better%20If%20You%20Do.m4a"
   },
   {
-    "id": "168",
+    "id": "156",
     "title": "I Write Sins Not Tragedies",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1680,7 +1560,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/10-%20I%20Write%20Sins%20Not%20Tragedies.m4a"
   },
   {
-    "id": "169",
+    "id": "157",
     "title": "I Constantly Thank God for Esteban",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1690,7 +1570,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/11-%20I%20Constantly%20Thank%20God%20for%20Esteban.m4a"
   },
   {
-    "id": "170",
+    "id": "158",
     "title": "Theres a Good Reason These Tables Are Numbered Honey, You Just Havent Thought of It Yet",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1700,7 +1580,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/12-%20Theres%20a%20Good%20Reason%20These%20Tables%20Are%20Numbered%20Honey,%20You%20Just%20Havent%20Thought%20of%20It%20Yet.m4a"
   },
   {
-    "id": "171",
+    "id": "159",
     "title": "Build God, Then Well Talk",
     "artistIds": "6",
     "artistName": "Panic! at the Disco",
@@ -1710,7 +1590,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Panic!%20at%20the%20Disco/A%20Fever%20You%20Cant%20Sweat%20Out/13-%20Build%20God,%20Then%20Well%20Talk.m4a"
   },
   {
-    "id": "172",
+    "id": "160",
     "title": "Chemical Kids and Mechanical Brides",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1720,7 +1600,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/01-%20Chemical%20Kids%20and%20Mechanical%20Brides.m4a"
   },
   {
-    "id": "173",
+    "id": "161",
     "title": "Currents Convulsive",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1730,7 +1610,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/02-%20Currents%20Convulsive.m4a"
   },
   {
-    "id": "174",
+    "id": "162",
     "title": "Yeah Boy and Doll Face",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1740,7 +1620,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/03-%20Yeah%20Boy%20and%20Doll%20Face.m4a"
   },
   {
-    "id": "175",
+    "id": "163",
     "title": "Id Rather Die Than Be Famous",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1750,7 +1630,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/04-%20Id%20Rather%20Die%20Than%20Be%20Famous.m4a"
   },
   {
-    "id": "176",
+    "id": "164",
     "title": "The Cheap Bouquet",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1760,7 +1640,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/05-%20The%20Cheap%20Bouquet.m4a"
   },
   {
-    "id": "177",
+    "id": "165",
     "title": "Falling Asleep on a Stranger",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1770,7 +1650,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/06-%20Falling%20Asleep%20on%20a%20Stranger.m4a"
   },
   {
-    "id": "178",
+    "id": "166",
     "title": "She Sings in the Morning",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1780,7 +1660,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/07-%20She%20Sings%20in%20the%20Morning.m4a"
   },
   {
-    "id": "179",
+    "id": "167",
     "title": "The Balcony Scene",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1790,7 +1670,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/08-%20The%20Balcony%20Scene.m4a"
   },
   {
-    "id": "180",
+    "id": "168",
     "title": "Drella",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1800,7 +1680,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/09-%20Drella.m4a"
   },
   {
-    "id": "181",
+    "id": "169",
     "title": "Diamonds and Why Men Buy Them",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1810,7 +1690,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/10-%20Diamonds%20and%20Why%20Men%20Buy%20Them.m4a"
   },
   {
-    "id": "182",
+    "id": "170",
     "title": "Wonderless",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1820,7 +1700,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/A%20Flair%20For%20The%20Dramatic/11-%20Wonderless.m4a"
   },
   {
-    "id": "183",
+    "id": "171",
     "title": "May These Noises Startle You In Your Sleep",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1830,7 +1710,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/01-%20May%20These%20Noises%20Startle%20You%20In%20Your%20Sleep.m4a"
   },
   {
-    "id": "184",
+    "id": "172",
     "title": "Hell Above",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1840,7 +1720,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/02-%20Hell%20Above.m4a"
   },
   {
-    "id": "185",
+    "id": "173",
     "title": "A Match Into Water",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1850,7 +1730,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/03-%20A%20Match%20Into%20Water.m4a"
   },
   {
-    "id": "186",
+    "id": "174",
     "title": "King For A Day",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1860,7 +1740,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/04-%20King%20For%20A%20Day.m4a"
   },
   {
-    "id": "187",
+    "id": "175",
     "title": "Bulls In The Bronx",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1870,7 +1750,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/05-%20Bulls%20In%20The%20Bronx.m4a"
   },
   {
-    "id": "188",
+    "id": "176",
     "title": "Props and Mayhem",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1880,7 +1760,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/06-%20Props%20and%20Mayhem.m4a"
   },
   {
-    "id": "189",
+    "id": "177",
     "title": "Tangled In The Great Escape",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1890,7 +1770,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/07-%20Tangled%20In%20The%20Great%20Escape.m4a"
   },
   {
-    "id": "190",
+    "id": "178",
     "title": "Im Low On Gas And You Need A Jacket",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1900,7 +1780,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/08-%20Im%20Low%20On%20Gas%20And%20You%20Need%20A%20Jacket.m4a"
   },
   {
-    "id": "191",
+    "id": "179",
     "title": "The First Punch",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1910,7 +1790,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/09-%20The%20First%20Punch.m4a"
   },
   {
-    "id": "192",
+    "id": "180",
     "title": "One Hundred Sleepless Nights",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1920,7 +1800,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/10-%20One%20Hundred%20Sleepless%20Nights%20.m4a"
   },
   {
-    "id": "193",
+    "id": "181",
     "title": "Stained Glass Eyes And Colorful Tears",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1930,7 +1810,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/11-%20Stained%20Glass%20Eyes%20And%20Colorful%20Tears.m4a"
   },
   {
-    "id": "194",
+    "id": "182",
     "title": "Hold On Till May",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1940,7 +1820,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Collide%20With%20The%20Sky/12-%20Hold%20On%20Till%20May.m4a"
   },
   {
-    "id": "195",
+    "id": "183",
     "title": "Dive In",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1950,7 +1830,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/01-%20Dive%20In.m4a"
   },
   {
-    "id": "196",
+    "id": "184",
     "title": "Texas is Forever",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1960,7 +1840,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/02-%20Texas%20is%20Forever.m4a"
   },
   {
-    "id": "197",
+    "id": "185",
     "title": "The Divine Zero",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1970,7 +1850,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/03-%20The%20Divine%20Zero.m4a"
   },
   {
-    "id": "198",
+    "id": "186",
     "title": "Floral and Fading",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1980,7 +1860,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/04-%20Floral%20and%20Fading.m4a"
   },
   {
-    "id": "199",
+    "id": "187",
     "title": "Phantom Power And Ludicrous Speed",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -1990,7 +1870,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/05-%20Phantom%20Power%20And%20Ludicrous%20Speed.m4a"
   },
   {
-    "id": "200",
+    "id": "188",
     "title": "Circles",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2000,7 +1880,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/06-%20Circles.m4a"
   },
   {
-    "id": "201",
+    "id": "189",
     "title": "Today I Saw The Whole World",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2010,7 +1890,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/07-%20Today%20I%20Saw%20The%20Whole%20World.m4a"
   },
   {
-    "id": "202",
+    "id": "190",
     "title": "Gold Medal Ribbon",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2020,7 +1900,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/08-%20Gold%20Medal%20Ribbon.m4a"
   },
   {
-    "id": "203",
+    "id": "191",
     "title": "Bedless",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2030,7 +1910,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/09-%20Bedless.m4a"
   },
   {
-    "id": "204",
+    "id": "192",
     "title": "Sambuka",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2040,7 +1920,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/10-%20Sambuka.m4a"
   },
   {
-    "id": "205",
+    "id": "193",
     "title": "Song For Isabelle",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2050,7 +1930,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Misadventures/11-%20Song%20For%20Isabelle.m4a"
   },
   {
-    "id": "206",
+    "id": "194",
     "title": "Besitos",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2060,7 +1940,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/01-%20Besitos.m4a"
   },
   {
-    "id": "207",
+    "id": "195",
     "title": "Southern Constellations",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2070,7 +1950,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/02-%20Southern%20Constellations.m4a"
   },
   {
-    "id": "208",
+    "id": "196",
     "title": "The Boy Who Could Fly",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2080,7 +1960,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/03-%20The%20Boy%20Who%20Could%20Fly.m4a"
   },
   {
-    "id": "209",
+    "id": "197",
     "title": "Caraphernelia",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2090,7 +1970,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/04-%20Caraphernelia.m4a"
   },
   {
-    "id": "210",
+    "id": "198",
     "title": "Fast Times at Clairmont High",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2100,7 +1980,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/05-%20Fast%20Times%20at%20Clairmont%20High.m4a"
   },
   {
-    "id": "211",
+    "id": "199",
     "title": "The New National Anthem",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2110,7 +1990,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/06-%20The%20New%20National%20Anthem.m4a"
   },
   {
-    "id": "212",
+    "id": "200",
     "title": "Bulletproof Love",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2120,7 +2000,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/07-%20Bulletproof%20Love.m4a"
   },
   {
-    "id": "213",
+    "id": "201",
     "title": "Stay Away from My Friends",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2130,7 +2010,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/08-%20Stay%20Away%20from%20My%20Friends.m4a"
   },
   {
-    "id": "214",
+    "id": "202",
     "title": "I Dont Care If Youre Contagious",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2140,7 +2020,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/09-%20I%20Dont%20Care%20If%20Youre%20Contagious.m4a"
   },
   {
-    "id": "215",
+    "id": "203",
     "title": "Disasterology",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2150,7 +2030,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/10-%20Disasterology.m4a"
   },
   {
-    "id": "216",
+    "id": "204",
     "title": "Million Dollar Houses (The Painter)",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2160,7 +2040,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/11-%20Million%20Dollar%20Houses%20(The%20Painter).m4a"
   },
   {
-    "id": "217",
+    "id": "205",
     "title": "The Sky Under the Sea",
     "artistIds": "7",
     "artistName": "Pierce The Veil",
@@ -2170,7 +2050,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Pierce%20The%20Veil/Selfish%20Machines/12-%20The%20Sky%20Under%20the%20Sea.m4a"
   },
   {
-    "id": "218",
+    "id": "206",
     "title": "Harbinger",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2180,7 +2060,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/01-%20Harbinger.m4a"
   },
   {
-    "id": "219",
+    "id": "207",
     "title": "Nightmare",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2190,7 +2070,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/02-%20Nightmare.m4a"
   },
   {
-    "id": "220",
+    "id": "208",
     "title": "Parasites",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2200,7 +2080,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/03-%20Parasites.m4a"
   },
   {
-    "id": "221",
+    "id": "209",
     "title": "Overflow",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2210,7 +2090,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/04-%20Overflow.m4a"
   },
   {
-    "id": "222",
+    "id": "210",
     "title": "With Regards",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2220,7 +2100,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/05-%20With%20Regards.m4a"
   },
   {
-    "id": "223",
+    "id": "211",
     "title": "Inhumane",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2230,7 +2110,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/06-%20Inhumane.m4a"
   },
   {
-    "id": "224",
+    "id": "212",
     "title": "The Crossfire",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2240,7 +2120,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/07-%20The%20Crossfire.m4a"
   },
   {
-    "id": "225",
+    "id": "213",
     "title": "Dissipate",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2250,7 +2130,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/08-%20Dissipate.m4a"
   },
   {
-    "id": "226",
+    "id": "214",
     "title": "Aftertouch",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2260,7 +2140,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/09-%20Aftertouch.m4a"
   },
   {
-    "id": "227",
+    "id": "215",
     "title": "Fault Line",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2270,7 +2150,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/10-%20Fault%20Line.m4a"
   },
   {
-    "id": "228",
+    "id": "216",
     "title": "All In Vain",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2280,7 +2160,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/Fatalism/11-%20All%20In%20Vain.m4a"
   },
   {
-    "id": "229",
+    "id": "217",
     "title": "Pray for Rain",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2290,7 +2170,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/01-%20Pray%20for%20Rain.m4a"
   },
   {
-    "id": "230",
+    "id": "218",
     "title": "Hypermania",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2300,7 +2180,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/02-%20Hypermania.m4a"
   },
   {
-    "id": "231",
+    "id": "219",
     "title": "Masochist",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2310,7 +2190,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/03-%20Masochist.m4a"
   },
   {
-    "id": "232",
+    "id": "220",
     "title": "Landmine",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2320,7 +2200,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/04-%20Landmine.m4a"
   },
   {
-    "id": "233",
+    "id": "221",
     "title": "Vagabond",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2330,7 +2210,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/05-%20Vagabond.m4a"
   },
   {
-    "id": "234",
+    "id": "222",
     "title": "Creatures of Habit",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2340,7 +2220,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/06-%20Creatures%20of%20Habit.m4a"
   },
   {
-    "id": "235",
+    "id": "223",
     "title": "Above My Head",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2350,7 +2230,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/07-%20Above%20My%20Head.m4a"
   },
   {
-    "id": "236",
+    "id": "224",
     "title": "Martyr (Waves)",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2360,7 +2240,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/08-%20Martyr%20(Waves).m4a"
   },
   {
-    "id": "237",
+    "id": "225",
     "title": "All of this Is Fleeting",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2370,7 +2250,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/09-%20All%20of%20this%20Is%20Fleeting.m4a"
   },
   {
-    "id": "238",
+    "id": "226",
     "title": "The Descent",
     "artistIds": "8",
     "artistName": "Polaris",
@@ -2380,7 +2260,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Polaris/The%20Death%20Of%20Me/10-%20The%20Descent.m4a"
   },
   {
-    "id": "239",
+    "id": "227",
     "title": "(515)",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2390,7 +2270,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/01-%20(515).m4a"
   },
   {
-    "id": "240",
+    "id": "228",
     "title": "People = Shit",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2400,7 +2280,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/02-%20People%20=%20Shit.m4a"
   },
   {
-    "id": "241",
+    "id": "229",
     "title": "Disasterpiece",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2410,7 +2290,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/03-%20Disasterpiece.m4a"
   },
   {
-    "id": "242",
+    "id": "230",
     "title": "My Plague",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2420,7 +2300,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/04-%20My%20Plague.m4a"
   },
   {
-    "id": "243",
+    "id": "231",
     "title": "Everything Ends",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2430,7 +2310,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/05-%20Everything%20Ends.m4a"
   },
   {
-    "id": "244",
+    "id": "232",
     "title": "The Heretic Anthem",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2440,7 +2320,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/06-%20The%20Heretic%20Anthem.m4a"
   },
   {
-    "id": "245",
+    "id": "233",
     "title": "Gently",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2450,7 +2330,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/07-%20Gently.m4a"
   },
   {
-    "id": "246",
+    "id": "234",
     "title": "Left Behind",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2460,7 +2340,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/08-%20Left%20Behind.m4a"
   },
   {
-    "id": "247",
+    "id": "235",
     "title": "The Shape",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2470,7 +2350,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/09-%20The%20Shape.m4a"
   },
   {
-    "id": "248",
+    "id": "236",
     "title": "I Am Hated",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2480,7 +2360,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/10-%20I%20Am%20Hated.m4a"
   },
   {
-    "id": "249",
+    "id": "237",
     "title": "Skin Ticket",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2490,7 +2370,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/11-%20Skin%20Ticket.m4a"
   },
   {
-    "id": "250",
+    "id": "238",
     "title": "New Abortion",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2500,7 +2380,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/12-%20New%20Abortion.m4a"
   },
   {
-    "id": "251",
+    "id": "239",
     "title": "Metabolic",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2510,17 +2390,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/13-%20Metabolic.m4a"
   },
   {
-    "id": "252",
-    "title": "Iowa",
-    "artistIds": "9",
-    "artistName": "Slipknot",
-    "albumId": "23",
-    "numberInAlbum": 14,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Iowa/14-%20Iowa.m4a"
-  },
-  {
-    "id": "253",
+    "id": "240",
     "title": "742617000027",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2530,7 +2400,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/01-%20742617000027.m4a"
   },
   {
-    "id": "254",
+    "id": "241",
     "title": "(sic)",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2540,7 +2410,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/02-%20(sic).m4a"
   },
   {
-    "id": "255",
+    "id": "242",
     "title": "Eyeless",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2550,7 +2420,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/03-%20Eyeless.m4a"
   },
   {
-    "id": "256",
+    "id": "243",
     "title": "Wait and Bleed",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2560,7 +2430,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/04-%20Wait%20and%20Bleed.m4a"
   },
   {
-    "id": "257",
+    "id": "244",
     "title": "Surfacing",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2570,7 +2440,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/05-%20Surfacing.m4a"
   },
   {
-    "id": "258",
+    "id": "245",
     "title": "Spit It Out",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2580,7 +2450,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/06-%20Spit%20It%20Out.m4a"
   },
   {
-    "id": "259",
+    "id": "246",
     "title": "Tattered and Torn",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2590,17 +2460,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/07-%20Tattered%20and%20Torn.m4a"
   },
   {
-    "id": "260",
-    "title": "Purity",
-    "artistIds": "9",
-    "artistName": "Slipknot",
-    "albumId": "24",
-    "numberInAlbum": 8,
-    "cover": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/cover.png",
-    "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/08-%20Purity.m4a"
-  },
-  {
-    "id": "261",
+    "id": "247",
     "title": "Liberate",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2610,7 +2470,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/09-%20Liberate.m4a"
   },
   {
-    "id": "262",
+    "id": "248",
     "title": "Prosthetics",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2620,7 +2480,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/10-%20Prosthetics.m4a"
   },
   {
-    "id": "263",
+    "id": "249",
     "title": "No Life",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2630,7 +2490,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/11-%20No%20Life.m4a"
   },
   {
-    "id": "264",
+    "id": "250",
     "title": "Diluted",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2640,7 +2500,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/12-%20Diluted.m4a"
   },
   {
-    "id": "265",
+    "id": "251",
     "title": "Only One",
     "artistIds": "9",
     "artistName": "Slipknot",
@@ -2650,7 +2510,7 @@
     "url": "https://riuihnpygnrypkyjdvfv.supabase.co/storage/v1/object/public/music/Slipknot/Slipknot/13-%20Only%20One.m4a"
   },
   {
-    "id": "266",
+    "id": "252",
     "title": "Scissors",
     "artistIds": "9",
     "artistName": "Slipknot",
