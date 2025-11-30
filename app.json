@@ -12,6 +12,7 @@
       "resizeMode": "cover",
       "backgroundColor": "#000000"
     },
+    
     "ios": {
       "supportsTablet": true
     },
@@ -34,6 +35,17 @@
       "eas": {
         "projectId": "e542f21d-0e3b-4a60-b0b4-c95730bbcebf"
       }
-    }
+    },
+    "plugins": [
+      [
+        "expo-av",
+        {
+          "android": {
+            "usesForegroundService": true
+          }
+        }
+      ]
+    ]
   }
 }
+

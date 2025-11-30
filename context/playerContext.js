@@ -21,6 +21,23 @@ export function PlayerProvider({ children }) {
 
   const fixWebUrl = (url) => url?.split(" ").join("%20");
 
+  useEffect(() => {
+    async function setupAudioMode() {
+      try {
+        await Audio.setAudioModeAsync({
+          staysActiveInBackground: true,
+          interruptionModeAndroid: Audio.INTERRUPTION_MODE_ANDROID_DO_NOT_MIX,
+          shouldDuckAndroid: false,
+          playThroughEarpieceAndroid: false
+        });
+      } catch (e) {
+        console.log("Error setting audio mode:", e);
+      }
+    }
+
+    setupAudioMode();
+  }, []);
+
   const getAudioSource = (song) => ({ uri: fixWebUrl(song.url) });
 
   const setVolume = async (value) => {
