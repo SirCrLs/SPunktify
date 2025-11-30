@@ -1,4 +1,4 @@
-import React, { createContext, useState, useRef } from "react";
+import React, { createContext, useState, useRef,useEffect } from "react";
 import { Audio } from "expo-av";
 
 export const PlayerContext = createContext();
