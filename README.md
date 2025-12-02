@@ -1,7 +1,7 @@
 # SPunktify
 a mobile app similar to spotify
 This is a step by step guide to make it work locally
-![texto alternativo](./imgHome.png)
+![texto alternativo](./assets/imgHome.png)
 
 1. install this dependencies:
     ├── @react-native-async-storage/async-storage@2.2.0
