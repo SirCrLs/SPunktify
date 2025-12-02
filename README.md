@@ -1,11 +1,7 @@
-# 🎵 **SPunktify**
+# **SPunktify**
 A mobile application inspired by Spotify, built with **React Native + Expo**.
 
-This repository contains everything you need to run the app locally.
 
----
-
-## 📱 **Preview**
 <p align="center">
   <img src="./assets/imghome.png" width="230"/>
   <img src="./assets/imgSongs.png" width="230"/>
@@ -17,20 +13,22 @@ This repository contains everything you need to run the app locally.
 
 ---
 
-## 🚀 **Installation**
+## **Installation**
 
-### 1️⃣ Install Dependencies
+### Dependencies
 
 ```bash
 ├── @react-native-async-storage/async-storage@2.2.0
 ├── @react-native-community/slider@5.1.1
 ├── @react-navigation/native-stack@7.6.4
 ├── @react-navigation/native@7.1.21
+├── @supabase/supabase-js@2.86.0
 ├── add@2.0.6
 ├── AsyncStorage@0.1.5
 ├── concurrently@9.2.1
 ├── cors@2.8.5
 ├── expo-av@16.0.7
+├── expo-dev-client@6.0.18
 ├── expo-status-bar@3.0.8
 ├── expo@54.0.25
 ├── express@5.1.0
@@ -41,19 +39,23 @@ This repository contains everything you need to run the app locally.
 ├── react-native@0.81.5
 └── react@19.1.0
 ```
+The music its located on an external server on supabase.com
 
-2. The music its located on an external server on supabase.com, before this change it was 100% local so you dont have to do anything on this step
-
-3.  run generate script that is located in /data/generate.js
-    Terminal:
-        SPunktify> cd data
-        SPunktify/data> node generate.js
-        [LOG] Listo! JSONs generados ✔   (JSONs generated)
+## run generate script that is located in /data/generate.js
+  ```bash
+SPunktify> cd data
+SPunktify/data> node generate.js
+[LOG] Listo! JSONs generados ✔   (JSONs generated)
+```
     
 
-4.  Start Expo GO
-    Terminal:
-            SPunktify> npx expo start
+## Start Expo GO or install APK
+```bash
+SPunktify> npx expo start
 
+or
+
+go to https://expo.dev/accounts/sircrls/projects/SPunktify/builds/b4adba4c-ce43-4dc5-9234-496d9bf44ede and install APK
+```
 For now, I think its everything you need to do for you to run SPunktify locally. Thanks.
 
